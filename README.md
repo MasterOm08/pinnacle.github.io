@@ -1,4 +1,6 @@
-# pinnacle.github.io
+# PadhoPlay - A Gamified Education Application For Rural Kids
+
+
 # 💫 About Me:
 BTech Student '28 @ Atlas Skilltech University
 
