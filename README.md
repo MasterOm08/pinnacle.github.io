@@ -1,4 +1,4 @@
-# PadhoPlay - A Gamified Education Application For Rural Kids
+# PadhoPlay - A Gamified Education Application For Rural Education
 
 
 # 💫 About Me:
