@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 # PadhoPlay - A Gamified Education Application For Rural Education
