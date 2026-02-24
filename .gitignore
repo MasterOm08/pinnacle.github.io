@@ -1,21 +1,18 @@
-# Flutter / Dart
-.dart_tool/
-.packages
-.pub/
+# Flutter
 build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
 
-# Android
-android/.gradle/
-android/local.properties
-android/app/build/
+# Env files
+.env
+.env.*
 
-# iOS
-ios/Pods/
-ios/.symlinks/
-ios/Flutter/Flutter.framework
-ios/Flutter/Flutter.podspec
-ios/Flutter/App.framework
+# OS
+.DS_Store
+Thumbs.db
 
-# IDE
-.vscode/
-.idea/
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
