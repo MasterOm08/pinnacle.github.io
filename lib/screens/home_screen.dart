@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test1/screens/math_screen.dart';
 import 'package:flutter_test1/screens/science_screen.dart';
 import 'package:flutter_test1/screens/english_screen.dart';
+import '../screens/question_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -59,7 +60,7 @@ class HomeScreen extends StatelessWidget {
                     Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (_) => const MathScreen(),
+                      builder: (_) => const QuestionScreen(),
                       ),
                     );
                   },
