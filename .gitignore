@@ -1,18 +1,44 @@
-# Flutter
-build/
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.packages
-
-# Env files
-.env
-.env.*
-
-# OS
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
 .DS_Store
-Thumbs.db
+.atom/
+.buildlog/
+.history
+.svn/
+.vscode/
 
-# Firebase
-android/app/google-services.json
-ios/Runner/GoogleService-Info.plist
+# Project files
+.metadata
+.packages
+.project
+.pub-cache/
+.pub/
+/build/
+
+# Android-specific
+/android/app/local.properties
+/android/app/GeneratedPluginRegistrant.java
+/android/.gradle/
+/android/sdk.dir
+/android/local.properties
+
+# iOS-specific
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/App.framework
+/ios/Flutter/App.structurereport
+/ios/Flutter/GeneratedPluginRegistrant.h
+/ios/Flutter/GeneratedPluginRegistrant.m
+
+# Firebase / Secret files
+# DO NOT commit your service account keys!
+google-services.json
+GoogleService-Info.plist
+*firebase_options.dart
+
+# Tooling
+.dart_tool/
