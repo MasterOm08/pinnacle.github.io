@@ -91,7 +91,7 @@ function renderRoleSelection() {
           <span data-i18n="role-student">${dictionary[currentLang]['role-student']}</span>
         </button>
         
-        <button class="btn btn-danger" style="width: 80%; padding: 1.5rem; font-size: 1.5rem;" onclick="navigateToTeacherDashboard()">
+        <button class="btn btn-danger" style="width: 80%; padding: 1.5rem; font-size: 1.5rem;" onclick="renderTeacherLogin()">
           <svg style="margin-right: 10px;" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"></path><path d="M6 12v5c3 3 9 3 12 0v-5"></path></svg>
           <span data-i18n="role-teacher">${dictionary[currentLang]['role-teacher']}</span>
         </button>
@@ -159,7 +159,7 @@ window.addPinDigit = function(digit) {
       setTimeout(() => {
         getStudentByPin(window.currentPin).then(student => {
           if (student || window.currentPin === '1234') {
-            window.currentStudent = student || { name: 'Demo Student' };
+            window.currentStudent = student || { name: 'Demo Student', grade: 1 };
             playVoiceOver("Welcome " + window.currentStudent.name + "!");
             renderSubjectSelect(); // Navigate to Subject Select instead of map
           } else {
@@ -184,6 +184,64 @@ window.clearPin = function() {
   }
 };
 
+// Teacher Login & Reg Views
+window.renderTeacherLogin = function() {
+  const main = document.getElementById('main-content');
+  main.innerHTML = `
+    <div id="teacher-login-view" class="view active-view" style="text-align: center;">
+      <h2 style="font-size: 2rem; margin-bottom: 2rem;">Teacher Login</h2>
+      <div style="display: flex; flex-direction: column; gap: 1rem; max-width: 300px; margin: 0 auto;">
+        <input id="teacher-pin-login" type="text" placeholder="Enter Your PIN" maxlength="4" style="padding: 1rem; border-radius: 8px; border: 1px solid #ccc; font-size: 1.2rem;">
+        <button class="btn btn-danger" onclick="submitTeacherLogin()" style="padding: 1rem; font-size: 1.2rem; margin-top: 1rem;">Login</button>
+        <button class="btn btn-secondary" onclick="renderRoleSelection()">Back</button>
+        <button class="btn" style="background:transparent; color: var(--primary-red); text-decoration: underline; margin-top: 1rem;" onclick="renderTeacherRegistration()">New Teacher? Register Taught Grade</button>
+      </div>
+    </div>
+  `;
+}
+
+window.submitTeacherLogin = function() {
+  const pin = document.getElementById('teacher-pin-login').value;
+  getTeacherByPin(pin).then(t => {
+     if(t) {
+        window.currentTeacher = t;
+        navigateToTeacherDashboard();
+     } else {
+        alert("Teacher PIN not found.");
+     }
+  });
+}
+
+window.renderTeacherRegistration = function() {
+  const main = document.getElementById('main-content');
+  main.innerHTML = `
+    <div id="teacher-reg-view" class="view active-view" style="text-align: center;">
+      <h2 style="font-size: 2rem; margin-bottom: 2rem;">Teacher Registration</h2>
+      <div style="display: flex; flex-direction: column; gap: 1rem; max-width: 300px; margin: 0 auto;">
+        <input id="treg-name" type="text" placeholder="Name" style="padding: 1rem; border-radius: 8px; border: 1px solid #ccc; font-size: 1.2rem;">
+        <select id="treg-grade" style="padding: 1rem; border-radius: 8px; border: 1px solid #ccc; font-size: 1.2rem;">
+           <option value="" disabled selected>Select Grade Taught</option>
+           ${[1,2,3,4,5,6].map(g => `<option value="${g}">Grade ${g}</option>`).join('')}
+        </select>
+        <input id="treg-pin" type="text" placeholder="Create 4-Digit PIN" maxlength="4" style="padding: 1rem; border-radius: 8px; border: 1px solid #ccc; font-size: 1.2rem;">
+        <button class="btn btn-danger" onclick="submitTeacherRegistration()" style="padding: 1rem; font-size: 1.2rem; margin-top: 1rem;">Register</button>
+        <button class="btn btn-secondary" onclick="renderTeacherLogin()">Back</button>
+      </div>
+    </div>
+  `;
+}
+
+window.submitTeacherRegistration = function() {
+  const name = document.getElementById('treg-name').value;
+  const grade = document.getElementById('treg-grade').value;
+  const pin = document.getElementById('treg-pin').value;
+  if(!name || !grade || pin.length !== 4) return alert("Fill all fields correctly with a 4-digit PIN!");
+  addTeacher(name, grade, pin).then(() => {
+    alert("Teacher registered!");
+    renderTeacherLogin();
+  });
+}
+
 // Student Registration View
 window.renderStudentRegistration = function() {
   const main = document.getElementById('main-content');
@@ -193,6 +251,10 @@ window.renderStudentRegistration = function() {
       <div style="display: flex; flex-direction: column; gap: 1rem; max-width: 300px; margin: 0 auto;">
         <input id="reg-name" type="text" placeholder="Name" style="padding: 1rem; border-radius: 8px; border: 1px solid #ccc; font-size: 1.2rem;">
         <input id="reg-roll" type="text" placeholder="Roll Number" style="padding: 1rem; border-radius: 8px; border: 1px solid #ccc; font-size: 1.2rem;">
+        <select id="reg-grade" style="padding: 1rem; border-radius: 8px; border: 1px solid #ccc; font-size: 1.2rem;">
+           <option value="" disabled selected>Select Grade</option>
+           ${[1,2,3,4,5,6].map(g => `<option value="${g}">Grade ${g}</option>`).join('')}
+        </select>
         <input id="reg-pin" type="text" placeholder="Create 4-Digit PIN" maxlength="4" style="padding: 1rem; border-radius: 8px; border: 1px solid #ccc; font-size: 1.2rem;">
         <button class="btn btn-primary" onclick="submitRegistration()" style="padding: 1rem; font-size: 1.2rem; margin-top: 1rem;">Register</button>
         <button class="btn btn-secondary" onclick="renderStudentLogin()">Back</button>
@@ -204,12 +266,13 @@ window.renderStudentRegistration = function() {
 window.submitRegistration = function() {
   const name = document.getElementById('reg-name').value;
   const roll = document.getElementById('reg-roll').value;
+  const grade = document.getElementById('reg-grade').value;
   const pin = document.getElementById('reg-pin').value;
-  if(!name || !roll || pin.length !== 4) {
-    alert("Please fill all fields and use a 4-digit PIN");
+  if(!name || !roll || !grade || pin.length !== 4) {
+    alert("Please fill all fields natively and use a 4-digit PIN");
     return;
   }
-  addStudent(name, roll, pin).then(() => {
+  addStudent(name, roll, pin, grade).then(() => {
     alert("Registered successfully! Please login.");
     renderStudentLogin();
   });
@@ -294,15 +357,16 @@ function renderStudentMap() {
 
 function renderDashboard() {
   const main = document.getElementById('main-content');
+  const tGrade = window.currentTeacher?.grade || "?";
   main.innerHTML = `
     <div id="teacher-dashboard-view" class="view active-view">
-      <h2 data-i18n="dashboard-title">${dictionary[currentLang]['dashboard-title']}</h2>
+      <h2 data-i18n="dashboard-title">${dictionary[currentLang]['dashboard-title']} - Grade ${tGrade}</h2>
       <div style="background: var(--bg-blueish); padding: 1rem; border-radius: var(--radius-md); margin-top: 1rem;">
-        <h3>Registered Students</h3>
+        <h3>My Registered Students (Grade ${tGrade})</h3>
         <div id="student-list" style="text-align:left; max-height: 200px; overflow-y: auto; background: white; padding: 1rem; border-radius: 8px;">Loading students...</div>
       </div>
       <div style="text-align: center; margin-top: 2rem;">
-        <button class="btn btn-secondary" onclick="renderRoleSelection()">Back</button>
+        <button class="btn btn-secondary" onclick="renderRoleSelection()">Sign Out</button>
       </div>
     </div>
   `;
@@ -313,9 +377,10 @@ function renderDashboard() {
   const store = transaction.objectStore('users');
   const request = store.getAll();
   request.onsuccess = () => {
-    const students = request.result.filter(u => u.role === 'student');
+    const targetGrade = window.currentTeacher?.grade;
+    const students = request.result.filter(u => u.role === 'student' && u.grade === targetGrade);
     const listHtml = students.map(s => `<p style="border-bottom: 1px solid #ccc; padding-bottom: 0.5rem;"><b>${s.name}</b> (Roll: ${s.rollNo}) <br> <small>PIN: ${s.pin}</small></p>`).join('');
-    document.getElementById('student-list').innerHTML = students.length ? listHtml : '<p>No students registered yet.</p>';
+    document.getElementById('student-list').innerHTML = students.length ? listHtml : '<p>No students registered for this grade yet.</p>';
   };
 }
 
@@ -328,7 +393,7 @@ function startLesson(lessonId) {
   const request = store.getAll();
   
   request.onsuccess = () => {
-    const targetLesson = request.result.find(l => l.lesson === lessonId && l.subject === window.currentSubject);
+    const targetLesson = request.result.find(l => l.lesson === lessonId && l.subject === window.currentSubject && l.grade === window.currentStudent.grade);
     if (!targetLesson) {
        playVoiceOver("This lesson is not ready yet!");
        alert("No questions seeded for this subject/lesson yet!");

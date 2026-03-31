@@ -1,14 +1,16 @@
-const CACHE_NAME = 'padhoplay-cache-v1';
+const CACHE_NAME = 'padhoplay-cache-v4';
 const urlsToCache = [
   './',
   './index.html',
   './style.css',
   './app.js',
   './db.js',
-  './manifest.json'
+  './manifest.json',
+  './rural_questions_dataset_unique (1).csv'
 ];
 
 self.addEventListener('install', event => {
+  self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then(cache => {
@@ -32,6 +34,7 @@ self.addEventListener('fetch', event => {
 });
 
 self.addEventListener('activate', event => {
+  event.waitUntil(self.clients.claim());
   const cacheWhitelist = [CACHE_NAME];
   event.waitUntil(
     caches.keys().then(cacheNames => {
