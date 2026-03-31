@@ -1,0 +1,2701 @@
+id,grade,subject,unit,lesson,question_number,question
+1,1,Math,1,1,1,Calculate 4 + 10.
+2,1,Math,1,1,2,Calculate 5 + 9.
+3,1,Math,1,1,3,Calculate 2 + 2.
+4,1,Math,1,1,4,Calculate 5 + 8.
+5,1,Math,1,1,5,Calculate 9 + 5.
+6,1,Math,1,2,1,Calculate 3 - 3.
+7,1,Math,1,2,2,Calculate 9 + 3.
+8,1,Math,1,2,3,Calculate 9 - 8.
+9,1,Math,1,2,4,Calculate 9 - 3.
+10,1,Math,1,2,5,Calculate 10 + 6.
+11,1,Math,1,3,1,Calculate 7 - 5.
+12,1,Math,1,3,2,Calculate 6 - 4.
+13,1,Math,1,3,3,Calculate 6 + 1.
+14,1,Math,1,3,4,Calculate 5 - 4.
+15,1,Math,1,3,5,Calculate 3 + 4.
+16,1,Math,2,1,1,Calculate 8 + 10.
+17,1,Math,2,1,2,Calculate 1 + 2.
+18,1,Math,2,1,3,Calculate 7 + 2.
+19,1,Math,2,1,4,Calculate 5 + 2.
+20,1,Math,2,1,5,Calculate 1 + 3.
+21,1,Math,2,2,1,Calculate 6 - 2.
+22,1,Math,2,2,2,Calculate 9 + 6.
+23,1,Math,2,2,3,Calculate 8 + 3.
+24,1,Math,2,2,4,Calculate 6 + 2.
+25,1,Math,2,2,5,Calculate 4 + 7.
+26,1,Math,2,3,1,Calculate 3 + 6.
+27,1,Math,2,3,2,Calculate 3 + 10.
+28,1,Math,2,3,3,Calculate 8 + 1.
+29,1,Math,2,3,4,Calculate 2 - 1.
+30,1,Math,2,3,5,Calculate 9 - 9.
+31,1,Math,3,1,1,Calculate 6 + 3.
+32,1,Math,3,1,2,Calculate 1 + 1.
+33,1,Math,3,1,3,Calculate 5 + 4.
+34,1,Math,3,1,4,Calculate 8 - 3.
+35,1,Math,3,1,5,Calculate 9 + 2.
+36,1,Math,3,2,1,Calculate 10 + 10.
+37,1,Math,3,2,2,Calculate 6 - 5.
+38,1,Math,3,2,3,Calculate 6 + 8.
+39,1,Math,3,2,4,Calculate 6 + 6.
+40,1,Math,3,2,5,Calculate 4 - 1.
+41,1,Math,3,3,1,Calculate 7 + 6.
+42,1,Math,3,3,2,Calculate 5 + 3.
+43,1,Math,3,3,3,Calculate 7 + 9.
+44,1,Math,3,3,4,Calculate 10 + 4.
+45,1,Math,3,3,5,Calculate 3 + 7.
+46,1,Math,4,1,1,Calculate 9 - 2.
+47,1,Math,4,1,2,Calculate 9 - 6.
+48,1,Math,4,1,3,Calculate 3 + 3.
+49,1,Math,4,1,4,Calculate 7 - 3.
+50,1,Math,4,1,5,Calculate 9 + 7.
+51,1,Math,4,2,1,Calculate 4 - 3.
+52,1,Math,4,2,2,Calculate 7 - 6.
+53,1,Math,4,2,3,Calculate 3 - 1.
+54,1,Math,4,2,4,Calculate 4 - 2.
+55,1,Math,4,2,5,Calculate 6 - 1.
+56,1,Math,4,3,1,Calculate 8 - 6.
+57,1,Math,4,3,2,Calculate 9 + 10.
+58,1,Math,4,3,3,Calculate 10 - 6.
+59,1,Math,4,3,4,Calculate 6 + 9.
+60,1,Math,4,3,5,Calculate 7 + 7.
+61,1,Math,5,1,1,Calculate 10 + 9.
+62,1,Math,5,1,2,Calculate 10 + 8.
+63,1,Math,5,1,3,Calculate 8 - 8.
+64,1,Math,5,1,4,Calculate 7 - 4.
+65,1,Math,5,1,5,Calculate 10 - 3.
+66,1,Math,5,2,1,Calculate 8 + 9.
+67,1,Math,5,2,2,Calculate 8 - 1.
+68,1,Math,5,2,3,Calculate 6 + 4.
+69,1,Math,5,2,4,Calculate 2 - 2.
+70,1,Math,5,2,5,Calculate 10 + 3.
+71,1,Math,5,3,1,Calculate 7 - 1.
+72,1,Math,5,3,2,Calculate 4 + 6.
+73,1,Math,5,3,3,Calculate 7 + 8.
+74,1,Math,5,3,4,Calculate 1 + 10.
+75,1,Math,5,3,5,Calculate 2 + 6.
+76,1,Math,6,1,1,Calculate 6 + 10.
+77,1,Math,6,1,2,Calculate 1 + 4.
+78,1,Math,6,1,3,Calculate 8 + 2.
+79,1,Math,6,1,4,Calculate 9 - 7.
+80,1,Math,6,1,5,Calculate 5 + 6.
+81,1,Math,6,2,1,Calculate 4 + 8.
+82,1,Math,6,2,2,Calculate 4 + 2.
+83,1,Math,6,2,3,Calculate 9 - 5.
+84,1,Math,6,2,4,Calculate 2 + 8.
+85,1,Math,6,2,5,Calculate 8 - 7.
+86,1,Math,6,3,1,Calculate 2 + 4.
+87,1,Math,6,3,2,Calculate 4 + 4.
+88,1,Math,6,3,3,Calculate 2 + 5.
+89,1,Math,6,3,4,Calculate 7 + 10.
+90,1,Math,6,3,5,Calculate 1 - 1.
+91,1,Math,7,1,1,Calculate 9 - 4.
+92,1,Math,7,1,2,Calculate 1 + 5.
+93,1,Math,7,1,3,Calculate 5 + 5.
+94,1,Math,7,1,4,Calculate 3 - 2.
+95,1,Math,7,1,5,Calculate 6 - 6.
+96,1,Math,7,2,1,Calculate 3 + 2.
+97,1,Math,7,2,2,Calculate 2 + 7.
+98,1,Math,7,2,3,Calculate 9 + 9.
+99,1,Math,7,2,4,Calculate 6 - 3.
+100,1,Math,7,2,5,Calculate 10 + 5.
+101,1,Math,7,3,1,Calculate 3 + 5.
+102,1,Math,7,3,2,Calculate 10 - 5.
+103,1,Math,7,3,3,Calculate 7 + 5.
+104,1,Math,7,3,4,Calculate 3 + 8.
+105,1,Math,7,3,5,Calculate 8 + 7.
+106,1,Math,8,1,1,Calculate 1 + 9.
+107,1,Math,8,1,2,Calculate 10 - 8.
+108,1,Math,8,1,3,Calculate 10 + 1.
+109,1,Math,8,1,4,Calculate 10 - 9.
+110,1,Math,8,1,5,Calculate 10 - 7.
+111,1,Math,8,2,1,Calculate 2 + 9.
+112,1,Math,8,2,2,Calculate 10 - 2.
+113,1,Math,8,2,3,Calculate 1 + 8.
+114,1,Math,8,2,4,Calculate 6 + 7.
+115,1,Math,8,2,5,Calculate 4 - 4.
+116,1,Math,8,3,1,Calculate 9 + 1.
+117,1,Math,8,3,2,Calculate 5 + 10.
+118,1,Math,8,3,3,Calculate 5 - 5.
+119,1,Math,8,3,4,Calculate 7 - 2.
+120,1,Math,8,3,5,Calculate 2 + 3.
+121,1,Math,9,1,1,Calculate 1 + 6.
+122,1,Math,9,1,2,Calculate 4 + 1.
+123,1,Math,9,1,3,Calculate 6 + 5.
+124,1,Math,9,1,4,Calculate 9 + 8.
+125,1,Math,9,1,5,Calculate 9 + 4.
+126,1,Math,9,2,1,Calculate 8 - 5.
+127,1,Math,9,2,2,Calculate 5 - 2.
+128,1,Math,9,2,3,Calculate 5 + 7.
+129,1,Math,9,2,4,Calculate 7 + 3.
+130,1,Math,9,2,5,Calculate 10 + 7.
+131,1,Math,9,3,1,Calculate 5 + 1.
+132,1,Math,9,3,2,Calculate 8 - 4.
+133,1,Math,9,3,3,Calculate 8 + 6.
+134,1,Math,9,3,4,Calculate 2 + 10.
+135,1,Math,9,3,5,Calculate 8 + 4.
+136,1,Math,10,1,1,Calculate 10 + 2.
+137,1,Math,10,1,2,Calculate 7 + 4.
+138,1,Math,10,1,3,Calculate 10 - 1.
+139,1,Math,10,1,4,Calculate 10 - 4.
+140,1,Math,10,1,5,Calculate 2 + 1.
+141,1,Math,10,2,1,Calculate 10 - 10.
+142,1,Math,10,2,2,Calculate 8 - 2.
+143,1,Math,10,2,3,Calculate 4 + 3.
+144,1,Math,10,2,4,Calculate 4 + 9.
+145,1,Math,10,2,5,Calculate 5 - 1.
+146,1,Math,10,3,1,Calculate 4 + 5.
+147,1,Math,10,3,2,Calculate 7 - 7.
+148,1,Math,10,3,3,Calculate 5 - 3.
+149,1,Math,10,3,4,Calculate 9 - 1.
+150,1,Math,10,3,5,Calculate 8 + 8.
+151,1,English,1,1,1,Select the action word: Dog or Table. (Example 986)
+152,1,English,1,1,2,What is the opposite of 'Up'? (Example 752)
+153,1,English,1,1,3,What is the opposite of 'Sit'? (Example 353)
+154,1,English,1,1,4,Select the action word: Jump or Book.
+155,1,English,1,1,5,Pick the noun: Sun or Sing. (Example 306)
+156,1,English,1,2,1,Select the action word: Dog or Cry.
+157,1,English,1,2,2,Select the action word: Run or Eat. (Example 103)
+158,1,English,1,2,3,What is the opposite of 'Sit'? (Example 576)
+159,1,English,1,2,4,Select the action word: Sun or Table.
+160,1,English,1,2,5,What is the opposite of 'Sit'? (Example 587)
+161,1,English,1,3,1,Pick the noun: Jump or Sing.
+162,1,English,1,3,2,Pick the noun: Sun or Sing. (Example 739)
+163,1,English,1,3,3,Pick the noun: Apple or Book.
+164,1,English,1,3,4,Pick the noun: Sun or Table. (Example 478)
+165,1,English,1,3,5,Select the action word: Apple or Table. (Example 532)
+166,1,English,2,1,1,Pick the noun: Apple or Sing. (Example 232)
+167,1,English,2,1,2,What is the opposite of 'Up'? (Example 735)
+168,1,English,2,1,3,Select the action word: Apple or Table. (Example 428)
+169,1,English,2,1,4,Pick the noun: Dog or Cry.
+170,1,English,2,1,5,Pick the noun: Apple or Cry. (Example 167)
+171,1,English,2,2,1,What is the opposite of 'Day'? (Example 612)
+172,1,English,2,2,2,What is the opposite of 'Small'? (Example 782)
+173,1,English,2,2,3,Pick the noun: Apple or Book. (Example 383)
+174,1,English,2,2,4,Select the action word: Dog or Table.
+175,1,English,2,2,5,Pick the noun: Apple or Cry.
+176,1,English,2,3,1,What is the opposite of 'Small'? (Example 471)
+177,1,English,2,3,2,Pick the noun: Sun or Cry. (Example 722)
+178,1,English,2,3,3,What is the opposite of 'Day'? (Example 539)
+179,1,English,2,3,4,Select the action word: Run or Table.
+180,1,English,2,3,5,What is the opposite of 'Up'? (Example 766)
+181,1,English,3,1,1,Pick the noun: Jump or Book. (Example 280)
+182,1,English,3,1,2,Select the action word: Dog or Cry. (Example 465)
+183,1,English,3,1,3,Select the action word: Jump or Sing. (Example 506)
+184,1,English,3,1,4,What is the opposite of 'Up'? (Example 783)
+185,1,English,3,1,5,What is the opposite of 'Day'? (Example 134)
+186,1,English,3,2,1,Pick the noun: Jump or Sing. (Example 144)
+187,1,English,3,2,2,Select the action word: Jump or Cry.
+188,1,English,3,2,3,Pick the noun: Jump or Sing. (Example 187)
+189,1,English,3,2,4,Pick the noun: Jump or Sing. (Example 794)
+190,1,English,3,2,5,Select the action word: Sun or Cry. (Example 125)
+191,1,English,3,3,1,Pick the noun: Run or Cry.
+192,1,English,3,3,2,Select the action word: Dog or Cry. (Example 550)
+193,1,English,3,3,3,What is the opposite of 'Sit'? (Example 468)
+194,1,English,3,3,4,Pick the noun: Jump or Table. (Example 543)
+195,1,English,3,3,5,Select the action word: Apple or Sing. (Example 486)
+196,1,English,4,1,1,Select the action word: Sun or Sing.
+197,1,English,4,1,2,What is the opposite of 'Sit'? (Example 962)
+198,1,English,4,1,3,What is the opposite of 'Hot'?
+199,1,English,4,1,4,Pick the noun: Apple or Table.
+200,1,English,4,1,5,Select the action word: Run or Eat.
+201,1,English,4,2,1,Select the action word: Apple or Table.
+202,1,English,4,2,2,What is the opposite of 'Sit'? (Example 345)
+203,1,English,4,2,3,What is the opposite of 'Up'? (Example 978)
+204,1,English,4,2,4,What is the opposite of 'Day'? (Example 823)
+205,1,English,4,2,5,Pick the noun: Sun or Cry.
+206,1,English,4,3,1,Pick the noun: Jump or Book.
+207,1,English,4,3,2,What is the opposite of 'Up'?
+208,1,English,4,3,3,Select the action word: Sun or Cry.
+209,1,English,4,3,4,Pick the noun: Jump or Table.
+210,1,English,4,3,5,What is the opposite of 'Small'? (Example 207)
+211,1,English,5,1,1,Select the action word: Jump or Sing.
+212,1,English,5,1,2,Pick the noun: Sun or Eat.
+213,1,English,5,1,3,Select the action word: Jump or Table.
+214,1,English,5,1,4,What is the opposite of 'Hot'? (Example 461)
+215,1,English,5,1,5,Select the action word: Sun or Eat. (Example 52)
+216,1,English,5,2,1,Pick the noun: Dog or Table. (Example 421)
+217,1,English,5,2,2,Select the action word: Apple or Sing.
+218,1,English,5,2,3,What is the opposite of 'Up'? (Example 47)
+219,1,English,5,2,4,Select the action word: Sun or Book.
+220,1,English,5,2,5,Select the action word: Apple or Eat.
+221,1,English,5,3,1,Pick the noun: Apple or Book. (Example 807)
+222,1,English,5,3,2,What is the opposite of 'Small'? (Example 842)
+223,1,English,5,3,3,Pick the noun: Apple or Eat.
+224,1,English,5,3,4,Select the action word: Apple or Book.
+225,1,English,5,3,5,Select the action word: Apple or Table. (Example 20)
+226,1,English,6,1,1,What is the opposite of 'Hot'? (Example 698)
+227,1,English,6,1,2,What is the opposite of 'Hot'? (Example 584)
+228,1,English,6,1,3,What is the opposite of 'Small'? (Example 112)
+229,1,English,6,1,4,What is the opposite of 'Day'? (Example 322)
+230,1,English,6,1,5,What is the opposite of 'Up'? (Example 510)
+231,1,English,6,2,1,Pick the noun: Dog or Sing. (Example 758)
+232,1,English,6,2,2,Pick the noun: Run or Eat.
+233,1,English,6,2,3,Select the action word: Jump or Eat.
+234,1,English,6,2,4,Pick the noun: Dog or Sing.
+235,1,English,6,2,5,Pick the noun: Sun or Cry. (Example 466)
+236,1,English,6,3,1,What is the opposite of 'Sit'? (Example 327)
+237,1,English,6,3,2,Select the action word: Dog or Table. (Example 221)
+238,1,English,6,3,3,Select the action word: Run or Eat. (Example 587)
+239,1,English,6,3,4,Pick the noun: Sun or Sing.
+240,1,English,6,3,5,What is the opposite of 'Small'? (Example 775)
+241,1,English,7,1,1,Pick the noun: Sun or Book. (Example 885)
+242,1,English,7,1,2,Select the action word: Run or Sing. (Example 965)
+243,1,English,7,1,3,What is the opposite of 'Sit'? (Example 43)
+244,1,English,7,1,4,Select the action word: Dog or Eat.
+245,1,English,7,1,5,Pick the noun: Dog or Table.
+246,1,English,7,2,1,Select the action word: Sun or Sing. (Example 713)
+247,1,English,7,2,2,What is the opposite of 'Sit'? (Example 592)
+248,1,English,7,2,3,What is the opposite of 'Day'? (Example 251)
+249,1,English,7,2,4,What is the opposite of 'Small'? (Example 981)
+250,1,English,7,2,5,Pick the noun: Run or Sing.
+251,1,English,7,3,1,Select the action word: Sun or Eat. (Example 396)
+252,1,English,7,3,2,Select the action word: Dog or Eat. (Example 830)
+253,1,English,7,3,3,Pick the noun: Apple or Sing. (Example 492)
+254,1,English,7,3,4,What is the opposite of 'Up'? (Example 429)
+255,1,English,7,3,5,Pick the noun: Apple or Sing.
+256,1,English,8,1,1,What is the opposite of 'Sit'? (Example 618)
+257,1,English,8,1,2,Pick the noun: Sun or Table.
+258,1,English,8,1,3,Select the action word: Sun or Cry. (Example 727)
+259,1,English,8,1,4,What is the opposite of 'Up'? (Example 625)
+260,1,English,8,1,5,Select the action word: Dog or Sing. (Example 386)
+261,1,English,8,2,1,Select the action word: Run or Sing. (Example 757)
+262,1,English,8,2,2,Pick the noun: Dog or Book.
+263,1,English,8,2,3,Pick the noun: Jump or Cry.
+264,1,English,8,2,4,Select the action word: Dog or Cry. (Example 736)
+265,1,English,8,2,5,Pick the noun: Sun or Sing. (Example 148)
+266,1,English,8,3,1,Pick the noun: Run or Table.
+267,1,English,8,3,2,What is the opposite of 'Small'? (Example 204)
+268,1,English,8,3,3,Pick the noun: Apple or Sing. (Example 952)
+269,1,English,8,3,4,What is the opposite of 'Small'?
+270,1,English,8,3,5,Select the action word: Run or Cry.
+271,1,English,9,1,1,Pick the noun: Apple or Book. (Example 138)
+272,1,English,9,1,2,Pick the noun: Dog or Sing. (Example 316)
+273,1,English,9,1,3,Pick the noun: Apple or Table. (Example 874)
+274,1,English,9,1,4,Pick the noun: Sun or Table. (Example 355)
+275,1,English,9,1,5,Select the action word: Sun or Eat.
+276,1,English,9,2,1,Pick the noun: Apple or Table. (Example 451)
+277,1,English,9,2,2,What is the opposite of 'Hot'? (Example 355)
+278,1,English,9,2,3,What is the opposite of 'Up'? (Example 293)
+279,1,English,9,2,4,What is the opposite of 'Up'? (Example 574)
+280,1,English,9,2,5,Select the action word: Dog or Sing.
+281,1,English,9,3,1,Select the action word: Apple or Eat. (Example 668)
+282,1,English,9,3,2,What is the opposite of 'Day'?
+283,1,English,9,3,3,What is the opposite of 'Day'? (Example 844)
+284,1,English,9,3,4,Select the action word: Jump or Cry. (Example 487)
+285,1,English,9,3,5,Select the action word: Jump or Cry. (Example 658)
+286,1,English,10,1,1,What is the opposite of 'Day'? (Example 476)
+287,1,English,10,1,2,Select the action word: Jump or Book. (Example 918)
+288,1,English,10,1,3,What is the opposite of 'Sit'?
+289,1,English,10,1,4,Pick the noun: Sun or Book.
+290,1,English,10,1,5,Pick the noun: Sun or Cry. (Example 690)
+291,1,English,10,2,1,Pick the noun: Dog or Sing. (Example 479)
+292,1,English,10,2,2,Pick the noun: Run or Cry. (Example 824)
+293,1,English,10,2,3,Select the action word: Dog or Sing. (Example 287)
+294,1,English,10,2,4,Select the action word: Jump or Sing. (Example 502)
+295,1,English,10,2,5,Pick the noun: Apple or Table. (Example 512)
+296,1,English,10,3,1,Select the action word: Jump or Cry. (Example 667)
+297,1,English,10,3,2,Select the action word: Sun or Eat. (Example 10)
+298,1,English,10,3,3,Select the action word: Jump or Book. (Example 894)
+299,1,English,10,3,4,What is the opposite of 'Small'? (Example 960)
+300,1,English,10,3,5,Select the action word: Run or Sing.
+301,1,Science,1,1,1,Is a Car living or non-living? (Q-414)
+302,1,Science,1,1,2,Which body part do we use to smell? (Q-850)
+303,1,Science,1,1,3,Is a Car living or non-living? (Q-482)
+304,1,Science,1,1,4,What color is a Grapes? (Q-307)
+305,1,Science,1,1,5,What color is a Apple? (Q-648)
+306,1,Science,1,2,1,What color is a Grapes? (Q-787)
+307,1,Science,1,2,2,Is a Cat living or non-living? (Q-872)
+308,1,Science,1,2,3,Is a Car living or non-living? (Q-240)
+309,1,Science,1,2,4,Which body part do we use to see? (Q-648)
+310,1,Science,1,2,5,Is a Stone living or non-living? (Q-198)
+311,1,Science,1,3,1,What color is a Apple? (Q-193)
+312,1,Science,1,3,2,Is a Car living or non-living? (Q-683)
+313,1,Science,1,3,3,Which body part do we use to touch? (Q-288)
+314,1,Science,1,3,4,What color is a Banana? (Q-834)
+315,1,Science,1,3,5,What color is a Grapes? (Q-993)
+316,1,Science,2,1,1,Is a Tree living or non-living? (Q-308)
+317,1,Science,2,1,2,What color is a Banana? (Q-195)
+318,1,Science,2,1,3,Which body part do we use to see? (Q-106)
+319,1,Science,2,1,4,Which body part do we use to hear? (Q-489)
+320,1,Science,2,1,5,What color is a Banana? (Q-109)
+321,1,Science,2,2,1,Which body part do we use to hear? (Q-914)
+322,1,Science,2,2,2,What color is a Grapes? (Q-426)
+323,1,Science,2,2,3,What color is a Apple? (Q-928)
+324,1,Science,2,2,4,What color is a Grapes? (Q-140)
+325,1,Science,2,2,5,What color is a Grapes? (Q-693)
+326,1,Science,2,3,1,Is a Cat living or non-living? (Q-437)
+327,1,Science,2,3,2,Is a Cat living or non-living? (Q-954)
+328,1,Science,2,3,3,What color is a Apple? (Q-879)
+329,1,Science,2,3,4,What color is a Banana? (Q-590)
+330,1,Science,2,3,5,Is a Stone living or non-living? (Q-636)
+331,1,Science,3,1,1,Is a Car living or non-living? (Q-663)
+332,1,Science,3,1,2,What color is a Banana? (Q-132)
+333,1,Science,3,1,3,Which body part do we use to see? (Q-675)
+334,1,Science,3,1,4,Is a Stone living or non-living?
+335,1,Science,3,1,5,Is a Stone living or non-living? (Q-642)
+336,1,Science,3,2,1,Is a Cat living or non-living? (Q-923)
+337,1,Science,3,2,2,Which body part do we use to hear? (Q-625)
+338,1,Science,3,2,3,What color is a Banana? (Q-882)
+339,1,Science,3,2,4,What color is a Grapes? (Q-600)
+340,1,Science,3,2,5,Which body part do we use to smell? (Q-243)
+341,1,Science,3,3,1,Is a Stone living or non-living? (Q-405)
+342,1,Science,3,3,2,Is a Car living or non-living? (Q-712)
+343,1,Science,3,3,3,Is a Car living or non-living? (Q-802)
+344,1,Science,3,3,4,What color is a Apple? (Q-402)
+345,1,Science,3,3,5,Which body part do we use to hear? (Q-162)
+346,1,Science,4,1,1,What color is a Banana? (Q-523)
+347,1,Science,4,1,2,Which body part do we use to smell? (Q-996)
+348,1,Science,4,1,3,Is a Car living or non-living? (Q-235)
+349,1,Science,4,1,4,Which body part do we use to touch? (Q-670)
+350,1,Science,4,1,5,Is a Cat living or non-living?
+351,1,Science,4,2,1,Is a Cat living or non-living? (Q-615)
+352,1,Science,4,2,2,Is a Tree living or non-living? (Q-518)
+353,1,Science,4,2,3,Which body part do we use to see? (Q-482)
+354,1,Science,4,2,4,What color is a Apple? (Q-342)
+355,1,Science,4,2,5,What color is a Grapes? (Q-445)
+356,1,Science,4,3,1,Is a Stone living or non-living? (Q-783)
+357,1,Science,4,3,2,What color is a Grapes? (Q-852)
+358,1,Science,4,3,3,What color is a Apple? (Q-813)
+359,1,Science,4,3,4,Which body part do we use to hear?
+360,1,Science,4,3,5,Is a Cat living or non-living? (Q-692)
+361,1,Science,5,1,1,What color is a Banana? (Q-497)
+362,1,Science,5,1,2,Is a Car living or non-living? (Q-775)
+363,1,Science,5,1,3,Which body part do we use to hear? (Q-809)
+364,1,Science,5,1,4,What color is a Grapes? (Q-540)
+365,1,Science,5,1,5,Which body part do we use to touch? (Q-146)
+366,1,Science,5,2,1,Is a Car living or non-living? (Q-785)
+367,1,Science,5,2,2,What color is a Banana? (Q-638)
+368,1,Science,5,2,3,Is a Car living or non-living? (Q-360)
+369,1,Science,5,2,4,What color is a Apple? (Q-567)
+370,1,Science,5,2,5,Which body part do we use to hear? (Q-258)
+371,1,Science,5,3,1,What color is a Grapes? (Q-490)
+372,1,Science,5,3,2,Which body part do we use to see? (Q-654)
+373,1,Science,5,3,3,Which body part do we use to see? (Q-614)
+374,1,Science,5,3,4,What color is a Grapes? (Q-582)
+375,1,Science,5,3,5,What color is a Grapes? (Q-761)
+376,1,Science,6,1,1,Which body part do we use to touch? (Q-252)
+377,1,Science,6,1,2,Is a Cat living or non-living? (Q-294)
+378,1,Science,6,1,3,What color is a Grapes? (Q-602)
+379,1,Science,6,1,4,Which body part do we use to touch? (Q-644)
+380,1,Science,6,1,5,Is a Car living or non-living?
+381,1,Science,6,2,1,What color is a Banana? (Q-864)
+382,1,Science,6,2,2,Is a Car living or non-living? (Q-256)
+383,1,Science,6,2,3,What color is a Grapes? (Q-891)
+384,1,Science,6,2,4,What color is a Grapes? (Q-236)
+385,1,Science,6,2,5,Is a Tree living or non-living? (Q-410)
+386,1,Science,6,3,1,Which body part do we use to see?
+387,1,Science,6,3,2,Is a Cat living or non-living? (Q-311)
+388,1,Science,6,3,3,Which body part do we use to see? (Q-452)
+389,1,Science,6,3,4,What color is a Banana? (Q-819)
+390,1,Science,6,3,5,What color is a Apple? (Q-729)
+391,1,Science,7,1,1,Is a Stone living or non-living? (Q-708)
+392,1,Science,7,1,2,What color is a Grapes? (Q-309)
+393,1,Science,7,1,3,Which body part do we use to smell? (Q-935)
+394,1,Science,7,1,4,Which body part do we use to touch? (Q-840)
+395,1,Science,7,1,5,Is a Tree living or non-living? (Q-978)
+396,1,Science,7,2,1,What color is a Banana? (Q-152)
+397,1,Science,7,2,2,What color is a Apple? (Q-476)
+398,1,Science,7,2,3,Is a Stone living or non-living? (Q-367)
+399,1,Science,7,2,4,What color is a Grapes? (Q-253)
+400,1,Science,7,2,5,What color is a Banana?
+401,1,Science,7,3,1,What color is a Banana? (Q-859)
+402,1,Science,7,3,2,Which body part do we use to hear? (Q-409)
+403,1,Science,7,3,3,What color is a Apple? (Q-157)
+404,1,Science,7,3,4,Which body part do we use to touch? (Q-200)
+405,1,Science,7,3,5,Is a Car living or non-living? (Q-641)
+406,1,Science,8,1,1,What color is a Banana? (Q-925)
+407,1,Science,8,1,2,Which body part do we use to smell? (Q-665)
+408,1,Science,8,1,3,Which body part do we use to touch? (Q-486)
+409,1,Science,8,1,4,Which body part do we use to touch? (Q-678)
+410,1,Science,8,1,5,Is a Cat living or non-living? (Q-796)
+411,1,Science,8,2,1,Which body part do we use to hear? (Q-525)
+412,1,Science,8,2,2,Is a Cat living or non-living? (Q-858)
+413,1,Science,8,2,3,Which body part do we use to touch? (Q-789)
+414,1,Science,8,2,4,Is a Stone living or non-living? (Q-937)
+415,1,Science,8,2,5,What color is a Grapes?
+416,1,Science,8,3,1,What color is a Grapes? (Q-888)
+417,1,Science,8,3,2,Which body part do we use to hear? (Q-415)
+418,1,Science,8,3,3,What color is a Apple?
+419,1,Science,8,3,4,Is a Tree living or non-living?
+420,1,Science,8,3,5,Is a Stone living or non-living? (Q-533)
+421,1,Science,9,1,1,Which body part do we use to smell? (Q-479)
+422,1,Science,9,1,2,Which body part do we use to smell?
+423,1,Science,9,1,3,What color is a Apple? (Q-221)
+424,1,Science,9,1,4,Is a Car living or non-living? (Q-669)
+425,1,Science,9,1,5,Which body part do we use to see? (Q-799)
+426,1,Science,9,2,1,What color is a Banana? (Q-169)
+427,1,Science,9,2,2,Which body part do we use to hear? (Q-179)
+428,1,Science,9,2,3,Which body part do we use to smell? (Q-353)
+429,1,Science,9,2,4,What color is a Grapes? (Q-945)
+430,1,Science,9,2,5,Is a Car living or non-living? (Q-431)
+431,1,Science,9,3,1,What color is a Apple? (Q-346)
+432,1,Science,9,3,2,What color is a Banana? (Q-672)
+433,1,Science,9,3,3,Which body part do we use to smell? (Q-557)
+434,1,Science,9,3,4,What color is a Banana? (Q-769)
+435,1,Science,9,3,5,What color is a Banana? (Q-324)
+436,1,Science,10,1,1,Is a Cat living or non-living? (Q-407)
+437,1,Science,10,1,2,Is a Cat living or non-living? (Q-884)
+438,1,Science,10,1,3,Which body part do we use to hear? (Q-840)
+439,1,Science,10,1,4,Which body part do we use to hear? (Q-491)
+440,1,Science,10,1,5,Which body part do we use to smell? (Q-776)
+441,1,Science,10,2,1,What color is a Apple? (Q-219)
+442,1,Science,10,2,2,Is a Car living or non-living? (Q-549)
+443,1,Science,10,2,3,Which body part do we use to smell? (Q-812)
+444,1,Science,10,2,4,What color is a Banana? (Q-346)
+445,1,Science,10,2,5,What color is a Banana? (Q-163)
+446,1,Science,10,3,1,Which body part do we use to see? (Q-560)
+447,1,Science,10,3,2,Is a Tree living or non-living? (Q-934)
+448,1,Science,10,3,3,Which body part do we use to touch?
+449,1,Science,10,3,4,Is a Stone living or non-living? (Q-583)
+450,1,Science,10,3,5,What color is a Grapes? (Q-521)
+451,2,Math,1,1,1,What is 38 - 24?
+452,2,Math,1,1,2,What is 16 + 2?
+453,2,Math,1,1,3,What is 33 + 21?
+454,2,Math,1,1,4,What is 32 + 36?
+455,2,Math,1,1,5,What is 50 + 12?
+456,2,Math,1,2,1,What is 25 + 5?
+457,2,Math,1,2,2,What is 44 + 39?
+458,2,Math,1,2,3,What is 34 + 9?
+459,2,Math,1,2,4,What is 35 - 14?
+460,2,Math,1,2,5,What is 41 + 10?
+461,2,Math,1,3,1,What is 27 - 14?
+462,2,Math,1,3,2,What is 26 + 23?
+463,2,Math,1,3,3,What is 38 + 5?
+464,2,Math,1,3,4,What is 42 + 23?
+465,2,Math,1,3,5,What is 46 + 13?
+466,2,Math,2,1,1,What is 30 - 2?
+467,2,Math,2,1,2,What is 41 - 18?
+468,2,Math,2,1,3,What is 32 - 1?
+469,2,Math,2,1,4,What is 24 - 14?
+470,2,Math,2,1,5,What is 32 + 30?
+471,2,Math,2,2,1,What is 39 + 7?
+472,2,Math,2,2,2,What is 38 - 23?
+473,2,Math,2,2,3,What is 39 - 15?
+474,2,Math,2,2,4,What is 20 + 37?
+475,2,Math,2,2,5,What is 36 - 31?
+476,2,Math,2,3,1,What is 46 + 7?
+477,2,Math,2,3,2,What is 18 + 21?
+478,2,Math,2,3,3,What is 37 - 12?
+479,2,Math,2,3,4,What is 34 - 1?
+480,2,Math,2,3,5,What is 44 + 18?
+481,2,Math,3,1,1,What is 46 + 18?
+482,2,Math,3,1,2,What is 50 + 35?
+483,2,Math,3,1,3,What is 16 + 11?
+484,2,Math,3,1,4,What is 30 - 15?
+485,2,Math,3,1,5,What is 34 + 1?
+486,2,Math,3,2,1,What is 23 + 18?
+487,2,Math,3,2,2,What is 27 + 9?
+488,2,Math,3,2,3,What is 36 - 32?
+489,2,Math,3,2,4,What is 36 - 20?
+490,2,Math,3,2,5,What is 23 + 38?
+491,2,Math,3,3,1,What is 50 - 10?
+492,2,Math,3,3,2,What is 50 + 32?
+493,2,Math,3,3,3,What is 38 - 29?
+494,2,Math,3,3,4,What is 23 - 4?
+495,2,Math,3,3,5,What is 50 - 27?
+496,2,Math,4,1,1,What is 45 + 33?
+497,2,Math,4,1,2,What is 18 + 27?
+498,2,Math,4,1,3,What is 46 - 25?
+499,2,Math,4,1,4,What is 30 + 24?
+500,2,Math,4,1,5,What is 35 + 24?
+501,2,Math,4,2,1,What is 34 - 5?
+502,2,Math,4,2,2,What is 16 + 9?
+503,2,Math,4,2,3,What is 40 + 21?
+504,2,Math,4,2,4,What is 18 + 20?
+505,2,Math,4,2,5,What is 29 - 23?
+506,2,Math,4,3,1,What is 20 - 6?
+507,2,Math,4,3,2,What is 35 - 33?
+508,2,Math,4,3,3,What is 20 + 18?
+509,2,Math,4,3,4,What is 39 - 8?
+510,2,Math,4,3,5,What is 32 + 31?
+511,2,Math,5,1,1,What is 41 - 34?
+512,2,Math,5,1,2,What is 45 - 33?
+513,2,Math,5,1,3,What is 16 + 28?
+514,2,Math,5,1,4,What is 38 + 32?
+515,2,Math,5,1,5,What is 38 + 8?
+516,2,Math,5,2,1,What is 34 + 11?
+517,2,Math,5,2,2,What is 25 + 32?
+518,2,Math,5,2,3,What is 43 + 3?
+519,2,Math,5,2,4,What is 44 - 33?
+520,2,Math,5,2,5,What is 32 - 2?
+521,2,Math,5,3,1,What is 13 + 3?
+522,2,Math,5,3,2,What is 30 - 25?
+523,2,Math,5,3,3,What is 17 - 2?
+524,2,Math,5,3,4,What is 27 - 15?
+525,2,Math,5,3,5,What is 38 - 38?
+526,2,Math,6,1,1,What is 27 + 3?
+527,2,Math,6,1,2,What is 16 - 16?
+528,2,Math,6,1,3,What is 15 - 1?
+529,2,Math,6,1,4,What is 37 - 23?
+530,2,Math,6,1,5,What is 30 - 20?
+531,2,Math,6,2,1,What is 18 - 13?
+532,2,Math,6,2,2,What is 40 - 31?
+533,2,Math,6,2,3,What is 17 - 11?
+534,2,Math,6,2,4,What is 24 + 19?
+535,2,Math,6,2,5,What is 46 - 26?
+536,2,Math,6,3,1,What is 27 - 10?
+537,2,Math,6,3,2,What is 28 + 22?
+538,2,Math,6,3,3,What is 29 - 1?
+539,2,Math,6,3,4,What is 46 - 8?
+540,2,Math,6,3,5,What is 30 + 38?
+541,2,Math,7,1,1,What is 11 + 40?
+542,2,Math,7,1,2,What is 49 + 9?
+543,2,Math,7,1,3,What is 49 + 28?
+544,2,Math,7,1,4,What is 48 - 31?
+545,2,Math,7,1,5,What is 30 + 29?
+546,2,Math,7,2,1,What is 39 - 14?
+547,2,Math,7,2,2,What is 14 + 20?
+548,2,Math,7,2,3,What is 30 - 19?
+549,2,Math,7,2,4,What is 28 - 20?
+550,2,Math,7,2,5,What is 25 + 20?
+551,2,Math,7,3,1,What is 39 + 38?
+552,2,Math,7,3,2,What is 15 + 37?
+553,2,Math,7,3,3,What is 32 - 20?
+554,2,Math,7,3,4,What is 50 + 30?
+555,2,Math,7,3,5,What is 31 - 29?
+556,2,Math,8,1,1,What is 21 + 24?
+557,2,Math,8,1,2,What is 33 - 30?
+558,2,Math,8,1,3,What is 28 - 21?
+559,2,Math,8,1,4,What is 29 + 40?
+560,2,Math,8,1,5,What is 46 - 32?
+561,2,Math,8,2,1,What is 26 - 25?
+562,2,Math,8,2,2,What is 44 + 24?
+563,2,Math,8,2,3,What is 19 - 16?
+564,2,Math,8,2,4,What is 27 + 35?
+565,2,Math,8,2,5,What is 35 - 5?
+566,2,Math,8,3,1,What is 48 - 25?
+567,2,Math,8,3,2,What is 35 - 21?
+568,2,Math,8,3,3,What is 45 - 11?
+569,2,Math,8,3,4,What is 36 + 25?
+570,2,Math,8,3,5,What is 44 - 3?
+571,2,Math,9,1,1,What is 29 + 21?
+572,2,Math,9,1,2,What is 27 - 20?
+573,2,Math,9,1,3,What is 21 + 21?
+574,2,Math,9,1,4,What is 37 + 7?
+575,2,Math,9,1,5,What is 22 - 14?
+576,2,Math,9,2,1,What is 45 + 16?
+577,2,Math,9,2,2,What is 37 + 22?
+578,2,Math,9,2,3,What is 47 - 8?
+579,2,Math,9,2,4,What is 37 + 39?
+580,2,Math,9,2,5,What is 20 + 40?
+581,2,Math,9,3,1,What is 28 + 9?
+582,2,Math,9,3,2,What is 26 - 10?
+583,2,Math,9,3,3,What is 43 + 12?
+584,2,Math,9,3,4,What is 39 - 1?
+585,2,Math,9,3,5,What is 45 - 36?
+586,2,Math,10,1,1,What is 22 - 9?
+587,2,Math,10,1,2,What is 42 + 34?
+588,2,Math,10,1,3,What is 29 - 3?
+589,2,Math,10,1,4,What is 23 + 28?
+590,2,Math,10,1,5,What is 37 - 19?
+591,2,Math,10,2,1,What is 16 + 17?
+592,2,Math,10,2,2,What is 45 - 2?
+593,2,Math,10,2,3,What is 25 - 10?
+594,2,Math,10,2,4,What is 15 + 8?
+595,2,Math,10,2,5,What is 50 - 28?
+596,2,Math,10,3,1,What is 40 - 15?
+597,2,Math,10,3,2,What is 42 - 25?
+598,2,Math,10,3,3,What is 38 + 35?
+599,2,Math,10,3,4,What is 48 - 39?
+600,2,Math,10,3,5,What is 48 - 9?
+601,2,English,1,1,1,Find the synonym of 'Run'. (Example 652)
+602,2,English,1,1,2,Is 'City' a noun or a verb? (Example 18)
+603,2,English,1,1,3,Make 'Run' plural.
+604,2,English,1,1,4,Is 'Leaf' a noun or a verb?
+605,2,English,1,1,5,Make 'Boy' plural. (Example 713)
+606,2,English,1,2,1,Find the synonym of 'Boy'. (Example 803)
+607,2,English,1,2,2,Make 'Fast' plural. (Example 244)
+608,2,English,1,2,3,Find the synonym of 'Fast'. (Example 256)
+609,2,English,1,2,4,Make 'Happy' plural. (Example 382)
+610,2,English,1,2,5,Find the synonym of 'Chair'. (Example 211)
+611,2,English,1,3,1,Find the synonym of 'Happy'. (Example 230)
+612,2,English,1,3,2,Find the synonym of 'City'. (Example 597)
+613,2,English,1,3,3,Make 'Fast' plural. (Example 823)
+614,2,English,1,3,4,Make 'Box' plural. (Example 512)
+615,2,English,1,3,5,Make 'Fast' plural. (Example 944)
+616,2,English,2,1,1,Is 'Leaf' a noun or a verb? (Example 392)
+617,2,English,2,1,2,Is 'City' a noun or a verb? (Example 721)
+618,2,English,2,1,3,Find the synonym of 'City'.
+619,2,English,2,1,4,Is 'City' a noun or a verb? (Example 790)
+620,2,English,2,1,5,Find the synonym of 'City'. (Example 318)
+621,2,English,2,2,1,Make 'Run' plural. (Example 827)
+622,2,English,2,2,2,Find the synonym of 'Leaf'. (Example 285)
+623,2,English,2,2,3,Is 'Run' a noun or a verb?
+624,2,English,2,2,4,Find the synonym of 'Happy'. (Example 870)
+625,2,English,2,2,5,Make 'Leaf' plural. (Example 461)
+626,2,English,2,3,1,Make 'Boy' plural.
+627,2,English,2,3,2,Is 'Leaf' a noun or a verb? (Example 397)
+628,2,English,2,3,3,Make 'Leaf' plural. (Example 771)
+629,2,English,2,3,4,Find the synonym of 'Fast'.
+630,2,English,2,3,5,Find the synonym of 'Chair'. (Example 847)
+631,2,English,3,1,1,Is 'Box' a noun or a verb? (Example 299)
+632,2,English,3,1,2,Is 'Run' a noun or a verb? (Example 740)
+633,2,English,3,1,3,Make 'City' plural. (Example 162)
+634,2,English,3,1,4,Make 'Box' plural.
+635,2,English,3,1,5,Find the synonym of 'Fast'. (Example 786)
+636,2,English,3,2,1,Is 'City' a noun or a verb? (Example 44)
+637,2,English,3,2,2,Is 'City' a noun or a verb? (Example 881)
+638,2,English,3,2,3,Make 'Fast' plural. (Example 423)
+639,2,English,3,2,4,Find the synonym of 'City'. (Example 160)
+640,2,English,3,2,5,Find the synonym of 'City'. (Example 509)
+641,2,English,3,3,1,Find the synonym of 'Chair'. (Example 940)
+642,2,English,3,3,2,Make 'Happy' plural. (Example 360)
+643,2,English,3,3,3,Find the synonym of 'Leaf'. (Example 377)
+644,2,English,3,3,4,Is 'Run' a noun or a verb? (Example 417)
+645,2,English,3,3,5,Is 'Leaf' a noun or a verb? (Example 123)
+646,2,English,4,1,1,Is 'Fast' a noun or a verb? (Example 369)
+647,2,English,4,1,2,Find the synonym of 'Box'.
+648,2,English,4,1,3,Is 'Cold' a noun or a verb? (Example 570)
+649,2,English,4,1,4,Is 'Leaf' a noun or a verb? (Example 490)
+650,2,English,4,1,5,Make 'Leaf' plural. (Example 71)
+651,2,English,4,2,1,Find the synonym of 'Fast'. (Example 3)
+652,2,English,4,2,2,Is 'Leaf' a noun or a verb? (Example 94)
+653,2,English,4,2,3,Is 'Fast' a noun or a verb? (Example 530)
+654,2,English,4,2,4,Make 'Leaf' plural. (Example 550)
+655,2,English,4,2,5,Find the synonym of 'Run'. (Example 326)
+656,2,English,4,3,1,Make 'Leaf' plural. (Example 729)
+657,2,English,4,3,2,Make 'City' plural. (Example 13)
+658,2,English,4,3,3,Is 'Fast' a noun or a verb? (Example 294)
+659,2,English,4,3,4,Make 'Fast' plural. (Example 48)
+660,2,English,4,3,5,Is 'Cold' a noun or a verb?
+661,2,English,5,1,1,Is 'Boy' a noun or a verb? (Example 778)
+662,2,English,5,1,2,Make 'Boy' plural. (Example 251)
+663,2,English,5,1,3,Is 'Boy' a noun or a verb? (Example 239)
+664,2,English,5,1,4,Is 'Box' a noun or a verb?
+665,2,English,5,1,5,Make 'Cold' plural. (Example 880)
+666,2,English,5,2,1,Find the synonym of 'Fast'. (Example 551)
+667,2,English,5,2,2,Make 'Cold' plural.
+668,2,English,5,2,3,Make 'Cold' plural. (Example 829)
+669,2,English,5,2,4,Make 'Leaf' plural. (Example 719)
+670,2,English,5,2,5,Make 'Happy' plural. (Example 303)
+671,2,English,5,3,1,Is 'Happy' a noun or a verb? (Example 601)
+672,2,English,5,3,2,Find the synonym of 'Boy'. (Example 974)
+673,2,English,5,3,3,Find the synonym of 'City'. (Example 595)
+674,2,English,5,3,4,Find the synonym of 'City'. (Example 270)
+675,2,English,5,3,5,Find the synonym of 'City'. (Example 15)
+676,2,English,6,1,1,Find the synonym of 'Chair'. (Example 107)
+677,2,English,6,1,2,Make 'Chair' plural.
+678,2,English,6,1,3,Find the synonym of 'Leaf'. (Example 243)
+679,2,English,6,1,4,Make 'Box' plural. (Example 140)
+680,2,English,6,1,5,Make 'Fast' plural. (Example 137)
+681,2,English,6,2,1,Find the synonym of 'Happy'. (Example 85)
+682,2,English,6,2,2,Make 'Boy' plural. (Example 972)
+683,2,English,6,2,3,Find the synonym of 'Cold'. (Example 9)
+684,2,English,6,2,4,Find the synonym of 'Chair'.
+685,2,English,6,2,5,Is 'Chair' a noun or a verb? (Example 240)
+686,2,English,6,3,1,Make 'City' plural. (Example 234)
+687,2,English,6,3,2,Find the synonym of 'Boy'. (Example 446)
+688,2,English,6,3,3,Find the synonym of 'Run'. (Example 470)
+689,2,English,6,3,4,Find the synonym of 'Chair'. (Example 798)
+690,2,English,6,3,5,Is 'City' a noun or a verb? (Example 45)
+691,2,English,7,1,1,Is 'Leaf' a noun or a verb? (Example 768)
+692,2,English,7,1,2,Is 'Chair' a noun or a verb?
+693,2,English,7,1,3,Make 'Happy' plural.
+694,2,English,7,1,4,Is 'Leaf' a noun or a verb? (Example 184)
+695,2,English,7,1,5,Make 'Fast' plural. (Example 779)
+696,2,English,7,2,1,Find the synonym of 'Run'.
+697,2,English,7,2,2,Make 'Boy' plural. (Example 975)
+698,2,English,7,2,3,Is 'Run' a noun or a verb? (Example 89)
+699,2,English,7,2,4,Make 'Box' plural. (Example 284)
+700,2,English,7,2,5,Make 'Leaf' plural. (Example 7)
+701,2,English,7,3,1,Is 'Chair' a noun or a verb? (Example 872)
+702,2,English,7,3,2,Is 'Happy' a noun or a verb? (Example 526)
+703,2,English,7,3,3,Find the synonym of 'Happy'.
+704,2,English,7,3,4,Make 'Run' plural. (Example 123)
+705,2,English,7,3,5,Find the synonym of 'Box'. (Example 532)
+706,2,English,8,1,1,Find the synonym of 'Boy'.
+707,2,English,8,1,2,Make 'Fast' plural. (Example 367)
+708,2,English,8,1,3,Find the synonym of 'Boy'. (Example 869)
+709,2,English,8,1,4,Make 'Fast' plural.
+710,2,English,8,1,5,Find the synonym of 'Chair'. (Example 171)
+711,2,English,8,2,1,Find the synonym of 'Boy'. (Example 184)
+712,2,English,8,2,2,Find the synonym of 'Run'. (Example 278)
+713,2,English,8,2,3,Find the synonym of 'Chair'. (Example 758)
+714,2,English,8,2,4,Make 'Chair' plural. (Example 267)
+715,2,English,8,2,5,Is 'City' a noun or a verb? (Example 899)
+716,2,English,8,3,1,Find the synonym of 'Happy'. (Example 77)
+717,2,English,8,3,2,Find the synonym of 'Happy'. (Example 748)
+718,2,English,8,3,3,Is 'Chair' a noun or a verb? (Example 793)
+719,2,English,8,3,4,Find the synonym of 'City'. (Example 541)
+720,2,English,8,3,5,Is 'Boy' a noun or a verb?
+721,2,English,9,1,1,Make 'Box' plural. (Example 134)
+722,2,English,9,1,2,Is 'Fast' a noun or a verb?
+723,2,English,9,1,3,Is 'Box' a noun or a verb? (Example 427)
+724,2,English,9,1,4,Make 'Boy' plural. (Example 67)
+725,2,English,9,1,5,Make 'City' plural. (Example 927)
+726,2,English,9,2,1,Make 'Happy' plural. (Example 119)
+727,2,English,9,2,2,Make 'Leaf' plural.
+728,2,English,9,2,3,Make 'Leaf' plural. (Example 509)
+729,2,English,9,2,4,Is 'Happy' a noun or a verb? (Example 718)
+730,2,English,9,2,5,Is 'Chair' a noun or a verb? (Example 873)
+731,2,English,9,3,1,Is 'City' a noun or a verb?
+732,2,English,9,3,2,Find the synonym of 'Leaf'. (Example 782)
+733,2,English,9,3,3,Make 'Chair' plural. (Example 792)
+734,2,English,9,3,4,Find the synonym of 'Box'. (Example 992)
+735,2,English,9,3,5,Make 'City' plural.
+736,2,English,10,1,1,Make 'Leaf' plural. (Example 942)
+737,2,English,10,1,2,Make 'Cold' plural. (Example 396)
+738,2,English,10,1,3,Is 'Run' a noun or a verb? (Example 811)
+739,2,English,10,1,4,Is 'Cold' a noun or a verb? (Example 985)
+740,2,English,10,1,5,Make 'Cold' plural. (Example 105)
+741,2,English,10,2,1,Make 'City' plural. (Example 919)
+742,2,English,10,2,2,Is 'Happy' a noun or a verb?
+743,2,English,10,2,3,Is 'City' a noun or a verb? (Example 749)
+744,2,English,10,2,4,Find the synonym of 'Boy'. (Example 221)
+745,2,English,10,2,5,Is 'Cold' a noun or a verb? (Example 792)
+746,2,English,10,3,1,Find the synonym of 'Box'. (Example 476)
+747,2,English,10,3,2,Find the synonym of 'Cold'.
+748,2,English,10,3,3,Find the synonym of 'Leaf'.
+749,2,English,10,3,4,Make 'Cold' plural. (Example 373)
+750,2,English,10,3,5,Make 'Cold' plural. (Example 316)
+751,2,Science,1,1,1,Tell one safety rule for the road.
+752,2,Science,1,1,2,Where does a Lion live? (Q-639)
+753,2,Science,1,1,3,Tell one safety rule for home. (Q-183)
+754,2,Science,1,1,4,Where does a Lion live? (Q-187)
+755,2,Science,1,1,5,Where does a Rabbit live?
+756,2,Science,1,2,1,Tell one safety rule for the road. (Q-608)
+757,2,Science,1,2,2,Where does a Lion live? (Q-676)
+758,2,Science,1,2,3,Where does a Fish live? (Q-943)
+759,2,Science,1,2,4,Where does a Fish live? (Q-310)
+760,2,Science,1,2,5,Which part of a plant is green? (Q-343)
+761,2,Science,1,3,1,Tell one safety rule for the kitchen. (Q-429)
+762,2,Science,1,3,2,Tell one safety rule for home. (Q-927)
+763,2,Science,1,3,3,Where does a Fish live? (Q-863)
+764,2,Science,1,3,4,Tell one safety rule for the road. (Q-666)
+765,2,Science,1,3,5,Tell one safety rule for home. (Q-977)
+766,2,Science,2,1,1,Where does a Fish live? (Q-512)
+767,2,Science,2,1,2,Which part of a plant is underground? (Q-271)
+768,2,Science,2,1,3,Which part of a plant is underground? (Q-751)
+769,2,Science,2,1,4,Which part of a plant is underground? (Q-918)
+770,2,Science,2,1,5,Which part of a plant is colorful? (Q-766)
+771,2,Science,2,2,1,Where does a Fish live? (Q-937)
+772,2,Science,2,2,2,Which part of a plant is colorful? (Q-163)
+773,2,Science,2,2,3,Tell one safety rule for home. (Q-278)
+774,2,Science,2,2,4,Where does a Rabbit live? (Q-655)
+775,2,Science,2,2,5,Tell one safety rule for the road. (Q-614)
+776,2,Science,2,3,1,Which part of a plant is colorful? (Q-598)
+777,2,Science,2,3,2,Tell one safety rule for the road. (Q-286)
+778,2,Science,2,3,3,Where does a Rabbit live? (Q-406)
+779,2,Science,2,3,4,Which part of a plant is underground? (Q-439)
+780,2,Science,2,3,5,Where does a Lion live?
+781,2,Science,3,1,1,Which part of a plant is underground? (Q-155)
+782,2,Science,3,1,2,Tell one safety rule for the kitchen. (Q-467)
+783,2,Science,3,1,3,Tell one safety rule for home. (Q-591)
+784,2,Science,3,1,4,Where does a Fish live? (Q-557)
+785,2,Science,3,1,5,Tell one safety rule for the kitchen. (Q-157)
+786,2,Science,3,2,1,Tell one safety rule for home. (Q-306)
+787,2,Science,3,2,2,Tell one safety rule for the kitchen. (Q-696)
+788,2,Science,3,2,3,Tell one safety rule for the road. (Q-745)
+789,2,Science,3,2,4,Tell one safety rule for home. (Q-193)
+790,2,Science,3,2,5,Which part of a plant is colorful? (Q-466)
+791,2,Science,3,3,1,Which part of a plant is green? (Q-240)
+792,2,Science,3,3,2,Tell one safety rule for the kitchen. (Q-919)
+793,2,Science,3,3,3,Tell one safety rule for the road. (Q-892)
+794,2,Science,3,3,4,Which part of a plant is underground? (Q-291)
+795,2,Science,3,3,5,Tell one safety rule for the road. (Q-491)
+796,2,Science,4,1,1,Tell one safety rule for the road. (Q-754)
+797,2,Science,4,1,2,Which part of a plant is underground? (Q-415)
+798,2,Science,4,1,3,Tell one safety rule for home. (Q-681)
+799,2,Science,4,1,4,Where does a Fish live? (Q-834)
+800,2,Science,4,1,5,Which part of a plant is underground? (Q-537)
+801,2,Science,4,2,1,Where does a Lion live? (Q-502)
+802,2,Science,4,2,2,Which part of a plant is underground? (Q-135)
+803,2,Science,4,2,3,Where does a Bird live? (Q-274)
+804,2,Science,4,2,4,Which part of a plant is underground? (Q-154)
+805,2,Science,4,2,5,Tell one safety rule for home. (Q-686)
+806,2,Science,4,3,1,Where does a Rabbit live? (Q-938)
+807,2,Science,4,3,2,Tell one safety rule for home. (Q-276)
+808,2,Science,4,3,3,Tell one safety rule for the kitchen.
+809,2,Science,4,3,4,Which part of a plant is green? (Q-481)
+810,2,Science,4,3,5,Where does a Lion live? (Q-495)
+811,2,Science,5,1,1,Tell one safety rule for home. (Q-928)
+812,2,Science,5,1,2,Tell one safety rule for home. (Q-648)
+813,2,Science,5,1,3,Where does a Lion live? (Q-863)
+814,2,Science,5,1,4,Where does a Fish live? (Q-490)
+815,2,Science,5,1,5,Where does a Bird live? (Q-229)
+816,2,Science,5,2,1,Tell one safety rule for the kitchen. (Q-401)
+817,2,Science,5,2,2,Where does a Bird live? (Q-700)
+818,2,Science,5,2,3,Which part of a plant is green? (Q-430)
+819,2,Science,5,2,4,Which part of a plant is underground? (Q-602)
+820,2,Science,5,2,5,Tell one safety rule for the road. (Q-130)
+821,2,Science,5,3,1,Which part of a plant is green? (Q-807)
+822,2,Science,5,3,2,Where does a Rabbit live? (Q-414)
+823,2,Science,5,3,3,Tell one safety rule for home. (Q-427)
+824,2,Science,5,3,4,Which part of a plant is green?
+825,2,Science,5,3,5,Tell one safety rule for the kitchen. (Q-810)
+826,2,Science,6,1,1,Which part of a plant is colorful? (Q-529)
+827,2,Science,6,1,2,Where does a Rabbit live? (Q-604)
+828,2,Science,6,1,3,Which part of a plant is green? (Q-600)
+829,2,Science,6,1,4,Which part of a plant is underground? (Q-758)
+830,2,Science,6,1,5,Where does a Bird live? (Q-849)
+831,2,Science,6,2,1,Where does a Fish live? (Q-160)
+832,2,Science,6,2,2,Tell one safety rule for home. (Q-138)
+833,2,Science,6,2,3,Tell one safety rule for home. (Q-610)
+834,2,Science,6,2,4,Where does a Fish live? (Q-314)
+835,2,Science,6,2,5,Where does a Bird live? (Q-716)
+836,2,Science,6,3,1,Which part of a plant is colorful? (Q-203)
+837,2,Science,6,3,2,Where does a Fish live? (Q-274)
+838,2,Science,6,3,3,Where does a Rabbit live? (Q-974)
+839,2,Science,6,3,4,Tell one safety rule for the road. (Q-263)
+840,2,Science,6,3,5,Tell one safety rule for the kitchen. (Q-847)
+841,2,Science,7,1,1,Which part of a plant is green? (Q-207)
+842,2,Science,7,1,2,Where does a Rabbit live? (Q-215)
+843,2,Science,7,1,3,Tell one safety rule for the road. (Q-954)
+844,2,Science,7,1,4,Which part of a plant is colorful? (Q-569)
+845,2,Science,7,1,5,Which part of a plant is underground? (Q-837)
+846,2,Science,7,2,1,Which part of a plant is underground? (Q-948)
+847,2,Science,7,2,2,Which part of a plant is green? (Q-492)
+848,2,Science,7,2,3,Where does a Rabbit live? (Q-180)
+849,2,Science,7,2,4,Where does a Lion live? (Q-875)
+850,2,Science,7,2,5,Tell one safety rule for the kitchen. (Q-934)
+851,2,Science,7,3,1,Where does a Fish live? (Q-120)
+852,2,Science,7,3,2,Which part of a plant is colorful? (Q-506)
+853,2,Science,7,3,3,Which part of a plant is underground? (Q-556)
+854,2,Science,7,3,4,Where does a Bird live? (Q-455)
+855,2,Science,7,3,5,Where does a Lion live? (Q-446)
+856,2,Science,8,1,1,Which part of a plant is underground? (Q-849)
+857,2,Science,8,1,2,Tell one safety rule for home. (Q-874)
+858,2,Science,8,1,3,Which part of a plant is colorful?
+859,2,Science,8,1,4,Tell one safety rule for home. (Q-776)
+860,2,Science,8,1,5,Which part of a plant is underground? (Q-928)
+861,2,Science,8,2,1,Tell one safety rule for the kitchen. (Q-735)
+862,2,Science,8,2,2,Tell one safety rule for the road. (Q-189)
+863,2,Science,8,2,3,Tell one safety rule for home. (Q-925)
+864,2,Science,8,2,4,Tell one safety rule for the road. (Q-721)
+865,2,Science,8,2,5,Tell one safety rule for the kitchen. (Q-714)
+866,2,Science,8,3,1,Which part of a plant is green? (Q-331)
+867,2,Science,8,3,2,Tell one safety rule for home. (Q-328)
+868,2,Science,8,3,3,Where does a Rabbit live? (Q-971)
+869,2,Science,8,3,4,Where does a Fish live? (Q-174)
+870,2,Science,8,3,5,Tell one safety rule for the road. (Q-820)
+871,2,Science,9,1,1,Tell one safety rule for the road. (Q-266)
+872,2,Science,9,1,2,Which part of a plant is underground?
+873,2,Science,9,1,3,Where does a Lion live? (Q-458)
+874,2,Science,9,1,4,Where does a Bird live? (Q-846)
+875,2,Science,9,1,5,Which part of a plant is colorful? (Q-778)
+876,2,Science,9,2,1,Which part of a plant is underground? (Q-251)
+877,2,Science,9,2,2,Which part of a plant is underground? (Q-491)
+878,2,Science,9,2,3,Where does a Fish live? (Q-550)
+879,2,Science,9,2,4,Which part of a plant is green? (Q-659)
+880,2,Science,9,2,5,Which part of a plant is underground? (Q-199)
+881,2,Science,9,3,1,Tell one safety rule for the road. (Q-372)
+882,2,Science,9,3,2,Where does a Bird live?
+883,2,Science,9,3,3,Where does a Rabbit live? (Q-139)
+884,2,Science,9,3,4,Tell one safety rule for home. (Q-685)
+885,2,Science,9,3,5,Where does a Bird live? (Q-342)
+886,2,Science,10,1,1,Tell one safety rule for the road. (Q-925)
+887,2,Science,10,1,2,Tell one safety rule for the road. (Q-541)
+888,2,Science,10,1,3,Which part of a plant is underground? (Q-189)
+889,2,Science,10,1,4,Which part of a plant is green? (Q-284)
+890,2,Science,10,1,5,Where does a Rabbit live? (Q-463)
+891,2,Science,10,2,1,Where does a Fish live? (Q-988)
+892,2,Science,10,2,2,Where does a Rabbit live? (Q-813)
+893,2,Science,10,2,3,Where does a Fish live?
+894,2,Science,10,2,4,Tell one safety rule for the kitchen. (Q-496)
+895,2,Science,10,2,5,Tell one safety rule for the road. (Q-676)
+896,2,Science,10,3,1,Tell one safety rule for the kitchen. (Q-594)
+897,2,Science,10,3,2,Tell one safety rule for the kitchen. (Q-960)
+898,2,Science,10,3,3,Tell one safety rule for home. (Q-452)
+899,2,Science,10,3,4,Tell one safety rule for home.
+900,2,Science,10,3,5,Tell one safety rule for home. (Q-998)
+901,3,Math,1,1,1,Find the result of 5 x 7.
+902,3,Math,1,1,2,Find the result of 35 divided by 7.
+903,3,Math,1,1,3,Find the result of 12 x 2.
+904,3,Math,1,1,4,Find the result of 4 x 4.
+905,3,Math,1,1,5,Find the result of 3 x 3.
+906,3,Math,1,2,1,Find the result of 3 divided by 1.
+907,3,Math,1,2,2,Find the result of 4 x 6.
+908,3,Math,1,2,3,Find the result of 42 divided by 7.
+909,3,Math,1,2,4,Find the result of 9 x 1.
+910,3,Math,1,2,5,Find the result of 8 divided by 1.
+911,3,Math,1,3,1,Find the result of 90 divided by 9.
+912,3,Math,1,3,2,Find the result of 2 x 8.
+913,3,Math,1,3,3,Find the result of 36 divided by 3.
+914,3,Math,1,3,4,Find the result of 12 x 1.
+915,3,Math,1,3,5,Find the result of 5 x 5.
+916,3,Math,2,1,1,Find the result of 18 divided by 3.
+917,3,Math,2,1,2,Find the result of 44 divided by 4.
+918,3,Math,2,1,3,Find the result of 14 divided by 7.
+919,3,Math,2,1,4,Find the result of 70 divided by 7.
+920,3,Math,2,1,5,Find the result of 21 divided by 3.
+921,3,Math,2,2,1,Find the result of 10 divided by 2.
+922,3,Math,2,2,2,Find the result of 8 x 5.
+923,3,Math,2,2,3,Find the result of 60 divided by 5.
+924,3,Math,2,2,4,Find the result of 20 divided by 10.
+925,3,Math,2,2,5,Find the result of 3 x 2.
+926,3,Math,2,3,1,Find the result of 32 divided by 4.
+927,3,Math,2,3,2,Find the result of 50 divided by 5.
+928,3,Math,2,3,3,Find the result of 11 x 10.
+929,3,Math,2,3,4,Find the result of 45 divided by 5.
+930,3,Math,2,3,5,Find the result of 4 x 8.
+931,3,Math,3,1,1,Find the result of 88 divided by 8.
+932,3,Math,3,1,2,Find the result of 8 x 4.
+933,3,Math,3,1,3,Find the result of 96 divided by 8.
+934,3,Math,3,1,4,Find the result of 90 divided by 10.
+935,3,Math,3,1,5,Find the result of 45 divided by 9.
+936,3,Math,3,2,1,Find the result of 10 divided by 10.
+937,3,Math,3,2,2,Find the result of 24 divided by 2.
+938,3,Math,3,2,3,Find the result of 2 x 2.
+939,3,Math,3,2,4,Find the result of 11 x 6.
+940,3,Math,3,2,5,Find the result of 99 divided by 9.
+941,3,Math,3,3,1,Find the result of 8 divided by 4.
+942,3,Math,3,3,2,Find the result of 48 divided by 8.
+943,3,Math,3,3,3,Find the result of 28 divided by 4.
+944,3,Math,3,3,4,Find the result of 8 x 3.
+945,3,Math,3,3,5,Find the result of 12 x 3.
+946,3,Math,4,1,1,Find the result of 16 divided by 8.
+947,3,Math,4,1,2,Find the result of 9 divided by 3.
+948,3,Math,4,1,3,Find the result of 72 divided by 6.
+949,3,Math,4,1,4,Find the result of 56 divided by 7.
+950,3,Math,4,1,5,Find the result of 15 divided by 5.
+951,3,Math,4,2,1,Find the result of 5 x 10.
+952,3,Math,4,2,2,Find the result of 3 x 9.
+953,3,Math,4,2,3,Find the result of 110 divided by 10.
+954,3,Math,4,2,4,Find the result of 5 x 2.
+955,3,Math,4,2,5,Find the result of 4 x 1.
+956,3,Math,4,3,1,Find the result of 10 x 10.
+957,3,Math,4,3,2,Find the result of 3 x 5.
+958,3,Math,4,3,3,Find the result of 5 x 9.
+959,3,Math,4,3,4,Find the result of 8 x 8.
+960,3,Math,4,3,5,Find the result of 8 divided by 8.
+961,3,Math,5,1,1,Find the result of 6 x 1.
+962,3,Math,5,1,2,Find the result of 32 divided by 8.
+963,3,Math,5,1,3,Find the result of 3 x 6.
+964,3,Math,5,1,4,Find the result of 40 divided by 4.
+965,3,Math,5,1,5,Find the result of 3 divided by 3.
+966,3,Math,5,2,1,Find the result of 15 divided by 3.
+967,3,Math,5,2,2,Find the result of 81 divided by 9.
+968,3,Math,5,2,3,Find the result of 12 divided by 4.
+969,3,Math,5,2,4,Find the result of 12 divided by 2.
+970,3,Math,5,2,5,Find the result of 12 x 7.
+971,3,Math,5,3,1,Find the result of 66 divided by 6.
+972,3,Math,5,3,2,Find the result of 55 divided by 5.
+973,3,Math,5,3,3,Find the result of 11 x 5.
+974,3,Math,5,3,4,Find the result of 63 divided by 7.
+975,3,Math,5,3,5,Find the result of 4 x 10.
+976,3,Math,6,1,1,Find the result of 12 x 6.
+977,3,Math,6,1,2,Find the result of 1 x 6.
+978,3,Math,6,1,3,Find the result of 7 x 7.
+979,3,Math,6,1,4,Find the result of 9 x 3.
+980,3,Math,6,1,5,Find the result of 16 divided by 4.
+981,3,Math,6,2,1,Find the result of 9 divided by 1.
+982,3,Math,6,2,2,Find the result of 7 x 1.
+983,3,Math,6,2,3,Find the result of 7 x 2.
+984,3,Math,6,2,4,Find the result of 3 x 4.
+985,3,Math,6,2,5,Find the result of 12 divided by 1.
+986,3,Math,6,3,1,Find the result of 3 x 10.
+987,3,Math,6,3,2,Find the result of 2 x 9.
+988,3,Math,6,3,3,Find the result of 9 x 5.
+989,3,Math,6,3,4,Find the result of 36 divided by 6.
+990,3,Math,6,3,5,Find the result of 36 divided by 9.
+991,3,Math,7,1,1,Find the result of 8 x 2.
+992,3,Math,7,1,2,Find the result of 24 divided by 6.
+993,3,Math,7,1,3,Find the result of 20 divided by 5.
+994,3,Math,7,1,4,Find the result of 12 x 5.
+995,3,Math,7,1,5,Find the result of 10 x 2.
+996,3,Math,7,2,1,Find the result of 8 x 7.
+997,3,Math,7,2,2,Find the result of 12 divided by 6.
+998,3,Math,7,2,3,Find the result of 70 divided by 10.
+999,3,Math,7,2,4,Find the result of 3 x 7.
+1000,3,Math,7,2,5,Find the result of 7 x 4.
+1001,3,Math,7,3,1,Find the result of 6 x 3.
+1002,3,Math,7,3,2,Find the result of 9 x 2.
+1003,3,Math,7,3,3,Find the result of 6 x 7.
+1004,3,Math,7,3,4,Find the result of 7 x 8.
+1005,3,Math,7,3,5,Find the result of 33 divided by 3.
+1006,3,Math,8,1,1,Find the result of 30 divided by 5.
+1007,3,Math,8,1,2,Find the result of 1 x 2.
+1008,3,Math,8,1,3,Find the result of 5 divided by 5.
+1009,3,Math,8,1,4,Find the result of 27 divided by 3.
+1010,3,Math,8,1,5,Find the result of 11 divided by 1.
+1011,3,Math,8,2,1,Find the result of 64 divided by 8.
+1012,3,Math,8,2,2,Find the result of 9 x 10.
+1013,3,Math,8,2,3,Find the result of 48 divided by 6.
+1014,3,Math,8,2,4,Find the result of 25 divided by 5.
+1015,3,Math,8,2,5,Find the result of 7 x 3.
+1016,3,Math,8,3,1,Find the result of 11 x 2.
+1017,3,Math,8,3,2,Find the result of 49 divided by 7.
+1018,3,Math,8,3,3,Find the result of 1 x 5.
+1019,3,Math,8,3,4,Find the result of 6 x 5.
+1020,3,Math,8,3,5,Find the result of 77 divided by 7.
+1021,3,Math,9,1,1,Find the result of 1 x 1.
+1022,3,Math,9,1,2,Find the result of 7 x 5.
+1023,3,Math,9,1,3,Find the result of 8 divided by 2.
+1024,3,Math,9,1,4,Find the result of 10 divided by 5.
+1025,3,Math,9,1,5,Find the result of 8 x 6.
+1026,3,Math,9,2,1,Find the result of 9 x 9.
+1027,3,Math,9,2,2,Find the result of 7 divided by 1.
+1028,3,Math,9,2,3,Find the result of 20 divided by 4.
+1029,3,Math,9,2,4,Find the result of 3 x 1.
+1030,3,Math,9,2,5,Find the result of 11 x 1.
+1031,3,Math,9,3,1,Find the result of 14 divided by 2.
+1032,3,Math,9,3,2,Find the result of 48 divided by 4.
+1033,3,Math,9,3,3,Find the result of 6 divided by 2.
+1034,3,Math,9,3,4,Find the result of 3 x 8.
+1035,3,Math,9,3,5,Find the result of 42 divided by 6.
+1036,3,Math,10,1,1,Find the result of 36 divided by 4.
+1037,3,Math,10,1,2,Find the result of 1 x 7.
+1038,3,Math,10,1,3,Find the result of 8 x 1.
+1039,3,Math,10,1,4,Find the result of 10 x 8.
+1040,3,Math,10,1,5,Find the result of 2 x 6.
+1041,3,Math,10,2,1,Find the result of 10 x 1.
+1042,3,Math,10,2,2,Find the result of 6 divided by 6.
+1043,3,Math,10,2,3,Find the result of 54 divided by 6.
+1044,3,Math,10,2,4,Find the result of 108 divided by 9.
+1045,3,Math,10,2,5,Find the result of 80 divided by 10.
+1046,3,Math,10,3,1,Find the result of 12 x 9.
+1047,3,Math,10,3,2,Find the result of 1 x 9.
+1048,3,Math,10,3,3,Find the result of 24 divided by 4.
+1049,3,Math,10,3,4,Find the result of 1 x 4.
+1050,3,Math,10,3,5,Find the result of 72 divided by 8.
+1051,3,English,1,1,1,Which word is an adjective: Quickly or Slowly? (Example 691)
+1052,3,English,1,1,2,Choose the correct preposition: The book is at the table. (Example 953)
+1053,3,English,1,1,3,Which word is an adjective: Blue or Box? (Example 138)
+1054,3,English,1,1,4,Choose the correct preposition: The book is in the table. (Example 871)
+1055,3,English,1,1,5,Choose the correct preposition: The book is under the table. (Example 245)
+1056,3,English,1,2,1,Which word is an adjective: Quickly or Slowly? (Example 457)
+1057,3,English,1,2,2,Which word is an adjective: Sad or Jump? (Example 627)
+1058,3,English,1,2,3,Choose the correct preposition: The book is at the table. (Example 668)
+1059,3,English,1,2,4,Choose the correct preposition: The book is in the table. (Example 536)
+1060,3,English,1,2,5,Change 'talk' to past tense. (Example 621)
+1061,3,English,1,3,1,Which word is an adjective: Sad or Jump? (Example 194)
+1062,3,English,1,3,2,Change 'talk' to past tense. (Example 380)
+1063,3,English,1,3,3,Change 'walk' to past tense. (Example 225)
+1064,3,English,1,3,4,Choose the correct preposition: The book is in the table. (Example 488)
+1065,3,English,1,3,5,Which word is an adjective: Sad or Slowly? (Example 380)
+1066,3,English,2,1,1,Choose the correct preposition: The book is on the table. (Example 527)
+1067,3,English,2,1,2,Which word is an adjective: Soft or Slowly? (Example 154)
+1068,3,English,2,1,3,Which word is an adjective: Blue or Run? (Example 914)
+1069,3,English,2,1,4,Change 'talk' to past tense. (Example 696)
+1070,3,English,2,1,5,Choose the correct preposition: The book is at the table. (Example 802)
+1071,3,English,2,2,1,Change 'jump' to past tense. (Example 970)
+1072,3,English,2,2,2,Change 'talk' to past tense. (Example 924)
+1073,3,English,2,2,3,Change 'walk' to past tense.
+1074,3,English,2,2,4,Which word is an adjective: Blue or Run?
+1075,3,English,2,2,5,Change 'play' to past tense. (Example 359)
+1076,3,English,2,3,1,Which word is an adjective: Sad or Jump?
+1077,3,English,2,3,2,Which word is an adjective: Blue or Run? (Example 385)
+1078,3,English,2,3,3,Choose the correct preposition: The book is in the table. (Example 531)
+1079,3,English,2,3,4,Choose the correct preposition: The book is in the table. (Example 663)
+1080,3,English,2,3,5,Change 'jump' to past tense.
+1081,3,English,3,1,1,Which word is an adjective: Soft or Jump? (Example 593)
+1082,3,English,3,1,2,Change 'jump' to past tense. (Example 110)
+1083,3,English,3,1,3,Which word is an adjective: Sad or Slowly?
+1084,3,English,3,1,4,Which word is an adjective: Soft or Box? (Example 611)
+1085,3,English,3,1,5,Choose the correct preposition: The book is on the table. (Example 766)
+1086,3,English,3,2,1,Which word is an adjective: Sad or Run?
+1087,3,English,3,2,2,Change 'play' to past tense. (Example 565)
+1088,3,English,3,2,3,Which word is an adjective: Quickly or Jump?
+1089,3,English,3,2,4,Change 'walk' to past tense. (Example 494)
+1090,3,English,3,2,5,Choose the correct preposition: The book is in the table. (Example 127)
+1091,3,English,3,3,1,Change 'play' to past tense. (Example 481)
+1092,3,English,3,3,2,Change 'walk' to past tense. (Example 548)
+1093,3,English,3,3,3,Which word is an adjective: Soft or Slowly? (Example 742)
+1094,3,English,3,3,4,Which word is an adjective: Sad or Slowly? (Example 375)
+1095,3,English,3,3,5,Which word is an adjective: Soft or Jump?
+1096,3,English,4,1,1,Which word is an adjective: Blue or Box? (Example 535)
+1097,3,English,4,1,2,Choose the correct preposition: The book is at the table. (Example 235)
+1098,3,English,4,1,3,Choose the correct preposition: The book is at the table. (Example 949)
+1099,3,English,4,1,4,Change 'sing' to past tense. (Example 7)
+1100,3,English,4,1,5,Which word is an adjective: Blue or Jump? (Example 386)
+1101,3,English,4,2,1,Change 'talk' to past tense. (Example 118)
+1102,3,English,4,2,2,Which word is an adjective: Quickly or Slowly?
+1103,3,English,4,2,3,Change 'jump' to past tense. (Example 240)
+1104,3,English,4,2,4,Choose the correct preposition: The book is in the table. (Example 460)
+1105,3,English,4,2,5,Choose the correct preposition: The book is under the table. (Example 498)
+1106,3,English,4,3,1,Which word is an adjective: Soft or Slowly? (Example 580)
+1107,3,English,4,3,2,Change 'sing' to past tense. (Example 5)
+1108,3,English,4,3,3,Which word is an adjective: Quickly or Run? (Example 220)
+1109,3,English,4,3,4,Choose the correct preposition: The book is at the table. (Example 362)
+1110,3,English,4,3,5,Which word is an adjective: Quickly or Slowly? (Example 645)
+1111,3,English,5,1,1,Choose the correct preposition: The book is at the table. (Example 284)
+1112,3,English,5,1,2,Which word is an adjective: Blue or Box? (Example 373)
+1113,3,English,5,1,3,Which word is an adjective: Blue or Slowly?
+1114,3,English,5,1,4,Choose the correct preposition: The book is on the table. (Example 592)
+1115,3,English,5,1,5,Change 'play' to past tense. (Example 774)
+1116,3,English,5,2,1,Which word is an adjective: Soft or Box? (Example 990)
+1117,3,English,5,2,2,Choose the correct preposition: The book is in the table. (Example 632)
+1118,3,English,5,2,3,Which word is an adjective: Sad or Box?
+1119,3,English,5,2,4,Which word is an adjective: Soft or Run? (Example 721)
+1120,3,English,5,2,5,Which word is an adjective: Quickly or Box?
+1121,3,English,5,3,1,Which word is an adjective: Blue or Jump? (Example 880)
+1122,3,English,5,3,2,Choose the correct preposition: The book is at the table.
+1123,3,English,5,3,3,Which word is an adjective: Sad or Jump? (Example 821)
+1124,3,English,5,3,4,Change 'play' to past tense.
+1125,3,English,5,3,5,Change 'talk' to past tense. (Example 805)
+1126,3,English,6,1,1,Change 'play' to past tense. (Example 785)
+1127,3,English,6,1,2,Change 'jump' to past tense. (Example 602)
+1128,3,English,6,1,3,Which word is an adjective: Quickly or Run?
+1129,3,English,6,1,4,Which word is an adjective: Blue or Run? (Example 563)
+1130,3,English,6,1,5,Choose the correct preposition: The book is in the table. (Example 588)
+1131,3,English,6,2,1,Which word is an adjective: Blue or Jump?
+1132,3,English,6,2,2,Choose the correct preposition: The book is at the table. (Example 450)
+1133,3,English,6,2,3,Choose the correct preposition: The book is on the table. (Example 742)
+1134,3,English,6,2,4,Change 'talk' to past tense. (Example 65)
+1135,3,English,6,2,5,Which word is an adjective: Sad or Slowly? (Example 621)
+1136,3,English,6,3,1,Which word is an adjective: Soft or Jump? (Example 987)
+1137,3,English,6,3,2,Change 'talk' to past tense. (Example 688)
+1138,3,English,6,3,3,Choose the correct preposition: The book is in the table. (Example 580)
+1139,3,English,6,3,4,Choose the correct preposition: The book is under the table. (Example 898)
+1140,3,English,6,3,5,Choose the correct preposition: The book is on the table.
+1141,3,English,7,1,1,Which word is an adjective: Soft or Run?
+1142,3,English,7,1,2,Which word is an adjective: Soft or Box? (Example 754)
+1143,3,English,7,1,3,Which word is an adjective: Soft or Slowly?
+1144,3,English,7,1,4,Change 'sing' to past tense. (Example 937)
+1145,3,English,7,1,5,Change 'talk' to past tense. (Example 913)
+1146,3,English,7,2,1,Which word is an adjective: Sad or Run? (Example 66)
+1147,3,English,7,2,2,Choose the correct preposition: The book is at the table. (Example 566)
+1148,3,English,7,2,3,Which word is an adjective: Soft or Slowly? (Example 35)
+1149,3,English,7,2,4,Which word is an adjective: Sad or Box? (Example 175)
+1150,3,English,7,2,5,Which word is an adjective: Blue or Box?
+1151,3,English,7,3,1,Change 'jump' to past tense. (Example 632)
+1152,3,English,7,3,2,Choose the correct preposition: The book is on the table. (Example 755)
+1153,3,English,7,3,3,Which word is an adjective: Soft or Box?
+1154,3,English,7,3,4,Change 'talk' to past tense. (Example 5)
+1155,3,English,7,3,5,Choose the correct preposition: The book is on the table. (Example 833)
+1156,3,English,8,1,1,Change 'play' to past tense. (Example 368)
+1157,3,English,8,1,2,Which word is an adjective: Blue or Run? (Example 844)
+1158,3,English,8,1,3,Choose the correct preposition: The book is in the table. (Example 744)
+1159,3,English,8,1,4,Which word is an adjective: Blue or Slowly? (Example 425)
+1160,3,English,8,1,5,Choose the correct preposition: The book is at the table. (Example 614)
+1161,3,English,8,2,1,Which word is an adjective: Soft or Slowly? (Example 423)
+1162,3,English,8,2,2,Which word is an adjective: Quickly or Box? (Example 170)
+1163,3,English,8,2,3,Which word is an adjective: Soft or Run? (Example 969)
+1164,3,English,8,2,4,Which word is an adjective: Sad or Box? (Example 601)
+1165,3,English,8,2,5,Change 'talk' to past tense. (Example 112)
+1166,3,English,8,3,1,Change 'sing' to past tense. (Example 72)
+1167,3,English,8,3,2,Choose the correct preposition: The book is in the table. (Example 662)
+1168,3,English,8,3,3,Change 'play' to past tense. (Example 812)
+1169,3,English,8,3,4,Change 'walk' to past tense. (Example 250)
+1170,3,English,8,3,5,Choose the correct preposition: The book is in the table. (Example 639)
+1171,3,English,9,1,1,Change 'play' to past tense. (Example 629)
+1172,3,English,9,1,2,Choose the correct preposition: The book is under the table. (Example 557)
+1173,3,English,9,1,3,Choose the correct preposition: The book is in the table. (Example 270)
+1174,3,English,9,1,4,Which word is an adjective: Blue or Run? (Example 516)
+1175,3,English,9,1,5,Choose the correct preposition: The book is at the table. (Example 616)
+1176,3,English,9,2,1,Choose the correct preposition: The book is on the table. (Example 291)
+1177,3,English,9,2,2,Choose the correct preposition: The book is on the table. (Example 872)
+1178,3,English,9,2,3,Which word is an adjective: Sad or Jump? (Example 315)
+1179,3,English,9,2,4,Which word is an adjective: Soft or Slowly? (Example 476)
+1180,3,English,9,2,5,Choose the correct preposition: The book is under the table.
+1181,3,English,9,3,1,Which word is an adjective: Blue or Run? (Example 96)
+1182,3,English,9,3,2,Change 'sing' to past tense.
+1183,3,English,9,3,3,Which word is an adjective: Blue or Jump? (Example 970)
+1184,3,English,9,3,4,Choose the correct preposition: The book is on the table. (Example 587)
+1185,3,English,9,3,5,Which word is an adjective: Blue or Slowly? (Example 89)
+1186,3,English,10,1,1,Choose the correct preposition: The book is in the table. (Example 371)
+1187,3,English,10,1,2,Change 'walk' to past tense. (Example 41)
+1188,3,English,10,1,3,Which word is an adjective: Quickly or Box? (Example 670)
+1189,3,English,10,1,4,Change 'talk' to past tense. (Example 417)
+1190,3,English,10,1,5,Which word is an adjective: Blue or Slowly? (Example 399)
+1191,3,English,10,2,1,Which word is an adjective: Sad or Run? (Example 298)
+1192,3,English,10,2,2,Choose the correct preposition: The book is in the table.
+1193,3,English,10,2,3,Which word is an adjective: Blue or Slowly? (Example 388)
+1194,3,English,10,2,4,Which word is an adjective: Blue or Slowly? (Example 58)
+1195,3,English,10,2,5,Which word is an adjective: Soft or Jump? (Example 876)
+1196,3,English,10,3,1,Change 'play' to past tense. (Example 842)
+1197,3,English,10,3,2,Choose the correct preposition: The book is under the table. (Example 945)
+1198,3,English,10,3,3,Change 'talk' to past tense.
+1199,3,English,10,3,4,Change 'play' to past tense. (Example 362)
+1200,3,English,10,3,5,Change 'jump' to past tense. (Example 896)
+1201,3,Science,1,1,1,A Candle is a source of heat.
+1202,3,Science,1,1,2,What is the solid form of water? (Q-855)
+1203,3,Science,1,1,3,A Sun is a source of light. (Q-261)
+1204,3,Science,1,1,4,In which season do we wear sweaters? (Q-899)
+1205,3,Science,1,1,5,In which season do we wear raincoats? (Q-294)
+1206,3,Science,1,2,1,What is the solid form of water? (Q-265)
+1207,3,Science,1,2,2,A Sun is a source of light. (Q-919)
+1208,3,Science,1,2,3,A Sun is a source of heat. (Q-904)
+1209,3,Science,1,2,4,A Candle is a source of light. (Q-690)
+1210,3,Science,1,2,5,A Bulb is a source of light. (Q-112)
+1211,3,Science,1,3,1,What is the gas form of water? (Q-544)
+1212,3,Science,1,3,2,What is the gas form of water? (Q-482)
+1213,3,Science,1,3,3,In which season do we wear raincoats?
+1214,3,Science,1,3,4,What is the liquid form of water? (Q-393)
+1215,3,Science,1,3,5,In which season do we wear sweaters? (Q-494)
+1216,3,Science,2,1,1,A Bulb is a source of heat. (Q-969)
+1217,3,Science,2,1,2,In which season do we wear sweaters? (Q-433)
+1218,3,Science,2,1,3,What is the solid form of water? (Q-143)
+1219,3,Science,2,1,4,What is the liquid form of water? (Q-213)
+1220,3,Science,2,1,5,In which season do we wear sweaters?
+1221,3,Science,2,2,1,What is the liquid form of water? (Q-110)
+1222,3,Science,2,2,2,In which season do we wear sweaters? (Q-338)
+1223,3,Science,2,2,3,In which season do we wear sweaters? (Q-989)
+1224,3,Science,2,2,4,In which season do we wear sweaters? (Q-290)
+1225,3,Science,2,2,5,A Candle is a source of light. (Q-633)
+1226,3,Science,2,3,1,In which season do we wear cotton clothes? (Q-827)
+1227,3,Science,2,3,2,What is the gas form of water? (Q-267)
+1228,3,Science,2,3,3,A Bulb is a source of light. (Q-369)
+1229,3,Science,2,3,4,In which season do we wear sweaters? (Q-129)
+1230,3,Science,2,3,5,What is the solid form of water? (Q-531)
+1231,3,Science,3,1,1,A Sun is a source of heat. (Q-530)
+1232,3,Science,3,1,2,In which season do we wear sweaters? (Q-968)
+1233,3,Science,3,1,3,A Sun is a source of light. (Q-705)
+1234,3,Science,3,1,4,In which season do we wear sweaters? (Q-882)
+1235,3,Science,3,1,5,A Candle is a source of heat. (Q-177)
+1236,3,Science,3,2,1,A Bulb is a source of light. (Q-868)
+1237,3,Science,3,2,2,In which season do we wear raincoats? (Q-867)
+1238,3,Science,3,2,3,What is the gas form of water? (Q-882)
+1239,3,Science,3,2,4,In which season do we wear cotton clothes? (Q-259)
+1240,3,Science,3,2,5,In which season do we wear raincoats? (Q-764)
+1241,3,Science,3,3,1,What is the solid form of water? (Q-115)
+1242,3,Science,3,3,2,What is the gas form of water? (Q-845)
+1243,3,Science,3,3,3,In which season do we wear sweaters? (Q-359)
+1244,3,Science,3,3,4,A Bulb is a source of light. (Q-267)
+1245,3,Science,3,3,5,In which season do we wear cotton clothes? (Q-893)
+1246,3,Science,4,1,1,What is the solid form of water? (Q-845)
+1247,3,Science,4,1,2,A Candle is a source of light. (Q-818)
+1248,3,Science,4,1,3,A Bulb is a source of heat. (Q-109)
+1249,3,Science,4,1,4,What is the liquid form of water? (Q-224)
+1250,3,Science,4,1,5,In which season do we wear cotton clothes? (Q-661)
+1251,3,Science,4,2,1,What is the solid form of water? (Q-157)
+1252,3,Science,4,2,2,A Candle is a source of heat. (Q-377)
+1253,3,Science,4,2,3,A Candle is a source of heat. (Q-303)
+1254,3,Science,4,2,4,What is the liquid form of water? (Q-195)
+1255,3,Science,4,2,5,A Bulb is a source of heat. (Q-652)
+1256,3,Science,4,3,1,In which season do we wear cotton clothes? (Q-636)
+1257,3,Science,4,3,2,A Candle is a source of light. (Q-340)
+1258,3,Science,4,3,3,A Candle is a source of light. (Q-126)
+1259,3,Science,4,3,4,What is the gas form of water? (Q-934)
+1260,3,Science,4,3,5,A Bulb is a source of light. (Q-656)
+1261,3,Science,5,1,1,In which season do we wear raincoats? (Q-998)
+1262,3,Science,5,1,2,In which season do we wear cotton clothes? (Q-180)
+1263,3,Science,5,1,3,In which season do we wear cotton clothes? (Q-342)
+1264,3,Science,5,1,4,A Sun is a source of heat. (Q-424)
+1265,3,Science,5,1,5,A Sun is a source of light. (Q-913)
+1266,3,Science,5,2,1,In which season do we wear raincoats? (Q-258)
+1267,3,Science,5,2,2,In which season do we wear sweaters? (Q-614)
+1268,3,Science,5,2,3,What is the liquid form of water? (Q-674)
+1269,3,Science,5,2,4,What is the gas form of water? (Q-542)
+1270,3,Science,5,2,5,In which season do we wear raincoats? (Q-604)
+1271,3,Science,5,3,1,In which season do we wear sweaters? (Q-507)
+1272,3,Science,5,3,2,A Sun is a source of light. (Q-215)
+1273,3,Science,5,3,3,A Sun is a source of light. (Q-961)
+1274,3,Science,5,3,4,A Bulb is a source of light.
+1275,3,Science,5,3,5,What is the gas form of water? (Q-376)
+1276,3,Science,6,1,1,In which season do we wear sweaters? (Q-933)
+1277,3,Science,6,1,2,What is the gas form of water? (Q-357)
+1278,3,Science,6,1,3,A Bulb is a source of heat. (Q-474)
+1279,3,Science,6,1,4,In which season do we wear sweaters? (Q-161)
+1280,3,Science,6,1,5,A Candle is a source of light. (Q-206)
+1281,3,Science,6,2,1,In which season do we wear cotton clothes? (Q-416)
+1282,3,Science,6,2,2,A Candle is a source of light. (Q-804)
+1283,3,Science,6,2,3,What is the solid form of water? (Q-974)
+1284,3,Science,6,2,4,A Sun is a source of light. (Q-303)
+1285,3,Science,6,2,5,What is the liquid form of water? (Q-522)
+1286,3,Science,6,3,1,A Candle is a source of heat. (Q-700)
+1287,3,Science,6,3,2,What is the solid form of water? (Q-270)
+1288,3,Science,6,3,3,A Bulb is a source of light. (Q-915)
+1289,3,Science,6,3,4,What is the liquid form of water?
+1290,3,Science,6,3,5,A Sun is a source of light. (Q-165)
+1291,3,Science,7,1,1,What is the gas form of water?
+1292,3,Science,7,1,2,A Bulb is a source of heat. (Q-386)
+1293,3,Science,7,1,3,In which season do we wear sweaters? (Q-438)
+1294,3,Science,7,1,4,In which season do we wear sweaters? (Q-228)
+1295,3,Science,7,1,5,What is the liquid form of water? (Q-219)
+1296,3,Science,7,2,1,A Candle is a source of heat. (Q-602)
+1297,3,Science,7,2,2,A Sun is a source of light. (Q-689)
+1298,3,Science,7,2,3,What is the solid form of water?
+1299,3,Science,7,2,4,A Bulb is a source of heat. (Q-675)
+1300,3,Science,7,2,5,What is the solid form of water? (Q-933)
+1301,3,Science,7,3,1,What is the liquid form of water? (Q-740)
+1302,3,Science,7,3,2,A Bulb is a source of heat. (Q-574)
+1303,3,Science,7,3,3,A Bulb is a source of light. (Q-568)
+1304,3,Science,7,3,4,A Bulb is a source of heat. (Q-523)
+1305,3,Science,7,3,5,A Bulb is a source of heat. (Q-522)
+1306,3,Science,8,1,1,A Bulb is a source of light. (Q-224)
+1307,3,Science,8,1,2,In which season do we wear sweaters? (Q-993)
+1308,3,Science,8,1,3,In which season do we wear sweaters? (Q-488)
+1309,3,Science,8,1,4,A Sun is a source of heat. (Q-877)
+1310,3,Science,8,1,5,What is the liquid form of water? (Q-375)
+1311,3,Science,8,2,1,A Bulb is a source of light. (Q-560)
+1312,3,Science,8,2,2,What is the gas form of water? (Q-662)
+1313,3,Science,8,2,3,A Candle is a source of heat. (Q-291)
+1314,3,Science,8,2,4,A Candle is a source of heat. (Q-430)
+1315,3,Science,8,2,5,In which season do we wear cotton clothes?
+1316,3,Science,8,3,1,In which season do we wear sweaters? (Q-155)
+1317,3,Science,8,3,2,In which season do we wear sweaters? (Q-587)
+1318,3,Science,8,3,3,A Bulb is a source of heat. (Q-292)
+1319,3,Science,8,3,4,A Candle is a source of light. (Q-186)
+1320,3,Science,8,3,5,In which season do we wear cotton clothes? (Q-366)
+1321,3,Science,9,1,1,A Sun is a source of light.
+1322,3,Science,9,1,2,In which season do we wear cotton clothes? (Q-732)
+1323,3,Science,9,1,3,What is the gas form of water? (Q-927)
+1324,3,Science,9,1,4,In which season do we wear cotton clothes? (Q-287)
+1325,3,Science,9,1,5,In which season do we wear cotton clothes? (Q-746)
+1326,3,Science,9,2,1,A Sun is a source of light. (Q-150)
+1327,3,Science,9,2,2,A Sun is a source of heat.
+1328,3,Science,9,2,3,A Bulb is a source of heat. (Q-789)
+1329,3,Science,9,2,4,In which season do we wear raincoats? (Q-801)
+1330,3,Science,9,2,5,In which season do we wear raincoats? (Q-761)
+1331,3,Science,9,3,1,In which season do we wear cotton clothes? (Q-589)
+1332,3,Science,9,3,2,What is the solid form of water? (Q-286)
+1333,3,Science,9,3,3,A Bulb is a source of heat. (Q-452)
+1334,3,Science,9,3,4,A Bulb is a source of heat. (Q-366)
+1335,3,Science,9,3,5,What is the gas form of water? (Q-548)
+1336,3,Science,10,1,1,A Bulb is a source of heat.
+1337,3,Science,10,1,2,A Candle is a source of light. (Q-505)
+1338,3,Science,10,1,3,In which season do we wear raincoats? (Q-646)
+1339,3,Science,10,1,4,What is the gas form of water? (Q-465)
+1340,3,Science,10,1,5,In which season do we wear sweaters? (Q-584)
+1341,3,Science,10,2,1,In which season do we wear raincoats? (Q-586)
+1342,3,Science,10,2,2,What is the liquid form of water? (Q-817)
+1343,3,Science,10,2,3,What is the liquid form of water? (Q-534)
+1344,3,Science,10,2,4,A Bulb is a source of heat. (Q-991)
+1345,3,Science,10,2,5,What is the solid form of water? (Q-552)
+1346,3,Science,10,3,1,What is the solid form of water? (Q-180)
+1347,3,Science,10,3,2,A Candle is a source of light.
+1348,3,Science,10,3,3,A Bulb is a source of light. (Q-234)
+1349,3,Science,10,3,4,What is the gas form of water? (Q-630)
+1350,3,Science,10,3,5,A Candle is a source of heat. (Q-574)
+1351,4,Math,1,1,1,Solve: 435 - 56.
+1352,4,Math,1,1,2,Solve: 149 x 75.
+1353,4,Math,1,1,3,Solve: 413 - 122.
+1354,4,Math,1,1,4,Solve: 459 + 115.
+1355,4,Math,1,1,5,Solve: 420 + 127.
+1356,4,Math,1,2,1,Solve: 287 + 166.
+1357,4,Math,1,2,2,Solve: 139 x 105.
+1358,4,Math,1,2,3,Solve: 475 + 99.
+1359,4,Math,1,2,4,Solve: 385 - 156.
+1360,4,Math,1,2,5,Solve: 302 + 196.
+1361,4,Math,1,3,1,Solve: 383 + 91.
+1362,4,Math,1,3,2,Solve: 467 + 68.
+1363,4,Math,1,3,3,Solve: 115 - 192.
+1364,4,Math,1,3,4,Solve: 450 + 197.
+1365,4,Math,1,3,5,Solve: 335 + 141.
+1366,4,Math,2,1,1,Solve: 360 - 75.
+1367,4,Math,2,1,2,Solve: 428 x 149.
+1368,4,Math,2,1,3,Solve: 309 + 132.
+1369,4,Math,2,1,4,Solve: 186 x 139.
+1370,4,Math,2,1,5,Solve: 487 + 71.
+1371,4,Math,2,2,1,Solve: 206 + 175.
+1372,4,Math,2,2,2,Solve: 384 x 196.
+1373,4,Math,2,2,3,Solve: 420 x 95.
+1374,4,Math,2,2,4,Solve: 204 x 189.
+1375,4,Math,2,2,5,Solve: 111 + 60.
+1376,4,Math,2,3,1,Solve: 297 - 109.
+1377,4,Math,2,3,2,Solve: 261 - 190.
+1378,4,Math,2,3,3,Solve: 404 + 126.
+1379,4,Math,2,3,4,Solve: 290 x 155.
+1380,4,Math,2,3,5,Solve: 331 - 164.
+1381,4,Math,3,1,1,Solve: 278 - 161.
+1382,4,Math,3,1,2,Solve: 417 - 87.
+1383,4,Math,3,1,3,Solve: 305 - 179.
+1384,4,Math,3,1,4,Solve: 350 x 184.
+1385,4,Math,3,1,5,Solve: 224 - 68.
+1386,4,Math,3,2,1,Solve: 338 + 52.
+1387,4,Math,3,2,2,Solve: 350 x 150.
+1388,4,Math,3,2,3,Solve: 475 + 97.
+1389,4,Math,3,2,4,Solve: 470 - 84.
+1390,4,Math,3,2,5,Solve: 154 + 174.
+1391,4,Math,3,3,1,Solve: 150 x 58.
+1392,4,Math,3,3,2,Solve: 356 x 161.
+1393,4,Math,3,3,3,Solve: 122 + 109.
+1394,4,Math,3,3,4,Solve: 341 - 55.
+1395,4,Math,3,3,5,Solve: 100 - 58.
+1396,4,Math,4,1,1,Solve: 156 - 128.
+1397,4,Math,4,1,2,Solve: 349 + 197.
+1398,4,Math,4,1,3,Solve: 107 x 137.
+1399,4,Math,4,1,4,Solve: 478 + 63.
+1400,4,Math,4,1,5,Solve: 457 - 54.
+1401,4,Math,4,2,1,Solve: 209 x 146.
+1402,4,Math,4,2,2,Solve: 120 x 174.
+1403,4,Math,4,2,3,Solve: 475 - 68.
+1404,4,Math,4,2,4,Solve: 498 + 147.
+1405,4,Math,4,2,5,Solve: 207 + 187.
+1406,4,Math,4,3,1,Solve: 392 x 152.
+1407,4,Math,4,3,2,Solve: 161 x 108.
+1408,4,Math,4,3,3,Solve: 169 + 127.
+1409,4,Math,4,3,4,Solve: 222 x 132.
+1410,4,Math,4,3,5,Solve: 241 x 191.
+1411,4,Math,5,1,1,Solve: 497 - 179.
+1412,4,Math,5,1,2,Solve: 125 - 150.
+1413,4,Math,5,1,3,Solve: 263 x 188.
+1414,4,Math,5,1,4,Solve: 354 + 191.
+1415,4,Math,5,1,5,Solve: 371 - 89.
+1416,4,Math,5,2,1,Solve: 223 x 194.
+1417,4,Math,5,2,2,Solve: 339 x 120.
+1418,4,Math,5,2,3,Solve: 450 - 140.
+1419,4,Math,5,2,4,Solve: 474 - 197.
+1420,4,Math,5,2,5,Solve: 334 x 193.
+1421,4,Math,5,3,1,Solve: 230 + 93.
+1422,4,Math,5,3,2,Solve: 347 x 86.
+1423,4,Math,5,3,3,Solve: 176 x 133.
+1424,4,Math,5,3,4,Solve: 334 + 159.
+1425,4,Math,5,3,5,Solve: 324 - 193.
+1426,4,Math,6,1,1,Solve: 326 - 87.
+1427,4,Math,6,1,2,Solve: 348 + 186.
+1428,4,Math,6,1,3,Solve: 125 - 190.
+1429,4,Math,6,1,4,Solve: 436 x 113.
+1430,4,Math,6,1,5,Solve: 223 + 196.
+1431,4,Math,6,2,1,Solve: 185 x 96.
+1432,4,Math,6,2,2,Solve: 450 + 145.
+1433,4,Math,6,2,3,Solve: 398 + 184.
+1434,4,Math,6,2,4,Solve: 195 x 100.
+1435,4,Math,6,2,5,Solve: 343 x 196.
+1436,4,Math,6,3,1,Solve: 278 x 132.
+1437,4,Math,6,3,2,Solve: 482 x 77.
+1438,4,Math,6,3,3,Solve: 395 x 141.
+1439,4,Math,6,3,4,Solve: 245 x 101.
+1440,4,Math,6,3,5,Solve: 434 x 52.
+1441,4,Math,7,1,1,Solve: 405 x 54.
+1442,4,Math,7,1,2,Solve: 197 x 99.
+1443,4,Math,7,1,3,Solve: 261 x 55.
+1444,4,Math,7,1,4,Solve: 452 - 146.
+1445,4,Math,7,1,5,Solve: 385 - 138.
+1446,4,Math,7,2,1,Solve: 377 + 175.
+1447,4,Math,7,2,2,Solve: 253 + 106.
+1448,4,Math,7,2,3,Solve: 109 x 124.
+1449,4,Math,7,2,4,Solve: 251 x 117.
+1450,4,Math,7,2,5,Solve: 231 + 126.
+1451,4,Math,7,3,1,Solve: 180 - 54.
+1452,4,Math,7,3,2,Solve: 416 + 119.
+1453,4,Math,7,3,3,Solve: 462 x 64.
+1454,4,Math,7,3,4,Solve: 386 - 100.
+1455,4,Math,7,3,5,Solve: 132 - 187.
+1456,4,Math,8,1,1,Solve: 179 + 74.
+1457,4,Math,8,1,2,Solve: 211 x 69.
+1458,4,Math,8,1,3,Solve: 473 x 147.
+1459,4,Math,8,1,4,Solve: 387 + 184.
+1460,4,Math,8,1,5,Solve: 298 x 119.
+1461,4,Math,8,2,1,Solve: 484 x 116.
+1462,4,Math,8,2,2,Solve: 457 + 106.
+1463,4,Math,8,2,3,Solve: 301 + 85.
+1464,4,Math,8,2,4,Solve: 149 x 183.
+1465,4,Math,8,2,5,Solve: 157 - 155.
+1466,4,Math,8,3,1,Solve: 166 - 84.
+1467,4,Math,8,3,2,Solve: 497 - 160.
+1468,4,Math,8,3,3,Solve: 485 x 197.
+1469,4,Math,8,3,4,Solve: 248 + 150.
+1470,4,Math,8,3,5,Solve: 420 - 115.
+1471,4,Math,9,1,1,Solve: 339 - 65.
+1472,4,Math,9,1,2,Solve: 417 x 143.
+1473,4,Math,9,1,3,Solve: 436 x 90.
+1474,4,Math,9,1,4,Solve: 390 x 97.
+1475,4,Math,9,1,5,Solve: 146 - 106.
+1476,4,Math,9,2,1,Solve: 481 - 115.
+1477,4,Math,9,2,2,Solve: 170 - 117.
+1478,4,Math,9,2,3,Solve: 167 + 136.
+1479,4,Math,9,2,4,Solve: 197 x 184.
+1480,4,Math,9,2,5,Solve: 215 - 88.
+1481,4,Math,9,3,1,Solve: 264 x 138.
+1482,4,Math,9,3,2,Solve: 437 + 142.
+1483,4,Math,9,3,3,Solve: 287 x 106.
+1484,4,Math,9,3,4,Solve: 236 + 185.
+1485,4,Math,9,3,5,Solve: 140 - 64.
+1486,4,Math,10,1,1,Solve: 218 - 186.
+1487,4,Math,10,1,2,Solve: 356 + 120.
+1488,4,Math,10,1,3,Solve: 234 - 71.
+1489,4,Math,10,1,4,Solve: 349 - 109.
+1490,4,Math,10,1,5,Solve: 287 + 139.
+1491,4,Math,10,2,1,Solve: 320 x 132.
+1492,4,Math,10,2,2,Solve: 483 - 192.
+1493,4,Math,10,2,3,Solve: 371 - 128.
+1494,4,Math,10,2,4,Solve: 407 - 163.
+1495,4,Math,10,2,5,Solve: 266 + 173.
+1496,4,Math,10,3,1,Solve: 398 + 113.
+1497,4,Math,10,3,2,Solve: 134 + 61.
+1498,4,Math,10,3,3,Solve: 191 + 58.
+1499,4,Math,10,3,4,Solve: 447 - 108.
+1500,4,Math,10,3,5,Solve: 256 + 184.
+1501,4,English,1,1,1,What is the comparative form of 'fast'? (Example 424)
+1502,4,English,1,1,2,Combine using 'and': I like fruit. I like jam.
+1503,4,English,1,1,3,Combine using 'and': I like fruit. I like butter. (Example 404)
+1504,4,English,1,1,4,Identify the gender of 'Bull'. (Example 519)
+1505,4,English,1,1,5,Identify the gender of 'Peacock'. (Example 580)
+1506,4,English,1,2,1,What is the comparative form of 'big'? (Example 214)
+1507,4,English,1,2,2,Identify the gender of 'Peacock'. (Example 424)
+1508,4,English,1,2,3,Combine using 'and': I like bread. I like jam.
+1509,4,English,1,2,4,Identify the gender of 'Peacock'.
+1510,4,English,1,2,5,Identify the gender of 'Actor'. (Example 475)
+1511,4,English,1,3,1,Identify the gender of 'Peacock'. (Example 82)
+1512,4,English,1,3,2,What is the comparative form of 'small'? (Example 819)
+1513,4,English,1,3,3,Identify the gender of 'Actor'. (Example 326)
+1514,4,English,1,3,4,What is the comparative form of 'small'? (Example 621)
+1515,4,English,1,3,5,What is the comparative form of 'tall'? (Example 713)
+1516,4,English,2,1,1,Combine using 'and': I like milk. I like honey. (Example 689)
+1517,4,English,2,1,2,Identify the gender of 'Bull'. (Example 529)
+1518,4,English,2,1,3,Combine using 'and': I like bread. I like butter. (Example 742)
+1519,4,English,2,1,4,Combine using 'and': I like bread. I like jam. (Example 135)
+1520,4,English,2,1,5,Identify the gender of 'King'. (Example 684)
+1521,4,English,2,2,1,Identify the gender of 'Peacock'. (Example 206)
+1522,4,English,2,2,2,Identify the gender of 'Bull'. (Example 605)
+1523,4,English,2,2,3,What is the comparative form of 'big'? (Example 251)
+1524,4,English,2,2,4,Combine using 'and': I like bread. I like honey.
+1525,4,English,2,2,5,Identify the gender of 'Actor'. (Example 57)
+1526,4,English,2,3,1,What is the comparative form of 'small'? (Example 189)
+1527,4,English,2,3,2,Combine using 'and': I like bread. I like honey. (Example 316)
+1528,4,English,2,3,3,What is the comparative form of 'big'? (Example 195)
+1529,4,English,2,3,4,Identify the gender of 'Actor'. (Example 110)
+1530,4,English,2,3,5,What is the comparative form of 'tall'? (Example 904)
+1531,4,English,3,1,1,Identify the gender of 'Actor'. (Example 984)
+1532,4,English,3,1,2,Identify the gender of 'Bull'. (Example 465)
+1533,4,English,3,1,3,Combine using 'and': I like milk. I like honey. (Example 712)
+1534,4,English,3,1,4,What is the comparative form of 'big'? (Example 471)
+1535,4,English,3,1,5,What is the comparative form of 'tall'? (Example 167)
+1536,4,English,3,2,1,What is the comparative form of 'big'? (Example 853)
+1537,4,English,3,2,2,Combine using 'and': I like bread. I like jam. (Example 895)
+1538,4,English,3,2,3,Combine using 'and': I like milk. I like butter. (Example 510)
+1539,4,English,3,2,4,Combine using 'and': I like milk. I like honey. (Example 842)
+1540,4,English,3,2,5,Combine using 'and': I like milk. I like butter.
+1541,4,English,3,3,1,Identify the gender of 'Actor'. (Example 704)
+1542,4,English,3,3,2,Combine using 'and': I like fruit. I like honey.
+1543,4,English,3,3,3,What is the comparative form of 'tall'? (Example 403)
+1544,4,English,3,3,4,Combine using 'and': I like fruit. I like honey. (Example 280)
+1545,4,English,3,3,5,Identify the gender of 'Actor'. (Example 281)
+1546,4,English,4,1,1,Combine using 'and': I like bread. I like butter.
+1547,4,English,4,1,2,What is the comparative form of 'big'? (Example 886)
+1548,4,English,4,1,3,What is the comparative form of 'tall'? (Example 707)
+1549,4,English,4,1,4,What is the comparative form of 'fast'? (Example 753)
+1550,4,English,4,1,5,What is the comparative form of 'small'? (Example 635)
+1551,4,English,4,2,1,What is the comparative form of 'small'? (Example 266)
+1552,4,English,4,2,2,Identify the gender of 'Peacock'. (Example 385)
+1553,4,English,4,2,3,What is the comparative form of 'tall'? (Example 195)
+1554,4,English,4,2,4,What is the comparative form of 'tall'? (Example 611)
+1555,4,English,4,2,5,Identify the gender of 'Bull'. (Example 899)
+1556,4,English,4,3,1,Identify the gender of 'King'.
+1557,4,English,4,3,2,Combine using 'and': I like milk. I like jam.
+1558,4,English,4,3,3,Identify the gender of 'Bull'.
+1559,4,English,4,3,4,Combine using 'and': I like milk. I like honey. (Example 122)
+1560,4,English,4,3,5,Combine using 'and': I like fruit. I like jam. (Example 709)
+1561,4,English,5,1,1,What is the comparative form of 'small'?
+1562,4,English,5,1,2,What is the comparative form of 'small'? (Example 474)
+1563,4,English,5,1,3,What is the comparative form of 'tall'? (Example 585)
+1564,4,English,5,1,4,Combine using 'and': I like bread. I like butter. (Example 171)
+1565,4,English,5,1,5,Combine using 'and': I like bread. I like jam. (Example 788)
+1566,4,English,5,2,1,What is the comparative form of 'small'? (Example 340)
+1567,4,English,5,2,2,Combine using 'and': I like milk. I like butter. (Example 332)
+1568,4,English,5,2,3,Combine using 'and': I like milk. I like jam. (Example 310)
+1569,4,English,5,2,4,Combine using 'and': I like milk. I like jam. (Example 753)
+1570,4,English,5,2,5,What is the comparative form of 'fast'? (Example 93)
+1571,4,English,5,3,1,Combine using 'and': I like fruit. I like jam. (Example 119)
+1572,4,English,5,3,2,What is the comparative form of 'fast'?
+1573,4,English,5,3,3,Identify the gender of 'King'. (Example 787)
+1574,4,English,5,3,4,What is the comparative form of 'big'? (Example 463)
+1575,4,English,5,3,5,What is the comparative form of 'small'? (Example 24)
+1576,4,English,6,1,1,Combine using 'and': I like fruit. I like butter. (Example 727)
+1577,4,English,6,1,2,Combine using 'and': I like milk. I like jam. (Example 472)
+1578,4,English,6,1,3,What is the comparative form of 'big'? (Example 496)
+1579,4,English,6,1,4,Combine using 'and': I like bread. I like butter. (Example 26)
+1580,4,English,6,1,5,Identify the gender of 'Peacock'. (Example 284)
+1581,4,English,6,2,1,What is the comparative form of 'small'? (Example 438)
+1582,4,English,6,2,2,Identify the gender of 'Bull'. (Example 641)
+1583,4,English,6,2,3,What is the comparative form of 'small'? (Example 569)
+1584,4,English,6,2,4,Identify the gender of 'Peacock'. (Example 463)
+1585,4,English,6,2,5,Combine using 'and': I like bread. I like jam. (Example 942)
+1586,4,English,6,3,1,What is the comparative form of 'tall'? (Example 990)
+1587,4,English,6,3,2,What is the comparative form of 'small'? (Example 579)
+1588,4,English,6,3,3,What is the comparative form of 'tall'? (Example 12)
+1589,4,English,6,3,4,Combine using 'and': I like milk. I like jam. (Example 725)
+1590,4,English,6,3,5,Combine using 'and': I like bread. I like jam. (Example 424)
+1591,4,English,7,1,1,What is the comparative form of 'tall'?
+1592,4,English,7,1,2,What is the comparative form of 'tall'? (Example 776)
+1593,4,English,7,1,3,Identify the gender of 'King'. (Example 112)
+1594,4,English,7,1,4,Combine using 'and': I like bread. I like butter. (Example 920)
+1595,4,English,7,1,5,Identify the gender of 'Bull'. (Example 533)
+1596,4,English,7,2,1,Combine using 'and': I like bread. I like butter. (Example 141)
+1597,4,English,7,2,2,Combine using 'and': I like bread. I like butter. (Example 906)
+1598,4,English,7,2,3,What is the comparative form of 'fast'? (Example 45)
+1599,4,English,7,2,4,Combine using 'and': I like fruit. I like jam. (Example 332)
+1600,4,English,7,2,5,Combine using 'and': I like milk. I like jam. (Example 140)
+1601,4,English,7,3,1,Combine using 'and': I like fruit. I like honey. (Example 856)
+1602,4,English,7,3,2,Identify the gender of 'Peacock'. (Example 359)
+1603,4,English,7,3,3,What is the comparative form of 'small'? (Example 38)
+1604,4,English,7,3,4,What is the comparative form of 'tall'? (Example 51)
+1605,4,English,7,3,5,Identify the gender of 'Actor'. (Example 27)
+1606,4,English,8,1,1,What is the comparative form of 'big'?
+1607,4,English,8,1,2,What is the comparative form of 'small'? (Example 795)
+1608,4,English,8,1,3,What is the comparative form of 'small'? (Example 950)
+1609,4,English,8,1,4,What is the comparative form of 'tall'? (Example 441)
+1610,4,English,8,1,5,Identify the gender of 'Actor'. (Example 339)
+1611,4,English,8,2,1,Combine using 'and': I like bread. I like jam. (Example 957)
+1612,4,English,8,2,2,What is the comparative form of 'tall'? (Example 388)
+1613,4,English,8,2,3,What is the comparative form of 'fast'? (Example 244)
+1614,4,English,8,2,4,Identify the gender of 'Actor'. (Example 936)
+1615,4,English,8,2,5,What is the comparative form of 'fast'? (Example 192)
+1616,4,English,8,3,1,Identify the gender of 'King'. (Example 703)
+1617,4,English,8,3,2,Combine using 'and': I like fruit. I like jam. (Example 369)
+1618,4,English,8,3,3,Identify the gender of 'Bull'. (Example 650)
+1619,4,English,8,3,4,Identify the gender of 'Actor'. (Example 726)
+1620,4,English,8,3,5,Identify the gender of 'Actor'. (Example 819)
+1621,4,English,9,1,1,What is the comparative form of 'fast'? (Example 505)
+1622,4,English,9,1,2,Combine using 'and': I like milk. I like honey. (Example 534)
+1623,4,English,9,1,3,Combine using 'and': I like milk. I like honey.
+1624,4,English,9,1,4,What is the comparative form of 'small'? (Example 655)
+1625,4,English,9,1,5,Identify the gender of 'Actor'. (Example 788)
+1626,4,English,9,2,1,Identify the gender of 'King'. (Example 638)
+1627,4,English,9,2,2,What is the comparative form of 'tall'? (Example 736)
+1628,4,English,9,2,3,Combine using 'and': I like milk. I like honey. (Example 288)
+1629,4,English,9,2,4,Identify the gender of 'King'. (Example 182)
+1630,4,English,9,2,5,What is the comparative form of 'big'? (Example 185)
+1631,4,English,9,3,1,What is the comparative form of 'tall'? (Example 211)
+1632,4,English,9,3,2,Identify the gender of 'Bull'. (Example 783)
+1633,4,English,9,3,3,Identify the gender of 'Peacock'. (Example 974)
+1634,4,English,9,3,4,What is the comparative form of 'small'? (Example 888)
+1635,4,English,9,3,5,Identify the gender of 'Actor'.
+1636,4,English,10,1,1,Identify the gender of 'Actor'. (Example 232)
+1637,4,English,10,1,2,Identify the gender of 'King'. (Example 342)
+1638,4,English,10,1,3,Combine using 'and': I like fruit. I like butter. (Example 939)
+1639,4,English,10,1,4,Combine using 'and': I like fruit. I like butter.
+1640,4,English,10,1,5,Identify the gender of 'King'. (Example 784)
+1641,4,English,10,2,1,What is the comparative form of 'big'? (Example 94)
+1642,4,English,10,2,2,Identify the gender of 'Bull'. (Example 927)
+1643,4,English,10,2,3,Identify the gender of 'King'. (Example 384)
+1644,4,English,10,2,4,What is the comparative form of 'big'? (Example 430)
+1645,4,English,10,2,5,Identify the gender of 'Peacock'. (Example 860)
+1646,4,English,10,3,1,What is the comparative form of 'big'? (Example 300)
+1647,4,English,10,3,2,Identify the gender of 'Peacock'. (Example 955)
+1648,4,English,10,3,3,What is the comparative form of 'small'? (Example 792)
+1649,4,English,10,3,4,Combine using 'and': I like milk. I like butter. (Example 864)
+1650,4,English,10,3,5,Combine using 'and': I like bread. I like jam. (Example 186)
+1651,4,Science,1,1,1,What state of matter is Wood? (Q-937)
+1652,4,Science,1,1,2,Which food group does Milk belong to? (Q-738)
+1653,4,Science,1,1,3,Define the term 'Force'. (Q-389)
+1654,4,Science,1,1,4,Define the term 'Gravity'. (Q-921)
+1655,4,Science,1,1,5,Define the term 'Energy'. (Q-907)
+1656,4,Science,1,2,1,Define the term 'Energy'. (Q-587)
+1657,4,Science,1,2,2,Which food group does Carrot belong to? (Q-433)
+1658,4,Science,1,2,3,Define the term 'Force'. (Q-829)
+1659,4,Science,1,2,4,What state of matter is Air? (Q-563)
+1660,4,Science,1,2,5,Define the term 'Evaporation'. (Q-229)
+1661,4,Science,1,3,1,Define the term 'Evaporation'. (Q-448)
+1662,4,Science,1,3,2,Which food group does Milk belong to? (Q-687)
+1663,4,Science,1,3,3,What state of matter is Water? (Q-770)
+1664,4,Science,1,3,4,What state of matter is Wood? (Q-435)
+1665,4,Science,1,3,5,Which food group does Milk belong to? (Q-300)
+1666,4,Science,2,1,1,Which food group does Egg belong to? (Q-277)
+1667,4,Science,2,1,2,Which food group does Egg belong to? (Q-851)
+1668,4,Science,2,1,3,Define the term 'Energy'.
+1669,4,Science,2,1,4,What state of matter is Wood? (Q-621)
+1670,4,Science,2,1,5,Which food group does Milk belong to? (Q-433)
+1671,4,Science,2,2,1,Which food group does Milk belong to? (Q-572)
+1672,4,Science,2,2,2,Which food group does Carrot belong to? (Q-788)
+1673,4,Science,2,2,3,Define the term 'Force'. (Q-620)
+1674,4,Science,2,2,4,Define the term 'Evaporation'. (Q-712)
+1675,4,Science,2,2,5,Which food group does Milk belong to? (Q-581)
+1676,4,Science,2,3,1,Define the term 'Energy'. (Q-239)
+1677,4,Science,2,3,2,Which food group does Rice belong to? (Q-472)
+1678,4,Science,2,3,3,Define the term 'Force'. (Q-821)
+1679,4,Science,2,3,4,What state of matter is Iron? (Q-586)
+1680,4,Science,2,3,5,Define the term 'Evaporation'. (Q-694)
+1681,4,Science,3,1,1,What state of matter is Water? (Q-901)
+1682,4,Science,3,1,2,What state of matter is Iron? (Q-536)
+1683,4,Science,3,1,3,Which food group does Rice belong to? (Q-162)
+1684,4,Science,3,1,4,Define the term 'Gravity'. (Q-235)
+1685,4,Science,3,1,5,Define the term 'Force'. (Q-643)
+1686,4,Science,3,2,1,Define the term 'Gravity'.
+1687,4,Science,3,2,2,Define the term 'Gravity'. (Q-396)
+1688,4,Science,3,2,3,Which food group does Carrot belong to? (Q-971)
+1689,4,Science,3,2,4,Which food group does Carrot belong to? (Q-857)
+1690,4,Science,3,2,5,What state of matter is Iron? (Q-772)
+1691,4,Science,3,3,1,Which food group does Rice belong to? (Q-155)
+1692,4,Science,3,3,2,Define the term 'Evaporation'. (Q-395)
+1693,4,Science,3,3,3,Define the term 'Energy'. (Q-515)
+1694,4,Science,3,3,4,Define the term 'Evaporation'. (Q-199)
+1695,4,Science,3,3,5,What state of matter is Water? (Q-357)
+1696,4,Science,4,1,1,What state of matter is Wood?
+1697,4,Science,4,1,2,Which food group does Carrot belong to? (Q-911)
+1698,4,Science,4,1,3,Which food group does Rice belong to? (Q-212)
+1699,4,Science,4,1,4,Define the term 'Gravity'. (Q-657)
+1700,4,Science,4,1,5,Define the term 'Energy'. (Q-740)
+1701,4,Science,4,2,1,What state of matter is Water? (Q-406)
+1702,4,Science,4,2,2,What state of matter is Wood? (Q-564)
+1703,4,Science,4,2,3,Which food group does Rice belong to? (Q-419)
+1704,4,Science,4,2,4,Which food group does Carrot belong to? (Q-635)
+1705,4,Science,4,2,5,What state of matter is Water? (Q-590)
+1706,4,Science,4,3,1,Which food group does Rice belong to? (Q-520)
+1707,4,Science,4,3,2,Which food group does Egg belong to? (Q-315)
+1708,4,Science,4,3,3,Which food group does Carrot belong to? (Q-351)
+1709,4,Science,4,3,4,Define the term 'Energy'. (Q-343)
+1710,4,Science,4,3,5,Which food group does Rice belong to? (Q-727)
+1711,4,Science,5,1,1,Define the term 'Evaporation'. (Q-340)
+1712,4,Science,5,1,2,Which food group does Rice belong to? (Q-191)
+1713,4,Science,5,1,3,What state of matter is Air? (Q-129)
+1714,4,Science,5,1,4,Define the term 'Force'.
+1715,4,Science,5,1,5,Define the term 'Evaporation'. (Q-691)
+1716,4,Science,5,2,1,Which food group does Milk belong to? (Q-585)
+1717,4,Science,5,2,2,What state of matter is Iron? (Q-976)
+1718,4,Science,5,2,3,Define the term 'Force'. (Q-395)
+1719,4,Science,5,2,4,What state of matter is Air? (Q-247)
+1720,4,Science,5,2,5,What state of matter is Air?
+1721,4,Science,5,3,1,Which food group does Egg belong to?
+1722,4,Science,5,3,2,Define the term 'Gravity'. (Q-443)
+1723,4,Science,5,3,3,What state of matter is Water?
+1724,4,Science,5,3,4,Define the term 'Evaporation'. (Q-859)
+1725,4,Science,5,3,5,Which food group does Milk belong to? (Q-692)
+1726,4,Science,6,1,1,What state of matter is Air? (Q-694)
+1727,4,Science,6,1,2,Which food group does Egg belong to? (Q-774)
+1728,4,Science,6,1,3,What state of matter is Air? (Q-586)
+1729,4,Science,6,1,4,Which food group does Rice belong to? (Q-134)
+1730,4,Science,6,1,5,What state of matter is Wood? (Q-459)
+1731,4,Science,6,2,1,Define the term 'Gravity'. (Q-960)
+1732,4,Science,6,2,2,What state of matter is Iron? (Q-451)
+1733,4,Science,6,2,3,Which food group does Milk belong to?
+1734,4,Science,6,2,4,What state of matter is Air? (Q-838)
+1735,4,Science,6,2,5,Define the term 'Force'. (Q-420)
+1736,4,Science,6,3,1,What state of matter is Air? (Q-705)
+1737,4,Science,6,3,2,Which food group does Egg belong to? (Q-484)
+1738,4,Science,6,3,3,Define the term 'Force'. (Q-415)
+1739,4,Science,6,3,4,Which food group does Rice belong to? (Q-907)
+1740,4,Science,6,3,5,Define the term 'Energy'. (Q-658)
+1741,4,Science,7,1,1,Define the term 'Evaporation'. (Q-192)
+1742,4,Science,7,1,2,Define the term 'Force'. (Q-830)
+1743,4,Science,7,1,3,What state of matter is Iron?
+1744,4,Science,7,1,4,Which food group does Rice belong to? (Q-844)
+1745,4,Science,7,1,5,Which food group does Carrot belong to?
+1746,4,Science,7,2,1,Which food group does Milk belong to? (Q-199)
+1747,4,Science,7,2,2,Define the term 'Evaporation'. (Q-393)
+1748,4,Science,7,2,3,Define the term 'Energy'. (Q-794)
+1749,4,Science,7,2,4,Which food group does Carrot belong to? (Q-158)
+1750,4,Science,7,2,5,Which food group does Milk belong to? (Q-344)
+1751,4,Science,7,3,1,Define the term 'Evaporation'. (Q-100)
+1752,4,Science,7,3,2,Define the term 'Energy'. (Q-864)
+1753,4,Science,7,3,3,Which food group does Egg belong to? (Q-593)
+1754,4,Science,7,3,4,Which food group does Egg belong to? (Q-596)
+1755,4,Science,7,3,5,Which food group does Carrot belong to? (Q-726)
+1756,4,Science,8,1,1,Define the term 'Force'. (Q-290)
+1757,4,Science,8,1,2,Define the term 'Evaporation'. (Q-800)
+1758,4,Science,8,1,3,What state of matter is Air? (Q-709)
+1759,4,Science,8,1,4,What state of matter is Water? (Q-163)
+1760,4,Science,8,1,5,Which food group does Egg belong to? (Q-488)
+1761,4,Science,8,2,1,Which food group does Carrot belong to? (Q-825)
+1762,4,Science,8,2,2,What state of matter is Water? (Q-647)
+1763,4,Science,8,2,3,Which food group does Milk belong to? (Q-217)
+1764,4,Science,8,2,4,Which food group does Rice belong to? (Q-576)
+1765,4,Science,8,2,5,Which food group does Egg belong to? (Q-237)
+1766,4,Science,8,3,1,What state of matter is Iron? (Q-112)
+1767,4,Science,8,3,2,What state of matter is Air? (Q-668)
+1768,4,Science,8,3,3,What state of matter is Iron? (Q-271)
+1769,4,Science,8,3,4,Define the term 'Evaporation'.
+1770,4,Science,8,3,5,Which food group does Carrot belong to? (Q-875)
+1771,4,Science,9,1,1,Define the term 'Energy'. (Q-510)
+1772,4,Science,9,1,2,Which food group does Rice belong to? (Q-545)
+1773,4,Science,9,1,3,Which food group does Carrot belong to? (Q-941)
+1774,4,Science,9,1,4,Which food group does Egg belong to? (Q-713)
+1775,4,Science,9,1,5,Which food group does Rice belong to?
+1776,4,Science,9,2,1,Define the term 'Force'. (Q-195)
+1777,4,Science,9,2,2,Which food group does Egg belong to? (Q-632)
+1778,4,Science,9,2,3,What state of matter is Air? (Q-757)
+1779,4,Science,9,2,4,Which food group does Rice belong to? (Q-499)
+1780,4,Science,9,2,5,What state of matter is Wood? (Q-870)
+1781,4,Science,9,3,1,Which food group does Rice belong to? (Q-531)
+1782,4,Science,9,3,2,Which food group does Rice belong to? (Q-964)
+1783,4,Science,9,3,3,Which food group does Rice belong to? (Q-687)
+1784,4,Science,9,3,4,What state of matter is Water? (Q-727)
+1785,4,Science,9,3,5,Which food group does Milk belong to? (Q-967)
+1786,4,Science,10,1,1,Define the term 'Gravity'. (Q-927)
+1787,4,Science,10,1,2,Define the term 'Force'. (Q-816)
+1788,4,Science,10,1,3,Which food group does Carrot belong to? (Q-873)
+1789,4,Science,10,1,4,Define the term 'Evaporation'. (Q-637)
+1790,4,Science,10,1,5,Which food group does Rice belong to? (Q-873)
+1791,4,Science,10,2,1,What state of matter is Wood? (Q-821)
+1792,4,Science,10,2,2,What state of matter is Iron? (Q-124)
+1793,4,Science,10,2,3,Define the term 'Evaporation'. (Q-245)
+1794,4,Science,10,2,4,What state of matter is Iron? (Q-811)
+1795,4,Science,10,2,5,What state of matter is Wood? (Q-903)
+1796,4,Science,10,3,1,Define the term 'Energy'. (Q-493)
+1797,4,Science,10,3,2,Which food group does Milk belong to? (Q-843)
+1798,4,Science,10,3,3,What state of matter is Iron? (Q-763)
+1799,4,Science,10,3,4,Which food group does Rice belong to? (Q-381)
+1800,4,Science,10,3,5,Define the term 'Energy'. (Q-599)
+1801,5,Math,1,1,1,Subtract 1.7 from 5.1.
+1802,5,Math,1,1,2,Subtract 1.5 from 2.5.
+1803,5,Math,1,1,3,Calculate the sum of 7.4 and 1.4.
+1804,5,Math,1,1,4,Subtract 1.1 from 9.7.
+1805,5,Math,1,1,5,Calculate the sum of 2.2 and 2.2.
+1806,5,Math,1,2,1,Subtract 3.8 from 7.9.
+1807,5,Math,1,2,2,Calculate the sum of 2.6 and 3.2.
+1808,5,Math,1,2,3,Subtract 4.6 from 7.3.
+1809,5,Math,1,2,4,Calculate the sum of 1.4 and 4.0.
+1810,5,Math,1,2,5,Subtract 1.7 from 6.5.
+1811,5,Math,1,3,1,Subtract 4.2 from 2.2.
+1812,5,Math,1,3,2,Subtract 4.7 from 6.7.
+1813,5,Math,1,3,3,Subtract 2.2 from 6.8.
+1814,5,Math,1,3,4,Calculate the sum of 6.0 and 4.1.
+1815,5,Math,1,3,5,Calculate the sum of 2.8 and 1.5.
+1816,5,Math,2,1,1,Calculate the sum of 6.9 and 4.6.
+1817,5,Math,2,1,2,Subtract 2.5 from 8.0.
+1818,5,Math,2,1,3,Subtract 2.0 from 10.0.
+1819,5,Math,2,1,4,Calculate the sum of 1.5 and 4.2.
+1820,5,Math,2,1,5,Subtract 2.6 from 8.9.
+1821,5,Math,2,2,1,Calculate the sum of 6.6 and 4.5.
+1822,5,Math,2,2,2,Subtract 4.7 from 2.3.
+1823,5,Math,2,2,3,Calculate the sum of 5.2 and 3.5.
+1824,5,Math,2,2,4,Subtract 3.7 from 9.4.
+1825,5,Math,2,2,5,Calculate the sum of 5.1 and 3.0.
+1826,5,Math,2,3,1,Subtract 3.6 from 9.7.
+1827,5,Math,2,3,2,Calculate the sum of 4.0 and 2.2.
+1828,5,Math,2,3,3,Calculate the sum of 1.2 and 5.0.
+1829,5,Math,2,3,4,Calculate the sum of 6.2 and 3.2.
+1830,5,Math,2,3,5,Subtract 2.1 from 8.5.
+1831,5,Math,3,1,1,Calculate the sum of 8.1 and 3.6.
+1832,5,Math,3,1,2,Calculate the sum of 7.0 and 4.9.
+1833,5,Math,3,1,3,Calculate the sum of 4.9 and 4.7.
+1834,5,Math,3,1,4,Subtract 1.2 from 5.2.
+1835,5,Math,3,1,5,Subtract 1.2 from 2.6.
+1836,5,Math,3,2,1,Calculate the sum of 7.2 and 2.6.
+1837,5,Math,3,2,2,Subtract 3.3 from 5.1.
+1838,5,Math,3,2,3,Subtract 2.2 from 5.8.
+1839,5,Math,3,2,4,Calculate the sum of 3.0 and 2.2.
+1840,5,Math,3,2,5,Subtract 4.4 from 1.8.
+1841,5,Math,3,3,1,Subtract 1.9 from 8.8.
+1842,5,Math,3,3,2,Calculate the sum of 9.8 and 2.9.
+1843,5,Math,3,3,3,Calculate the sum of 7.7 and 1.9.
+1844,5,Math,3,3,4,Calculate the sum of 1.7 and 1.0.
+1845,5,Math,3,3,5,Calculate the sum of 2.6 and 1.7.
+1846,5,Math,4,1,1,Calculate the sum of 4.9 and 1.9.
+1847,5,Math,4,1,2,Subtract 1.4 from 3.5.
+1848,5,Math,4,1,3,Calculate the sum of 4.4 and 3.2.
+1849,5,Math,4,1,4,Subtract 1.3 from 3.5.
+1850,5,Math,4,1,5,Calculate the sum of 9.6 and 1.3.
+1851,5,Math,4,2,1,Calculate the sum of 4.8 and 3.2.
+1852,5,Math,4,2,2,Subtract 1.8 from 1.6.
+1853,5,Math,4,2,3,Subtract 3.8 from 3.5.
+1854,5,Math,4,2,4,Subtract 1.6 from 6.6.
+1855,5,Math,4,2,5,Calculate the sum of 1.5 and 2.5.
+1856,5,Math,4,3,1,Subtract 1.4 from 9.0.
+1857,5,Math,4,3,2,Subtract 1.9 from 1.6.
+1858,5,Math,4,3,3,Calculate the sum of 4.3 and 2.2.
+1859,5,Math,4,3,4,Calculate the sum of 8.5 and 1.3.
+1860,5,Math,4,3,5,Subtract 4.1 from 3.3.
+1861,5,Math,5,1,1,Calculate the sum of 8.4 and 1.4.
+1862,5,Math,5,1,2,Calculate the sum of 8.0 and 2.3.
+1863,5,Math,5,1,3,Subtract 3.9 from 1.6.
+1864,5,Math,5,1,4,Calculate the sum of 5.8 and 2.9.
+1865,5,Math,5,1,5,Calculate the sum of 3.5 and 1.8.
+1866,5,Math,5,2,1,Calculate the sum of 6.6 and 3.8.
+1867,5,Math,5,2,2,Subtract 4.9 from 8.3.
+1868,5,Math,5,2,3,Subtract 2.4 from 4.7.
+1869,5,Math,5,2,4,Calculate the sum of 6.5 and 1.2.
+1870,5,Math,5,2,5,Subtract 4.9 from 7.2.
+1871,5,Math,5,3,1,Calculate the sum of 2.6 and 1.3.
+1872,5,Math,5,3,2,Calculate the sum of 6.8 and 1.7.
+1873,5,Math,5,3,3,Calculate the sum of 7.6 and 1.6.
+1874,5,Math,5,3,4,Subtract 1.1 from 8.0.
+1875,5,Math,5,3,5,Calculate the sum of 2.4 and 1.1.
+1876,5,Math,6,1,1,Subtract 1.8 from 4.6.
+1877,5,Math,6,1,2,Calculate the sum of 3.7 and 3.6.
+1878,5,Math,6,1,3,Calculate the sum of 9.5 and 4.7.
+1879,5,Math,6,1,4,Calculate the sum of 7.7 and 4.6.
+1880,5,Math,6,1,5,Subtract 2.5 from 2.6.
+1881,5,Math,6,2,1,Subtract 2.1 from 4.2.
+1882,5,Math,6,2,2,Subtract 3.4 from 7.9.
+1883,5,Math,6,2,3,Subtract 1.3 from 5.4.
+1884,5,Math,6,2,4,Calculate the sum of 2.1 and 3.1.
+1885,5,Math,6,2,5,Calculate the sum of 2.5 and 2.5.
+1886,5,Math,6,3,1,Calculate the sum of 1.1 and 3.7.
+1887,5,Math,6,3,2,Calculate the sum of 5.8 and 1.5.
+1888,5,Math,6,3,3,Subtract 3.8 from 9.1.
+1889,5,Math,6,3,4,Subtract 3.0 from 7.6.
+1890,5,Math,6,3,5,Calculate the sum of 3.9 and 4.9.
+1891,5,Math,7,1,1,Calculate the sum of 9.8 and 2.0.
+1892,5,Math,7,1,2,Subtract 1.2 from 7.6.
+1893,5,Math,7,1,3,Subtract 1.0 from 5.9.
+1894,5,Math,7,1,4,Calculate the sum of 5.7 and 2.6.
+1895,5,Math,7,1,5,Subtract 3.4 from 7.4.
+1896,5,Math,7,2,1,Calculate the sum of 7.3 and 4.4.
+1897,5,Math,7,2,2,Subtract 3.1 from 2.1.
+1898,5,Math,7,2,3,Subtract 4.1 from 6.6.
+1899,5,Math,7,2,4,Subtract 4.6 from 1.7.
+1900,5,Math,7,2,5,Calculate the sum of 2.7 and 3.2.
+1901,5,Math,7,3,1,Subtract 4.0 from 7.8.
+1902,5,Math,7,3,2,Calculate the sum of 2.4 and 1.8.
+1903,5,Math,7,3,3,Calculate the sum of 2.3 and 2.1.
+1904,5,Math,7,3,4,Subtract 4.2 from 4.7.
+1905,5,Math,7,3,5,Subtract 3.5 from 7.5.
+1906,5,Math,8,1,1,Calculate the sum of 2.7 and 4.5.
+1907,5,Math,8,1,2,Calculate the sum of 6.7 and 4.8.
+1908,5,Math,8,1,3,Calculate the sum of 5.1 and 2.0.
+1909,5,Math,8,1,4,Calculate the sum of 3.2 and 3.6.
+1910,5,Math,8,1,5,Subtract 2.0 from 7.6.
+1911,5,Math,8,2,1,Calculate the sum of 3.6 and 1.3.
+1912,5,Math,8,2,2,Subtract 3.7 from 5.4.
+1913,5,Math,8,2,3,Calculate the sum of 1.2 and 3.0.
+1914,5,Math,8,2,4,Calculate the sum of 3.1 and 2.7.
+1915,5,Math,8,2,5,Subtract 3.1 from 6.2.
+1916,5,Math,8,3,1,Subtract 4.6 from 9.2.
+1917,5,Math,8,3,2,Subtract 2.8 from 6.2.
+1918,5,Math,8,3,3,Calculate the sum of 7.5 and 3.4.
+1919,5,Math,8,3,4,Subtract 2.3 from 4.9.
+1920,5,Math,8,3,5,Subtract 2.3 from 2.4.
+1921,5,Math,9,1,1,Subtract 3.1 from 5.2.
+1922,5,Math,9,1,2,Subtract 1.2 from 6.3.
+1923,5,Math,9,1,3,Calculate the sum of 4.6 and 3.0.
+1924,5,Math,9,1,4,Subtract 4.9 from 5.5.
+1925,5,Math,9,1,5,Subtract 3.1 from 8.5.
+1926,5,Math,9,2,1,Subtract 3.6 from 3.0.
+1927,5,Math,9,2,2,Subtract 4.5 from 5.4.
+1928,5,Math,9,2,3,Calculate the sum of 6.3 and 2.3.
+1929,5,Math,9,2,4,Subtract 3.2 from 2.0.
+1930,5,Math,9,2,5,Calculate the sum of 6.8 and 3.9.
+1931,5,Math,9,3,1,Calculate the sum of 5.3 and 2.7.
+1932,5,Math,9,3,2,Subtract 1.2 from 9.8.
+1933,5,Math,9,3,3,Subtract 1.3 from 8.7.
+1934,5,Math,9,3,4,Calculate the sum of 3.6 and 4.9.
+1935,5,Math,9,3,5,Calculate the sum of 9.5 and 4.5.
+1936,5,Math,10,1,1,Subtract 4.0 from 1.0.
+1937,5,Math,10,1,2,Calculate the sum of 5.2 and 4.7.
+1938,5,Math,10,1,3,Subtract 1.8 from 7.2.
+1939,5,Math,10,1,4,Calculate the sum of 7.3 and 3.5.
+1940,5,Math,10,1,5,Subtract 1.9 from 4.4.
+1941,5,Math,10,2,1,Calculate the sum of 5.1 and 2.5.
+1942,5,Math,10,2,2,Calculate the sum of 1.3 and 1.6.
+1943,5,Math,10,2,3,Calculate the sum of 2.0 and 3.4.
+1944,5,Math,10,2,4,Calculate the sum of 5.3 and 2.6.
+1945,5,Math,10,2,5,Subtract 4.4 from 4.3.
+1946,5,Math,10,3,1,Subtract 2.1 from 1.6.
+1947,5,Math,10,3,2,Subtract 1.3 from 8.1.
+1948,5,Math,10,3,3,Subtract 2.0 from 2.5.
+1949,5,Math,10,3,4,Calculate the sum of 5.5 and 1.6.
+1950,5,Math,10,3,5,Subtract 2.8 from 1.7.
+1951,5,English,1,1,1,Correct the punctuation: it is a sunny day (Example 922)
+1952,5,English,1,1,2,Identify the subject in: 'The dog barks.' (Example 224)
+1953,5,English,1,1,3,Which one is an interjection: Wow! or Fast? (Example 613)
+1954,5,English,1,1,4,Correct the punctuation: where is my pen (Example 150)
+1955,5,English,1,1,5,Correct the punctuation: it is a sunny day (Example 361)
+1956,5,English,1,2,1,Identify the subject in: 'Ravi eats a mango.' (Example 506)
+1957,5,English,1,2,2,Which one is an interjection: Wow! or Alas!? (Example 420)
+1958,5,English,1,2,3,Which one is an interjection: She or Fast? (Example 503)
+1959,5,English,1,2,4,Which one is an interjection: Wow! or Alas!? (Example 141)
+1960,5,English,1,2,5,Correct the punctuation: come here (Example 248)
+1961,5,English,1,3,1,Correct the punctuation: come here (Example 251)
+1962,5,English,1,3,2,Which one is an interjection: She or Fast? (Example 785)
+1963,5,English,1,3,3,Identify the subject in: 'Ravi eats a mango.' (Example 167)
+1964,5,English,1,3,4,Correct the punctuation: it is a sunny day
+1965,5,English,1,3,5,Which one is an interjection: Wow! or Fast? (Example 140)
+1966,5,English,2,1,1,Correct the punctuation: where is my pen
+1967,5,English,2,1,2,Which one is an interjection: Table or Run?
+1968,5,English,2,1,3,Identify the subject in: 'Ravi eats a mango.' (Example 45)
+1969,5,English,2,1,4,Identify the subject in: 'Birds fly high.' (Example 629)
+1970,5,English,2,1,5,Identify the subject in: 'Birds fly high.' (Example 331)
+1971,5,English,2,2,1,Identify the subject in: 'The dog barks.' (Example 147)
+1972,5,English,2,2,2,Which one is an interjection: Wow! or Run?
+1973,5,English,2,2,3,Which one is an interjection: Table or Fast? (Example 488)
+1974,5,English,2,2,4,Which one is an interjection: She or Run? (Example 944)
+1975,5,English,2,2,5,Which one is an interjection: She or Run? (Example 220)
+1976,5,English,2,3,1,Correct the punctuation: it is a sunny day (Example 365)
+1977,5,English,2,3,2,Identify the subject in: 'Ravi eats a mango.' (Example 127)
+1978,5,English,2,3,3,Identify the subject in: 'Ravi eats a mango.' (Example 502)
+1979,5,English,2,3,4,Correct the punctuation: it is a sunny day (Example 376)
+1980,5,English,2,3,5,Which one is an interjection: Wow! or Fast? (Example 594)
+1981,5,English,3,1,1,Which one is an interjection: Table or Fast?
+1982,5,English,3,1,2,Correct the punctuation: come here (Example 774)
+1983,5,English,3,1,3,Identify the subject in: 'Birds fly high.' (Example 404)
+1984,5,English,3,1,4,Identify the subject in: 'Ravi eats a mango.' (Example 912)
+1985,5,English,3,1,5,Identify the subject in: 'The dog barks.' (Example 784)
+1986,5,English,3,2,1,Correct the punctuation: where is my pen (Example 428)
+1987,5,English,3,2,2,Correct the punctuation: it is a sunny day (Example 30)
+1988,5,English,3,2,3,Correct the punctuation: come here (Example 475)
+1989,5,English,3,2,4,Correct the punctuation: come here (Example 959)
+1990,5,English,3,2,5,Identify the subject in: 'Ravi eats a mango.'
+1991,5,English,3,3,1,Correct the punctuation: come here (Example 782)
+1992,5,English,3,3,2,Identify the subject in: 'Birds fly high.' (Example 474)
+1993,5,English,3,3,3,Correct the punctuation: where is my pen (Example 784)
+1994,5,English,3,3,4,Identify the subject in: 'Ravi eats a mango.' (Example 129)
+1995,5,English,3,3,5,Identify the subject in: 'Birds fly high.' (Example 800)
+1996,5,English,4,1,1,Correct the punctuation: come here (Example 190)
+1997,5,English,4,1,2,Identify the subject in: 'Birds fly high.' (Example 682)
+1998,5,English,4,1,3,Correct the punctuation: it is a sunny day (Example 747)
+1999,5,English,4,1,4,Which one is an interjection: Wow! or Alas!? (Example 111)
+2000,5,English,4,1,5,Identify the subject in: 'The dog barks.'
+2001,5,English,4,2,1,Which one is an interjection: Wow! or Alas!? (Example 839)
+2002,5,English,4,2,2,Correct the punctuation: come here (Example 867)
+2003,5,English,4,2,3,Which one is an interjection: She or Alas!? (Example 504)
+2004,5,English,4,2,4,Identify the subject in: 'The dog barks.' (Example 867)
+2005,5,English,4,2,5,Which one is an interjection: Wow! or Run? (Example 299)
+2006,5,English,4,3,1,Identify the subject in: 'Ravi eats a mango.' (Example 695)
+2007,5,English,4,3,2,Which one is an interjection: She or Run? (Example 896)
+2008,5,English,4,3,3,Correct the punctuation: it is a sunny day (Example 232)
+2009,5,English,4,3,4,Identify the subject in: 'Birds fly high.' (Example 227)
+2010,5,English,4,3,5,Correct the punctuation: where is my pen (Example 383)
+2011,5,English,5,1,1,Correct the punctuation: where is my pen (Example 418)
+2012,5,English,5,1,2,Correct the punctuation: come here
+2013,5,English,5,1,3,Identify the subject in: 'Ravi eats a mango.' (Example 743)
+2014,5,English,5,1,4,Identify the subject in: 'Birds fly high.' (Example 526)
+2015,5,English,5,1,5,Identify the subject in: 'The dog barks.' (Example 213)
+2016,5,English,5,2,1,Identify the subject in: 'Ravi eats a mango.' (Example 776)
+2017,5,English,5,2,2,Correct the punctuation: come here (Example 120)
+2018,5,English,5,2,3,Which one is an interjection: Table or Fast? (Example 524)
+2019,5,English,5,2,4,Which one is an interjection: She or Run? (Example 168)
+2020,5,English,5,2,5,Correct the punctuation: come here (Example 705)
+2021,5,English,5,3,1,Correct the punctuation: where is my pen (Example 221)
+2022,5,English,5,3,2,Correct the punctuation: come here (Example 280)
+2023,5,English,5,3,3,Which one is an interjection: Table or Fast? (Example 693)
+2024,5,English,5,3,4,Which one is an interjection: Wow! or Fast? (Example 966)
+2025,5,English,5,3,5,Which one is an interjection: Table or Run? (Example 184)
+2026,5,English,6,1,1,Identify the subject in: 'Birds fly high.' (Example 223)
+2027,5,English,6,1,2,Correct the punctuation: it is a sunny day (Example 760)
+2028,5,English,6,1,3,Identify the subject in: 'Birds fly high.' (Example 504)
+2029,5,English,6,1,4,Identify the subject in: 'The dog barks.' (Example 81)
+2030,5,English,6,1,5,Which one is an interjection: She or Fast?
+2031,5,English,6,2,1,Identify the subject in: 'Ravi eats a mango.' (Example 684)
+2032,5,English,6,2,2,Identify the subject in: 'Birds fly high.' (Example 211)
+2033,5,English,6,2,3,Correct the punctuation: where is my pen (Example 705)
+2034,5,English,6,2,4,Identify the subject in: 'Birds fly high.' (Example 948)
+2035,5,English,6,2,5,Which one is an interjection: Table or Alas!? (Example 80)
+2036,5,English,6,3,1,Which one is an interjection: Table or Fast? (Example 320)
+2037,5,English,6,3,2,Which one is an interjection: Table or Fast? (Example 484)
+2038,5,English,6,3,3,Identify the subject in: 'The dog barks.' (Example 802)
+2039,5,English,6,3,4,Identify the subject in: 'Birds fly high.' (Example 199)
+2040,5,English,6,3,5,Identify the subject in: 'Birds fly high.' (Example 870)
+2041,5,English,7,1,1,Correct the punctuation: it is a sunny day (Example 382)
+2042,5,English,7,1,2,Correct the punctuation: where is my pen (Example 988)
+2043,5,English,7,1,3,Correct the punctuation: where is my pen (Example 947)
+2044,5,English,7,1,4,Which one is an interjection: She or Fast? (Example 139)
+2045,5,English,7,1,5,Correct the punctuation: where is my pen (Example 190)
+2046,5,English,7,2,1,Which one is an interjection: Wow! or Alas!? (Example 917)
+2047,5,English,7,2,2,Identify the subject in: 'Ravi eats a mango.' (Example 855)
+2048,5,English,7,2,3,Which one is an interjection: Wow! or Fast? (Example 312)
+2049,5,English,7,2,4,Identify the subject in: 'Ravi eats a mango.' (Example 111)
+2050,5,English,7,2,5,Identify the subject in: 'The dog barks.' (Example 392)
+2051,5,English,7,3,1,Which one is an interjection: Table or Alas!?
+2052,5,English,7,3,2,Identify the subject in: 'Birds fly high.'
+2053,5,English,7,3,3,Identify the subject in: 'Birds fly high.' (Example 872)
+2054,5,English,7,3,4,Identify the subject in: 'The dog barks.' (Example 811)
+2055,5,English,7,3,5,Which one is an interjection: Wow! or Run? (Example 354)
+2056,5,English,8,1,1,Correct the punctuation: come here (Example 42)
+2057,5,English,8,1,2,Correct the punctuation: it is a sunny day (Example 298)
+2058,5,English,8,1,3,Identify the subject in: 'Ravi eats a mango.' (Example 206)
+2059,5,English,8,1,4,Identify the subject in: 'The dog barks.' (Example 269)
+2060,5,English,8,1,5,Identify the subject in: 'The dog barks.' (Example 492)
+2061,5,English,8,2,1,Correct the punctuation: where is my pen (Example 481)
+2062,5,English,8,2,2,Correct the punctuation: where is my pen (Example 851)
+2063,5,English,8,2,3,Correct the punctuation: where is my pen (Example 801)
+2064,5,English,8,2,4,Correct the punctuation: it is a sunny day (Example 596)
+2065,5,English,8,2,5,Correct the punctuation: where is my pen (Example 598)
+2066,5,English,8,3,1,Which one is an interjection: She or Fast? (Example 372)
+2067,5,English,8,3,2,Identify the subject in: 'The dog barks.' (Example 373)
+2068,5,English,8,3,3,Correct the punctuation: come here (Example 335)
+2069,5,English,8,3,4,Identify the subject in: 'Birds fly high.' (Example 771)
+2070,5,English,8,3,5,Which one is an interjection: Wow! or Fast? (Example 5)
+2071,5,English,9,1,1,Correct the punctuation: it is a sunny day (Example 425)
+2072,5,English,9,1,2,Which one is an interjection: Wow! or Alas!? (Example 280)
+2073,5,English,9,1,3,Which one is an interjection: She or Fast? (Example 286)
+2074,5,English,9,1,4,Correct the punctuation: come here (Example 70)
+2075,5,English,9,1,5,Which one is an interjection: Wow! or Alas!?
+2076,5,English,9,2,1,Identify the subject in: 'The dog barks.' (Example 102)
+2077,5,English,9,2,2,Which one is an interjection: She or Alas!? (Example 614)
+2078,5,English,9,2,3,Correct the punctuation: where is my pen (Example 406)
+2079,5,English,9,2,4,Which one is an interjection: She or Alas!?
+2080,5,English,9,2,5,Which one is an interjection: She or Fast? (Example 296)
+2081,5,English,9,3,1,Identify the subject in: 'Birds fly high.' (Example 835)
+2082,5,English,9,3,2,Identify the subject in: 'Birds fly high.' (Example 370)
+2083,5,English,9,3,3,Which one is an interjection: Wow! or Fast? (Example 775)
+2084,5,English,9,3,4,Identify the subject in: 'Ravi eats a mango.' (Example 291)
+2085,5,English,9,3,5,Correct the punctuation: it is a sunny day (Example 126)
+2086,5,English,10,1,1,Which one is an interjection: She or Run?
+2087,5,English,10,1,2,Which one is an interjection: Table or Run? (Example 278)
+2088,5,English,10,1,3,Which one is an interjection: She or Fast? (Example 934)
+2089,5,English,10,1,4,Which one is an interjection: She or Fast? (Example 605)
+2090,5,English,10,1,5,Correct the punctuation: it is a sunny day (Example 972)
+2091,5,English,10,2,1,Correct the punctuation: come here (Example 590)
+2092,5,English,10,2,2,Identify the subject in: 'Birds fly high.' (Example 782)
+2093,5,English,10,2,3,Which one is an interjection: Table or Fast? (Example 973)
+2094,5,English,10,2,4,Which one is an interjection: Wow! or Fast?
+2095,5,English,10,2,5,Identify the subject in: 'The dog barks.' (Example 132)
+2096,5,English,10,3,1,Correct the punctuation: it is a sunny day (Example 506)
+2097,5,English,10,3,2,Correct the punctuation: come here (Example 565)
+2098,5,English,10,3,3,Identify the subject in: 'The dog barks.' (Example 191)
+2099,5,English,10,3,4,Which one is an interjection: Table or Alas!? (Example 186)
+2100,5,English,10,3,5,Which one is an interjection: Wow! or Fast? (Example 875)
+2101,5,Science,1,1,1,Which part of the brain controls breathing? (Q-597)
+2102,5,Science,1,1,2,Which part of the brain controls breathing? (Q-972)
+2103,5,Science,1,1,3,What causes noise pollution? (Q-341)
+2104,5,Science,1,1,4,What causes air pollution? (Q-341)
+2105,5,Science,1,1,5,Which part of the brain controls balance? (Q-315)
+2106,5,Science,1,2,1,Name a simple machine used for lifting weights.
+2107,5,Science,1,2,2,Which part of the brain controls balance? (Q-437)
+2108,5,Science,1,2,3,Which part of the brain controls balance? (Q-716)
+2109,5,Science,1,2,4,Which part of the brain controls memory? (Q-714)
+2110,5,Science,1,2,5,Name a simple machine used for opening a bottle. (Q-663)
+2111,5,Science,1,3,1,Name a simple machine used for cutting paper.
+2112,5,Science,1,3,2,Which part of the brain controls balance? (Q-373)
+2113,5,Science,1,3,3,Name a simple machine used for opening a bottle. (Q-773)
+2114,5,Science,1,3,4,Name a simple machine used for opening a bottle. (Q-516)
+2115,5,Science,1,3,5,Name a simple machine used for cutting paper. (Q-168)
+2116,5,Science,2,1,1,Name a simple machine used for opening a bottle. (Q-923)
+2117,5,Science,2,1,2,What causes noise pollution? (Q-893)
+2118,5,Science,2,1,3,Which part of the brain controls balance? (Q-344)
+2119,5,Science,2,1,4,What causes air pollution? (Q-706)
+2120,5,Science,2,1,5,Which part of the brain controls memory?
+2121,5,Science,2,2,1,Which part of the brain controls balance? (Q-239)
+2122,5,Science,2,2,2,What causes air pollution? (Q-394)
+2123,5,Science,2,2,3,Which part of the brain controls memory? (Q-651)
+2124,5,Science,2,2,4,Name a simple machine used for cutting paper. (Q-811)
+2125,5,Science,2,2,5,Which part of the brain controls breathing? (Q-943)
+2126,5,Science,2,3,1,Name a simple machine used for lifting weights. (Q-516)
+2127,5,Science,2,3,2,What causes water pollution? (Q-941)
+2128,5,Science,2,3,3,Which part of the brain controls balance? (Q-369)
+2129,5,Science,2,3,4,What causes water pollution? (Q-923)
+2130,5,Science,2,3,5,What causes water pollution? (Q-586)
+2131,5,Science,3,1,1,Which part of the brain controls breathing? (Q-860)
+2132,5,Science,3,1,2,What causes noise pollution? (Q-471)
+2133,5,Science,3,1,3,Which part of the brain controls memory? (Q-319)
+2134,5,Science,3,1,4,What causes noise pollution? (Q-127)
+2135,5,Science,3,1,5,What causes air pollution? (Q-359)
+2136,5,Science,3,2,1,What causes water pollution? (Q-304)
+2137,5,Science,3,2,2,Name a simple machine used for opening a bottle. (Q-498)
+2138,5,Science,3,2,3,What causes air pollution? (Q-690)
+2139,5,Science,3,2,4,What causes water pollution? (Q-679)
+2140,5,Science,3,2,5,Name a simple machine used for lifting weights. (Q-455)
+2141,5,Science,3,3,1,What causes air pollution? (Q-647)
+2142,5,Science,3,3,2,Name a simple machine used for opening a bottle. (Q-200)
+2143,5,Science,3,3,3,Which part of the brain controls memory? (Q-628)
+2144,5,Science,3,3,4,What causes water pollution? (Q-775)
+2145,5,Science,3,3,5,Which part of the brain controls breathing? (Q-964)
+2146,5,Science,4,1,1,Which part of the brain controls memory? (Q-756)
+2147,5,Science,4,1,2,Name a simple machine used for cutting paper. (Q-520)
+2148,5,Science,4,1,3,What causes noise pollution? (Q-586)
+2149,5,Science,4,1,4,What causes air pollution? (Q-213)
+2150,5,Science,4,1,5,Which part of the brain controls balance? (Q-987)
+2151,5,Science,4,2,1,Name a simple machine used for opening a bottle. (Q-715)
+2152,5,Science,4,2,2,Which part of the brain controls balance? (Q-497)
+2153,5,Science,4,2,3,What causes water pollution? (Q-681)
+2154,5,Science,4,2,4,Name a simple machine used for opening a bottle. (Q-239)
+2155,5,Science,4,2,5,What causes noise pollution? (Q-161)
+2156,5,Science,4,3,1,Name a simple machine used for opening a bottle. (Q-167)
+2157,5,Science,4,3,2,What causes air pollution? (Q-618)
+2158,5,Science,4,3,3,What causes air pollution?
+2159,5,Science,4,3,4,What causes noise pollution? (Q-928)
+2160,5,Science,4,3,5,Name a simple machine used for lifting weights. (Q-682)
+2161,5,Science,5,1,1,What causes noise pollution? (Q-499)
+2162,5,Science,5,1,2,Which part of the brain controls balance?
+2163,5,Science,5,1,3,Which part of the brain controls memory? (Q-916)
+2164,5,Science,5,1,4,What causes water pollution? (Q-421)
+2165,5,Science,5,1,5,Which part of the brain controls memory? (Q-980)
+2166,5,Science,5,2,1,Name a simple machine used for opening a bottle.
+2167,5,Science,5,2,2,Which part of the brain controls balance? (Q-586)
+2168,5,Science,5,2,3,Name a simple machine used for cutting paper. (Q-162)
+2169,5,Science,5,2,4,Name a simple machine used for lifting weights. (Q-247)
+2170,5,Science,5,2,5,What causes air pollution? (Q-384)
+2171,5,Science,5,3,1,Name a simple machine used for opening a bottle. (Q-659)
+2172,5,Science,5,3,2,Which part of the brain controls memory? (Q-670)
+2173,5,Science,5,3,3,What causes noise pollution? (Q-652)
+2174,5,Science,5,3,4,What causes noise pollution? (Q-885)
+2175,5,Science,5,3,5,What causes water pollution?
+2176,5,Science,6,1,1,Which part of the brain controls breathing? (Q-580)
+2177,5,Science,6,1,2,Name a simple machine used for cutting paper. (Q-716)
+2178,5,Science,6,1,3,Name a simple machine used for opening a bottle. (Q-532)
+2179,5,Science,6,1,4,Name a simple machine used for opening a bottle. (Q-264)
+2180,5,Science,6,1,5,Name a simple machine used for cutting paper. (Q-518)
+2181,5,Science,6,2,1,Name a simple machine used for cutting paper. (Q-616)
+2182,5,Science,6,2,2,Which part of the brain controls breathing?
+2183,5,Science,6,2,3,Which part of the brain controls memory? (Q-815)
+2184,5,Science,6,2,4,Which part of the brain controls breathing? (Q-820)
+2185,5,Science,6,2,5,Name a simple machine used for lifting weights. (Q-776)
+2186,5,Science,6,3,1,Name a simple machine used for cutting paper. (Q-928)
+2187,5,Science,6,3,2,What causes noise pollution? (Q-564)
+2188,5,Science,6,3,3,Which part of the brain controls memory? (Q-763)
+2189,5,Science,6,3,4,What causes water pollution? (Q-532)
+2190,5,Science,6,3,5,Name a simple machine used for lifting weights. (Q-445)
+2191,5,Science,7,1,1,Name a simple machine used for lifting weights. (Q-807)
+2192,5,Science,7,1,2,Name a simple machine used for cutting paper. (Q-357)
+2193,5,Science,7,1,3,Which part of the brain controls balance? (Q-777)
+2194,5,Science,7,1,4,Name a simple machine used for opening a bottle. (Q-186)
+2195,5,Science,7,1,5,Name a simple machine used for cutting paper. (Q-553)
+2196,5,Science,7,2,1,What causes water pollution? (Q-373)
+2197,5,Science,7,2,2,What causes air pollution? (Q-424)
+2198,5,Science,7,2,3,Name a simple machine used for opening a bottle. (Q-499)
+2199,5,Science,7,2,4,Name a simple machine used for cutting paper. (Q-779)
+2200,5,Science,7,2,5,What causes air pollution? (Q-473)
+2201,5,Science,7,3,1,What causes water pollution? (Q-374)
+2202,5,Science,7,3,2,Name a simple machine used for lifting weights. (Q-571)
+2203,5,Science,7,3,3,What causes water pollution? (Q-608)
+2204,5,Science,7,3,4,Name a simple machine used for opening a bottle. (Q-157)
+2205,5,Science,7,3,5,What causes air pollution? (Q-745)
+2206,5,Science,8,1,1,Which part of the brain controls memory? (Q-957)
+2207,5,Science,8,1,2,What causes air pollution? (Q-989)
+2208,5,Science,8,1,3,Name a simple machine used for opening a bottle. (Q-483)
+2209,5,Science,8,1,4,Name a simple machine used for opening a bottle. (Q-486)
+2210,5,Science,8,1,5,Name a simple machine used for lifting weights. (Q-760)
+2211,5,Science,8,2,1,Which part of the brain controls balance? (Q-959)
+2212,5,Science,8,2,2,Name a simple machine used for lifting weights. (Q-346)
+2213,5,Science,8,2,3,Which part of the brain controls balance? (Q-908)
+2214,5,Science,8,2,4,What causes water pollution? (Q-587)
+2215,5,Science,8,2,5,Name a simple machine used for cutting paper. (Q-237)
+2216,5,Science,8,3,1,Name a simple machine used for cutting paper. (Q-597)
+2217,5,Science,8,3,2,What causes noise pollution?
+2218,5,Science,8,3,3,Which part of the brain controls balance? (Q-453)
+2219,5,Science,8,3,4,Name a simple machine used for lifting weights. (Q-942)
+2220,5,Science,8,3,5,Which part of the brain controls balance? (Q-582)
+2221,5,Science,9,1,1,Which part of the brain controls breathing? (Q-350)
+2222,5,Science,9,1,2,Which part of the brain controls balance? (Q-304)
+2223,5,Science,9,1,3,Name a simple machine used for lifting weights. (Q-608)
+2224,5,Science,9,1,4,Which part of the brain controls balance? (Q-746)
+2225,5,Science,9,1,5,What causes noise pollution? (Q-881)
+2226,5,Science,9,2,1,Name a simple machine used for opening a bottle. (Q-930)
+2227,5,Science,9,2,2,Name a simple machine used for lifting weights. (Q-404)
+2228,5,Science,9,2,3,Which part of the brain controls breathing? (Q-852)
+2229,5,Science,9,2,4,Which part of the brain controls breathing? (Q-801)
+2230,5,Science,9,2,5,Which part of the brain controls memory? (Q-540)
+2231,5,Science,9,3,1,What causes air pollution? (Q-960)
+2232,5,Science,9,3,2,What causes water pollution? (Q-270)
+2233,5,Science,9,3,3,What causes water pollution? (Q-961)
+2234,5,Science,9,3,4,What causes air pollution? (Q-306)
+2235,5,Science,9,3,5,What causes air pollution? (Q-961)
+2236,5,Science,10,1,1,Name a simple machine used for cutting paper. (Q-459)
+2237,5,Science,10,1,2,What causes noise pollution? (Q-461)
+2238,5,Science,10,1,3,Which part of the brain controls balance? (Q-560)
+2239,5,Science,10,1,4,What causes air pollution? (Q-444)
+2240,5,Science,10,1,5,What causes air pollution? (Q-634)
+2241,5,Science,10,2,1,What causes water pollution? (Q-416)
+2242,5,Science,10,2,2,What causes noise pollution? (Q-284)
+2243,5,Science,10,2,3,Which part of the brain controls memory? (Q-296)
+2244,5,Science,10,2,4,What causes water pollution? (Q-472)
+2245,5,Science,10,2,5,Which part of the brain controls balance? (Q-361)
+2246,5,Science,10,3,1,What causes noise pollution? (Q-918)
+2247,5,Science,10,3,2,Which part of the brain controls breathing? (Q-907)
+2248,5,Science,10,3,3,What causes noise pollution? (Q-855)
+2249,5,Science,10,3,4,Name a simple machine used for lifting weights. (Q-749)
+2250,5,Science,10,3,5,What causes water pollution? (Q-489)
+2251,6,Math,1,1,1,Find 25% of 444.
+2252,6,Math,1,1,2,Find 20% of 357.
+2253,6,Math,1,1,3,Find 20% of 147.
+2254,6,Math,1,1,4,Find 25% of 115.
+2255,6,Math,1,1,5,Find 25% of 272.
+2256,6,Math,1,2,1,Find 50% of 117.
+2257,6,Math,1,2,2,Find 25% of 211.
+2258,6,Math,1,2,3,Find 5% of 128.
+2259,6,Math,1,2,4,Find 10% of 195.
+2260,6,Math,1,2,5,Find 25% of 300.
+2261,6,Math,1,3,1,Find 20% of 478.
+2262,6,Math,1,3,2,Find 25% of 348.
+2263,6,Math,1,3,3,Find 10% of 97.
+2264,6,Math,1,3,4,Find 10% of 220.
+2265,6,Math,1,3,5,Find 10% of 245.
+2266,6,Math,2,1,1,Find 10% of 401.
+2267,6,Math,2,1,2,Find 20% of 426.
+2268,6,Math,2,1,3,Find 25% of 301.
+2269,6,Math,2,1,4,Find 25% of 357.
+2270,6,Math,2,1,5,Find 10% of 142.
+2271,6,Math,2,2,1,Find 25% of 281.
+2272,6,Math,2,2,2,Find 10% of 271.
+2273,6,Math,2,2,3,Find 25% of 133.
+2274,6,Math,2,2,4,Find 50% of 442.
+2275,6,Math,2,2,5,Find 20% of 476.
+2276,6,Math,2,3,1,Find 10% of 184.
+2277,6,Math,2,3,2,Find 20% of 459.
+2278,6,Math,2,3,3,Find 20% of 282.
+2279,6,Math,2,3,4,Find 5% of 210.
+2280,6,Math,2,3,5,Find 50% of 360.
+2281,6,Math,3,1,1,Find 25% of 443.
+2282,6,Math,3,1,2,Find 10% of 116.
+2283,6,Math,3,1,3,Find 20% of 302.
+2284,6,Math,3,1,4,Find 10% of 77.
+2285,6,Math,3,1,5,Find 20% of 498.
+2286,6,Math,3,2,1,Find 20% of 52.
+2287,6,Math,3,2,2,Find 25% of 248.
+2288,6,Math,3,2,3,Find 50% of 136.
+2289,6,Math,3,2,4,Find 25% of 404.
+2290,6,Math,3,2,5,Find 20% of 276.
+2291,6,Math,3,3,1,Find 20% of 471.
+2292,6,Math,3,3,2,Find 25% of 366.
+2293,6,Math,3,3,3,Find 50% of 212.
+2294,6,Math,3,3,4,Find 20% of 363.
+2295,6,Math,3,3,5,Find 10% of 89.
+2296,6,Math,4,1,1,Find 20% of 281.
+2297,6,Math,4,1,2,Find 10% of 497.
+2298,6,Math,4,1,3,Find 10% of 259.
+2299,6,Math,4,1,4,Find 25% of 142.
+2300,6,Math,4,1,5,Find 5% of 95.
+2301,6,Math,4,2,1,Find 20% of 177.
+2302,6,Math,4,2,2,Find 25% of 411.
+2303,6,Math,4,2,3,Find 10% of 167.
+2304,6,Math,4,2,4,Find 5% of 164.
+2305,6,Math,4,2,5,Find 20% of 455.
+2306,6,Math,4,3,1,Find 5% of 181.
+2307,6,Math,4,3,2,Find 50% of 187.
+2308,6,Math,4,3,3,Find 50% of 308.
+2309,6,Math,4,3,4,Find 10% of 273.
+2310,6,Math,4,3,5,Find 20% of 141.
+2311,6,Math,5,1,1,Find 25% of 473.
+2312,6,Math,5,1,2,Find 50% of 477.
+2313,6,Math,5,1,3,Find 50% of 381.
+2314,6,Math,5,1,4,Find 10% of 415.
+2315,6,Math,5,1,5,Find 10% of 486.
+2316,6,Math,5,2,1,Find 5% of 117.
+2317,6,Math,5,2,2,Find 20% of 291.
+2318,6,Math,5,2,3,Find 10% of 264.
+2319,6,Math,5,2,4,Find 20% of 460.
+2320,6,Math,5,2,5,Find 20% of 245.
+2321,6,Math,5,3,1,Find 25% of 401.
+2322,6,Math,5,3,2,Find 25% of 96.
+2323,6,Math,5,3,3,Find 25% of 412.
+2324,6,Math,5,3,4,Find 50% of 71.
+2325,6,Math,5,3,5,Find 20% of 251.
+2326,6,Math,6,1,1,Find 10% of 270.
+2327,6,Math,6,1,2,Find 50% of 426.
+2328,6,Math,6,1,3,Find 5% of 93.
+2329,6,Math,6,1,4,Find 10% of 141.
+2330,6,Math,6,1,5,Find 20% of 117.
+2331,6,Math,6,2,1,Find 5% of 151.
+2332,6,Math,6,2,2,Find 20% of 252.
+2333,6,Math,6,2,3,Find 5% of 413.
+2334,6,Math,6,2,4,Find 10% of 238.
+2335,6,Math,6,2,5,Find 25% of 449.
+2336,6,Math,6,3,1,Find 10% of 441.
+2337,6,Math,6,3,2,Find 10% of 409.
+2338,6,Math,6,3,3,Find 20% of 113.
+2339,6,Math,6,3,4,Find 5% of 352.
+2340,6,Math,6,3,5,Find 5% of 430.
+2341,6,Math,7,1,1,Find 50% of 385.
+2342,6,Math,7,1,2,Find 50% of 338.
+2343,6,Math,7,1,3,Find 25% of 415.
+2344,6,Math,7,1,4,Find 20% of 494.
+2345,6,Math,7,1,5,Find 5% of 390.
+2346,6,Math,7,2,1,Find 50% of 116.
+2347,6,Math,7,2,2,Find 20% of 496.
+2348,6,Math,7,2,3,Find 5% of 491.
+2349,6,Math,7,2,4,Find 5% of 80.
+2350,6,Math,7,2,5,Find 20% of 473.
+2351,6,Math,7,3,1,Find 5% of 354.
+2352,6,Math,7,3,2,Find 10% of 290.
+2353,6,Math,7,3,3,Find 25% of 298.
+2354,6,Math,7,3,4,Find 10% of 110.
+2355,6,Math,7,3,5,Find 50% of 52.
+2356,6,Math,8,1,1,Find 20% of 254.
+2357,6,Math,8,1,2,Find 20% of 151.
+2358,6,Math,8,1,3,Find 5% of 245.
+2359,6,Math,8,1,4,Find 20% of 64.
+2360,6,Math,8,1,5,Find 5% of 126.
+2361,6,Math,8,2,1,Find 5% of 215.
+2362,6,Math,8,2,2,Find 10% of 370.
+2363,6,Math,8,2,3,Find 5% of 340.
+2364,6,Math,8,2,4,Find 25% of 95.
+2365,6,Math,8,2,5,Find 25% of 91.
+2366,6,Math,8,3,1,Find 50% of 400.
+2367,6,Math,8,3,2,Find 5% of 218.
+2368,6,Math,8,3,3,Find 5% of 273.
+2369,6,Math,8,3,4,Find 5% of 183.
+2370,6,Math,8,3,5,Find 10% of 422.
+2371,6,Math,9,1,1,Find 20% of 262.
+2372,6,Math,9,1,2,Find 25% of 334.
+2373,6,Math,9,1,3,Find 25% of 75.
+2374,6,Math,9,1,4,Find 5% of 302.
+2375,6,Math,9,1,5,Find 25% of 68.
+2376,6,Math,9,2,1,Find 20% of 111.
+2377,6,Math,9,2,2,Find 25% of 197.
+2378,6,Math,9,2,3,Find 50% of 401.
+2379,6,Math,9,2,4,Find 20% of 314.
+2380,6,Math,9,2,5,Find 5% of 396.
+2381,6,Math,9,3,1,Find 25% of 143.
+2382,6,Math,9,3,2,Find 10% of 357.
+2383,6,Math,9,3,3,Find 10% of 483.
+2384,6,Math,9,3,4,Find 20% of 270.
+2385,6,Math,9,3,5,Find 5% of 195.
+2386,6,Math,10,1,1,Find 50% of 424.
+2387,6,Math,10,1,2,Find 50% of 158.
+2388,6,Math,10,1,3,Find 25% of 475.
+2389,6,Math,10,1,4,Find 5% of 303.
+2390,6,Math,10,1,5,Find 50% of 413.
+2391,6,Math,10,2,1,Find 50% of 98.
+2392,6,Math,10,2,2,Find 20% of 432.
+2393,6,Math,10,2,3,Find 10% of 312.
+2394,6,Math,10,2,4,Find 25% of 498.
+2395,6,Math,10,2,5,Find 25% of 499.
+2396,6,Math,10,3,1,Find 10% of 183.
+2397,6,Math,10,3,2,Find 50% of 330.
+2398,6,Math,10,3,3,Find 50% of 57.
+2399,6,Math,10,3,4,Find 50% of 61.
+2400,6,Math,10,3,5,Find 50% of 433.
+2401,6,English,1,1,1,What does the idiom 'Piece of cake' mean? (Example 602)
+2402,6,English,1,1,2,What does the idiom 'Under the weather' mean? (Example 350)
+2403,6,English,1,1,3,What does the idiom 'Piece of cake' mean? (Example 925)
+2404,6,English,1,1,4,Identify the type of sentence: 'The sun rises.' (Example 645)
+2405,6,English,1,1,5,Identify the type of sentence: 'The sun rises.' (Example 511)
+2406,6,English,1,2,1,Identify the type of sentence: 'How beautiful!' (Example 536)
+2407,6,English,1,2,2,Change to passive voice: They clean the room. (Example 233)
+2408,6,English,1,2,3,What does the idiom 'Piece of cake' mean? (Example 541)
+2409,6,English,1,2,4,What does the idiom 'Under the weather' mean? (Example 932)
+2410,6,English,1,2,5,Identify the type of sentence: 'Is he coming?' (Example 819)
+2411,6,English,1,3,1,What does the idiom 'Once in a blue moon' mean? (Example 753)
+2412,6,English,1,3,2,What does the idiom 'Once in a blue moon' mean? (Example 474)
+2413,6,English,1,3,3,What does the idiom 'Piece of cake' mean? (Example 87)
+2414,6,English,1,3,4,Identify the type of sentence: 'Is he coming?'
+2415,6,English,1,3,5,Identify the type of sentence: 'The sun rises.' (Example 109)
+2416,6,English,2,1,1,What does the idiom 'Under the weather' mean?
+2417,6,English,2,1,2,Identify the type of sentence: 'Is he coming?' (Example 412)
+2418,6,English,2,1,3,Identify the type of sentence: 'The sun rises.' (Example 729)
+2419,6,English,2,1,4,Identify the type of sentence: 'Is he coming?' (Example 694)
+2420,6,English,2,1,5,What does the idiom 'Piece of cake' mean? (Example 88)
+2421,6,English,2,2,1,Change to passive voice: He plays football. (Example 801)
+2422,6,English,2,2,2,Change to passive voice: They clean the room. (Example 619)
+2423,6,English,2,2,3,Identify the type of sentence: 'The sun rises.' (Example 447)
+2424,6,English,2,2,4,What does the idiom 'Once in a blue moon' mean? (Example 744)
+2425,6,English,2,2,5,What does the idiom 'Under the weather' mean? (Example 997)
+2426,6,English,2,3,1,Identify the type of sentence: 'The sun rises.' (Example 66)
+2427,6,English,2,3,2,Change to passive voice: He plays football. (Example 822)
+2428,6,English,2,3,3,Change to passive voice: She reads a book. (Example 150)
+2429,6,English,2,3,4,Change to passive voice: They clean the room. (Example 49)
+2430,6,English,2,3,5,Change to passive voice: She reads a book. (Example 584)
+2431,6,English,3,1,1,Identify the type of sentence: 'The sun rises.' (Example 593)
+2432,6,English,3,1,2,Change to passive voice: They clean the room. (Example 826)
+2433,6,English,3,1,3,Identify the type of sentence: 'The sun rises.' (Example 626)
+2434,6,English,3,1,4,Change to passive voice: She reads a book. (Example 993)
+2435,6,English,3,1,5,Change to passive voice: She reads a book. (Example 591)
+2436,6,English,3,2,1,Change to passive voice: She reads a book. (Example 441)
+2437,6,English,3,2,2,Change to passive voice: He plays football. (Example 215)
+2438,6,English,3,2,3,Change to passive voice: He plays football. (Example 869)
+2439,6,English,3,2,4,Identify the type of sentence: 'Is he coming?' (Example 975)
+2440,6,English,3,2,5,What does the idiom 'Under the weather' mean? (Example 430)
+2441,6,English,3,3,1,What does the idiom 'Piece of cake' mean? (Example 788)
+2442,6,English,3,3,2,What does the idiom 'Piece of cake' mean? (Example 647)
+2443,6,English,3,3,3,Identify the type of sentence: 'Is he coming?' (Example 986)
+2444,6,English,3,3,4,Change to passive voice: They clean the room. (Example 495)
+2445,6,English,3,3,5,Identify the type of sentence: 'The sun rises.' (Example 305)
+2446,6,English,4,1,1,Change to passive voice: They clean the room. (Example 895)
+2447,6,English,4,1,2,What does the idiom 'Piece of cake' mean? (Example 158)
+2448,6,English,4,1,3,What does the idiom 'Piece of cake' mean? (Example 172)
+2449,6,English,4,1,4,What does the idiom 'Once in a blue moon' mean? (Example 356)
+2450,6,English,4,1,5,Change to passive voice: He plays football. (Example 848)
+2451,6,English,4,2,1,What does the idiom 'Under the weather' mean? (Example 238)
+2452,6,English,4,2,2,What does the idiom 'Piece of cake' mean? (Example 156)
+2453,6,English,4,2,3,Change to passive voice: He plays football. (Example 646)
+2454,6,English,4,2,4,What does the idiom 'Once in a blue moon' mean? (Example 86)
+2455,6,English,4,2,5,Identify the type of sentence: 'The sun rises.' (Example 249)
+2456,6,English,4,3,1,Identify the type of sentence: 'How beautiful!' (Example 342)
+2457,6,English,4,3,2,What does the idiom 'Once in a blue moon' mean? (Example 627)
+2458,6,English,4,3,3,Change to passive voice: They clean the room. (Example 994)
+2459,6,English,4,3,4,Identify the type of sentence: 'The sun rises.' (Example 428)
+2460,6,English,4,3,5,Change to passive voice: She reads a book. (Example 120)
+2461,6,English,5,1,1,Identify the type of sentence: 'How beautiful!' (Example 507)
+2462,6,English,5,1,2,Change to passive voice: They clean the room.
+2463,6,English,5,1,3,Change to passive voice: She reads a book. (Example 903)
+2464,6,English,5,1,4,Identify the type of sentence: 'Is he coming?' (Example 90)
+2465,6,English,5,1,5,What does the idiom 'Under the weather' mean? (Example 726)
+2466,6,English,5,2,1,Identify the type of sentence: 'Is he coming?' (Example 526)
+2467,6,English,5,2,2,Identify the type of sentence: 'Is he coming?' (Example 349)
+2468,6,English,5,2,3,Change to passive voice: She reads a book. (Example 161)
+2469,6,English,5,2,4,Change to passive voice: She reads a book. (Example 63)
+2470,6,English,5,2,5,Change to passive voice: He plays football. (Example 836)
+2471,6,English,5,3,1,Change to passive voice: She reads a book. (Example 789)
+2472,6,English,5,3,2,Change to passive voice: They clean the room. (Example 52)
+2473,6,English,5,3,3,Identify the type of sentence: 'Is he coming?' (Example 645)
+2474,6,English,5,3,4,Change to passive voice: They clean the room. (Example 213)
+2475,6,English,5,3,5,Change to passive voice: He plays football. (Example 205)
+2476,6,English,6,1,1,Identify the type of sentence: 'Is he coming?' (Example 634)
+2477,6,English,6,1,2,Identify the type of sentence: 'Is he coming?' (Example 941)
+2478,6,English,6,1,3,What does the idiom 'Under the weather' mean? (Example 708)
+2479,6,English,6,1,4,Change to passive voice: They clean the room. (Example 43)
+2480,6,English,6,1,5,Identify the type of sentence: 'The sun rises.' (Example 230)
+2481,6,English,6,2,1,Change to passive voice: They clean the room. (Example 79)
+2482,6,English,6,2,2,Identify the type of sentence: 'Is he coming?' (Example 261)
+2483,6,English,6,2,3,Identify the type of sentence: 'Is he coming?' (Example 294)
+2484,6,English,6,2,4,Identify the type of sentence: 'The sun rises.' (Example 211)
+2485,6,English,6,2,5,What does the idiom 'Under the weather' mean? (Example 343)
+2486,6,English,6,3,1,What does the idiom 'Once in a blue moon' mean? (Example 897)
+2487,6,English,6,3,2,Identify the type of sentence: 'How beautiful!' (Example 120)
+2488,6,English,6,3,3,What does the idiom 'Under the weather' mean? (Example 918)
+2489,6,English,6,3,4,What does the idiom 'Piece of cake' mean? (Example 117)
+2490,6,English,6,3,5,What does the idiom 'Once in a blue moon' mean? (Example 196)
+2491,6,English,7,1,1,Identify the type of sentence: 'Is he coming?' (Example 854)
+2492,6,English,7,1,2,What does the idiom 'Once in a blue moon' mean? (Example 686)
+2493,6,English,7,1,3,Change to passive voice: He plays football. (Example 295)
+2494,6,English,7,1,4,Identify the type of sentence: 'How beautiful!' (Example 789)
+2495,6,English,7,1,5,Change to passive voice: They clean the room. (Example 414)
+2496,6,English,7,2,1,Identify the type of sentence: 'The sun rises.' (Example 718)
+2497,6,English,7,2,2,Identify the type of sentence: 'The sun rises.' (Example 461)
+2498,6,English,7,2,3,Identify the type of sentence: 'Is he coming?' (Example 238)
+2499,6,English,7,2,4,Identify the type of sentence: 'How beautiful!' (Example 252)
+2500,6,English,7,2,5,What does the idiom 'Once in a blue moon' mean? (Example 808)
+2501,6,English,7,3,1,Identify the type of sentence: 'Is he coming?' (Example 583)
+2502,6,English,7,3,2,What does the idiom 'Piece of cake' mean? (Example 447)
+2503,6,English,7,3,3,What does the idiom 'Under the weather' mean? (Example 426)
+2504,6,English,7,3,4,What does the idiom 'Once in a blue moon' mean? (Example 371)
+2505,6,English,7,3,5,Change to passive voice: He plays football. (Example 864)
+2506,6,English,8,1,1,What does the idiom 'Once in a blue moon' mean? (Example 801)
+2507,6,English,8,1,2,Identify the type of sentence: 'How beautiful!' (Example 905)
+2508,6,English,8,1,3,What does the idiom 'Once in a blue moon' mean? (Example 692)
+2509,6,English,8,1,4,Identify the type of sentence: 'Is he coming?' (Example 709)
+2510,6,English,8,1,5,What does the idiom 'Piece of cake' mean?
+2511,6,English,8,2,1,Identify the type of sentence: 'Is he coming?' (Example 21)
+2512,6,English,8,2,2,What does the idiom 'Once in a blue moon' mean? (Example 568)
+2513,6,English,8,2,3,Change to passive voice: She reads a book. (Example 966)
+2514,6,English,8,2,4,What does the idiom 'Once in a blue moon' mean? (Example 673)
+2515,6,English,8,2,5,What does the idiom 'Under the weather' mean? (Example 423)
+2516,6,English,8,3,1,Identify the type of sentence: 'How beautiful!'
+2517,6,English,8,3,2,Identify the type of sentence: 'The sun rises.' (Example 19)
+2518,6,English,8,3,3,Identify the type of sentence: 'The sun rises.' (Example 149)
+2519,6,English,8,3,4,Change to passive voice: She reads a book. (Example 677)
+2520,6,English,8,3,5,What does the idiom 'Under the weather' mean? (Example 739)
+2521,6,English,9,1,1,Change to passive voice: He plays football. (Example 672)
+2522,6,English,9,1,2,Identify the type of sentence: 'How beautiful!' (Example 500)
+2523,6,English,9,1,3,What does the idiom 'Under the weather' mean? (Example 944)
+2524,6,English,9,1,4,Identify the type of sentence: 'Is he coming?' (Example 733)
+2525,6,English,9,1,5,What does the idiom 'Under the weather' mean? (Example 987)
+2526,6,English,9,2,1,Change to passive voice: They clean the room. (Example 230)
+2527,6,English,9,2,2,Identify the type of sentence: 'Is he coming?' (Example 153)
+2528,6,English,9,2,3,What does the idiom 'Piece of cake' mean? (Example 481)
+2529,6,English,9,2,4,Identify the type of sentence: 'The sun rises.' (Example 989)
+2530,6,English,9,2,5,Change to passive voice: He plays football. (Example 190)
+2531,6,English,9,3,1,Identify the type of sentence: 'How beautiful!' (Example 486)
+2532,6,English,9,3,2,Identify the type of sentence: 'The sun rises.' (Example 768)
+2533,6,English,9,3,3,Change to passive voice: He plays football.
+2534,6,English,9,3,4,What does the idiom 'Under the weather' mean? (Example 807)
+2535,6,English,9,3,5,Identify the type of sentence: 'How beautiful!' (Example 86)
+2536,6,English,10,1,1,Change to passive voice: They clean the room. (Example 504)
+2537,6,English,10,1,2,Identify the type of sentence: 'How beautiful!' (Example 677)
+2538,6,English,10,1,3,What does the idiom 'Piece of cake' mean? (Example 827)
+2539,6,English,10,1,4,Change to passive voice: They clean the room. (Example 111)
+2540,6,English,10,1,5,What does the idiom 'Piece of cake' mean? (Example 892)
+2541,6,English,10,2,1,Identify the type of sentence: 'Is he coming?' (Example 241)
+2542,6,English,10,2,2,Change to passive voice: She reads a book.
+2543,6,English,10,2,3,Change to passive voice: He plays football. (Example 15)
+2544,6,English,10,2,4,Change to passive voice: He plays football. (Example 757)
+2545,6,English,10,2,5,Identify the type of sentence: 'The sun rises.'
+2546,6,English,10,3,1,Identify the type of sentence: 'How beautiful!' (Example 847)
+2547,6,English,10,3,2,What does the idiom 'Once in a blue moon' mean?
+2548,6,English,10,3,3,What does the idiom 'Once in a blue moon' mean? (Example 833)
+2549,6,English,10,3,4,What does the idiom 'Once in a blue moon' mean? (Example 453)
+2550,6,English,10,3,5,Identify the type of sentence: 'The sun rises.' (Example 742)
+2551,6,Science,1,1,1,How does Heater use electricity? (Q-429)
+2552,6,Science,1,1,2,How does Fan use electricity? (Q-620)
+2553,6,Science,1,1,3,What is the function of a Cell wall in a cell? (Q-149)
+2554,6,Science,1,1,4,Which planet is known as the 'Morning Star'? (Q-783)
+2555,6,Science,1,1,5,What is the function of a Mitochondria in a cell? (Q-831)
+2556,6,Science,1,2,1,How does Heater use electricity? (Q-553)
+2557,6,Science,1,2,2,How does Heater use electricity? (Q-972)
+2558,6,Science,1,2,3,What is the function of a Nucleus in a cell? (Q-297)
+2559,6,Science,1,2,4,Which planet is known as the 'Morning Star'? (Q-320)
+2560,6,Science,1,2,5,How does Heater use electricity? (Q-256)
+2561,6,Science,1,3,1,What is the function of a Nucleus in a cell? (Q-405)
+2562,6,Science,1,3,2,What is the function of a Mitochondria in a cell?
+2563,6,Science,1,3,3,How does Fan use electricity? (Q-828)
+2564,6,Science,1,3,4,Which planet is known as the 'Blue Planet'? (Q-339)
+2565,6,Science,1,3,5,How does Heater use electricity? (Q-634)
+2566,6,Science,2,1,1,Which planet is known as the 'Morning Star'? (Q-703)
+2567,6,Science,2,1,2,How does Bulb use electricity? (Q-902)
+2568,6,Science,2,1,3,Which planet is known as the 'Red Planet'? (Q-725)
+2569,6,Science,2,1,4,How does Fan use electricity? (Q-547)
+2570,6,Science,2,1,5,Which planet is known as the 'Blue Planet'? (Q-367)
+2571,6,Science,2,2,1,Which planet is known as the 'Blue Planet'? (Q-516)
+2572,6,Science,2,2,2,What is the function of a Cell wall in a cell? (Q-146)
+2573,6,Science,2,2,3,How does Bulb use electricity? (Q-617)
+2574,6,Science,2,2,4,Which planet is known as the 'Red Planet'? (Q-864)
+2575,6,Science,2,2,5,How does Fan use electricity? (Q-628)
+2576,6,Science,2,3,1,How does Fan use electricity? (Q-982)
+2577,6,Science,2,3,2,What is the function of a Cell wall in a cell? (Q-191)
+2578,6,Science,2,3,3,Which planet is known as the 'Red Planet'? (Q-425)
+2579,6,Science,2,3,4,How does Fan use electricity? (Q-681)
+2580,6,Science,2,3,5,How does Fan use electricity? (Q-431)
+2581,6,Science,3,1,1,How does Bulb use electricity? (Q-788)
+2582,6,Science,3,1,2,Which planet is known as the 'Morning Star'? (Q-698)
+2583,6,Science,3,1,3,How does Heater use electricity? (Q-600)
+2584,6,Science,3,1,4,How does Fan use electricity? (Q-815)
+2585,6,Science,3,1,5,Which planet is known as the 'Blue Planet'? (Q-601)
+2586,6,Science,3,2,1,Which planet is known as the 'Morning Star'? (Q-954)
+2587,6,Science,3,2,2,How does Heater use electricity? (Q-587)
+2588,6,Science,3,2,3,What is the function of a Mitochondria in a cell? (Q-600)
+2589,6,Science,3,2,4,How does Fan use electricity? (Q-124)
+2590,6,Science,3,2,5,What is the function of a Mitochondria in a cell? (Q-690)
+2591,6,Science,3,3,1,How does Bulb use electricity? (Q-660)
+2592,6,Science,3,3,2,What is the function of a Cell wall in a cell? (Q-459)
+2593,6,Science,3,3,3,Which planet is known as the 'Morning Star'? (Q-185)
+2594,6,Science,3,3,4,How does Heater use electricity? (Q-272)
+2595,6,Science,3,3,5,Which planet is known as the 'Morning Star'? (Q-338)
+2596,6,Science,4,1,1,Which planet is known as the 'Red Planet'? (Q-478)
+2597,6,Science,4,1,2,What is the function of a Mitochondria in a cell? (Q-462)
+2598,6,Science,4,1,3,What is the function of a Mitochondria in a cell? (Q-220)
+2599,6,Science,4,1,4,Which planet is known as the 'Red Planet'? (Q-257)
+2600,6,Science,4,1,5,What is the function of a Nucleus in a cell? (Q-699)
+2601,6,Science,4,2,1,What is the function of a Mitochondria in a cell? (Q-203)
+2602,6,Science,4,2,2,What is the function of a Nucleus in a cell? (Q-559)
+2603,6,Science,4,2,3,What is the function of a Cell wall in a cell? (Q-674)
+2604,6,Science,4,2,4,How does Bulb use electricity? (Q-824)
+2605,6,Science,4,2,5,What is the function of a Cell wall in a cell? (Q-499)
+2606,6,Science,4,3,1,Which planet is known as the 'Red Planet'? (Q-987)
+2607,6,Science,4,3,2,What is the function of a Cell wall in a cell? (Q-761)
+2608,6,Science,4,3,3,How does Fan use electricity? (Q-319)
+2609,6,Science,4,3,4,Which planet is known as the 'Red Planet'? (Q-217)
+2610,6,Science,4,3,5,What is the function of a Mitochondria in a cell? (Q-738)
+2611,6,Science,5,1,1,What is the function of a Cell wall in a cell? (Q-679)
+2612,6,Science,5,1,2,What is the function of a Nucleus in a cell? (Q-407)
+2613,6,Science,5,1,3,How does Bulb use electricity? (Q-874)
+2614,6,Science,5,1,4,How does Fan use electricity? (Q-592)
+2615,6,Science,5,1,5,What is the function of a Mitochondria in a cell? (Q-353)
+2616,6,Science,5,2,1,What is the function of a Mitochondria in a cell? (Q-512)
+2617,6,Science,5,2,2,Which planet is known as the 'Morning Star'?
+2618,6,Science,5,2,3,What is the function of a Cell wall in a cell? (Q-959)
+2619,6,Science,5,2,4,How does Heater use electricity? (Q-535)
+2620,6,Science,5,2,5,How does Fan use electricity? (Q-667)
+2621,6,Science,5,3,1,Which planet is known as the 'Morning Star'? (Q-782)
+2622,6,Science,5,3,2,What is the function of a Mitochondria in a cell? (Q-308)
+2623,6,Science,5,3,3,How does Fan use electricity? (Q-412)
+2624,6,Science,5,3,4,Which planet is known as the 'Blue Planet'? (Q-183)
+2625,6,Science,5,3,5,Which planet is known as the 'Blue Planet'?
+2626,6,Science,6,1,1,Which planet is known as the 'Red Planet'? (Q-570)
+2627,6,Science,6,1,2,Which planet is known as the 'Red Planet'? (Q-351)
+2628,6,Science,6,1,3,Which planet is known as the 'Blue Planet'? (Q-562)
+2629,6,Science,6,1,4,How does Fan use electricity? (Q-653)
+2630,6,Science,6,1,5,How does Heater use electricity? (Q-700)
+2631,6,Science,6,2,1,What is the function of a Mitochondria in a cell? (Q-390)
+2632,6,Science,6,2,2,What is the function of a Mitochondria in a cell? (Q-364)
+2633,6,Science,6,2,3,How does Heater use electricity? (Q-486)
+2634,6,Science,6,2,4,How does Bulb use electricity? (Q-774)
+2635,6,Science,6,2,5,What is the function of a Mitochondria in a cell? (Q-554)
+2636,6,Science,6,3,1,What is the function of a Cell wall in a cell? (Q-999)
+2637,6,Science,6,3,2,How does Bulb use electricity? (Q-650)
+2638,6,Science,6,3,3,What is the function of a Nucleus in a cell? (Q-961)
+2639,6,Science,6,3,4,What is the function of a Mitochondria in a cell? (Q-235)
+2640,6,Science,6,3,5,Which planet is known as the 'Red Planet'? (Q-287)
+2641,6,Science,7,1,1,Which planet is known as the 'Morning Star'? (Q-900)
+2642,6,Science,7,1,2,How does Fan use electricity? (Q-129)
+2643,6,Science,7,1,3,What is the function of a Cell wall in a cell? (Q-379)
+2644,6,Science,7,1,4,Which planet is known as the 'Morning Star'? (Q-401)
+2645,6,Science,7,1,5,Which planet is known as the 'Red Planet'?
+2646,6,Science,7,2,1,How does Bulb use electricity? (Q-729)
+2647,6,Science,7,2,2,What is the function of a Cell wall in a cell? (Q-633)
+2648,6,Science,7,2,3,What is the function of a Mitochondria in a cell? (Q-631)
+2649,6,Science,7,2,4,How does Fan use electricity?
+2650,6,Science,7,2,5,Which planet is known as the 'Red Planet'? (Q-223)
+2651,6,Science,7,3,1,What is the function of a Mitochondria in a cell? (Q-788)
+2652,6,Science,7,3,2,What is the function of a Cell wall in a cell? (Q-217)
+2653,6,Science,7,3,3,What is the function of a Nucleus in a cell? (Q-100)
+2654,6,Science,7,3,4,How does Bulb use electricity? (Q-932)
+2655,6,Science,7,3,5,How does Heater use electricity? (Q-745)
+2656,6,Science,8,1,1,How does Fan use electricity? (Q-379)
+2657,6,Science,8,1,2,How does Bulb use electricity? (Q-623)
+2658,6,Science,8,1,3,What is the function of a Nucleus in a cell? (Q-566)
+2659,6,Science,8,1,4,What is the function of a Cell wall in a cell?
+2660,6,Science,8,1,5,What is the function of a Nucleus in a cell?
+2661,6,Science,8,2,1,How does Heater use electricity?
+2662,6,Science,8,2,2,Which planet is known as the 'Red Planet'? (Q-127)
+2663,6,Science,8,2,3,Which planet is known as the 'Morning Star'? (Q-200)
+2664,6,Science,8,2,4,What is the function of a Cell wall in a cell? (Q-943)
+2665,6,Science,8,2,5,How does Bulb use electricity? (Q-535)
+2666,6,Science,8,3,1,What is the function of a Cell wall in a cell? (Q-491)
+2667,6,Science,8,3,2,What is the function of a Nucleus in a cell? (Q-761)
+2668,6,Science,8,3,3,How does Bulb use electricity? (Q-842)
+2669,6,Science,8,3,4,What is the function of a Mitochondria in a cell? (Q-179)
+2670,6,Science,8,3,5,How does Fan use electricity? (Q-843)
+2671,6,Science,9,1,1,Which planet is known as the 'Red Planet'? (Q-427)
+2672,6,Science,9,1,2,Which planet is known as the 'Blue Planet'? (Q-213)
+2673,6,Science,9,1,3,How does Heater use electricity? (Q-478)
+2674,6,Science,9,1,4,What is the function of a Mitochondria in a cell? (Q-646)
+2675,6,Science,9,1,5,Which planet is known as the 'Blue Planet'? (Q-533)
+2676,6,Science,9,2,1,What is the function of a Nucleus in a cell? (Q-942)
+2677,6,Science,9,2,2,How does Fan use electricity? (Q-669)
+2678,6,Science,9,2,3,What is the function of a Cell wall in a cell? (Q-894)
+2679,6,Science,9,2,4,Which planet is known as the 'Morning Star'? (Q-947)
+2680,6,Science,9,2,5,Which planet is known as the 'Red Planet'? (Q-991)
+2681,6,Science,9,3,1,How does Fan use electricity? (Q-614)
+2682,6,Science,9,3,2,Which planet is known as the 'Morning Star'? (Q-653)
+2683,6,Science,9,3,3,Which planet is known as the 'Red Planet'? (Q-910)
+2684,6,Science,9,3,4,How does Heater use electricity? (Q-751)
+2685,6,Science,9,3,5,What is the function of a Cell wall in a cell? (Q-116)
+2686,6,Science,10,1,1,How does Fan use electricity? (Q-447)
+2687,6,Science,10,1,2,What is the function of a Cell wall in a cell? (Q-798)
+2688,6,Science,10,1,3,How does Bulb use electricity? (Q-128)
+2689,6,Science,10,1,4,What is the function of a Nucleus in a cell? (Q-759)
+2690,6,Science,10,1,5,What is the function of a Nucleus in a cell? (Q-458)
+2691,6,Science,10,2,1,How does Heater use electricity? (Q-721)
+2692,6,Science,10,2,2,How does Heater use electricity? (Q-767)
+2693,6,Science,10,2,3,How does Heater use electricity? (Q-646)
+2694,6,Science,10,2,4,Which planet is known as the 'Blue Planet'? (Q-854)
+2695,6,Science,10,2,5,Which planet is known as the 'Blue Planet'? (Q-396)
+2696,6,Science,10,3,1,Which planet is known as the 'Morning Star'? (Q-794)
+2697,6,Science,10,3,2,What is the function of a Nucleus in a cell? (Q-119)
+2698,6,Science,10,3,3,Which planet is known as the 'Red Planet'? (Q-821)
+2699,6,Science,10,3,4,How does Bulb use electricity? (Q-307)
+2700,6,Science,10,3,5,How does Bulb use electricity?
