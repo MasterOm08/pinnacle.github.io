@@ -1,7 +1,7 @@
 # PadhoPlay - A Gamified Education Application For Rural Education
 
 ## Tech Stack
-### Flutter/Dart - Frontend
+### Flutter/Dart - Frontend (google antigravity)
 ### Firebase - Backend/Cloud Service
 ### VS Code, Git, GIthub - Development Tools
 
