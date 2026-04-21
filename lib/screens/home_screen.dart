@@ -9,10 +9,8 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-
     return Scaffold(
       backgroundColor: const Color(0xFFF5F7FB),
-
       appBar: AppBar(
         elevation: 0,
         backgroundColor: Colors.transparent,
@@ -25,13 +23,10 @@ class HomeScreen extends StatelessWidget {
           ),
         ),
       ),
-
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-
           const SizedBox(height: 10),
-
           const Padding(
             padding: EdgeInsets.symmetric(horizontal: 20),
             child: Text(
@@ -42,64 +37,63 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
           ),
-
           const SizedBox(height: 20),
-
           Expanded(
             child: ListView(
               children: [
-
+                // --- MATH CARD ---
                 SubjectCard(
                   title: "Math",
                   icon: Icons.calculate,
                   gradient: const [
                     Color(0xFF4FACFE),
-                    Color(0xFF00F2FE)
+                    Color(0xFF00F2FE),
                   ],
                   onTap: () {
                     Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (_) => const TopicScreen(category: 'Maths'),
+                      context,
+                      MaterialPageRoute(
+                        builder: (_) => const TopicScreen(category: 'Maths'),
                       ),
                     );
                   },
                 ),
 
+                // --- SCIENCE CARD ---
                 SubjectCard(
                   title: "Science",
                   icon: Icons.science,
                   gradient: const [
                     Color(0xFF43E97B),
-                    Color(0xFF38F9D7)
+                    Color(0xFF38F9D7),
                   ],
                   onTap: () {
                     Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (_) => const ScienceScreen(),
+                      context,
+                      MaterialPageRoute(
+                        builder: (_) => const ScienceScreen(),
                       ),
                     );
                   },
                 ),
 
+                // --- ENGLISH CARD ---
                 SubjectCard(
                   title: "English",
                   icon: Icons.menu_book,
                   gradient: const [
                     Color(0xFFFF758C),
-                    Color(0xFFFF7EB3)
+                    Color(0xFFFF7EB3),
                   ],
                   onTap: () {
                     Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (_) => const EnglishScreen(),
+                      context,
+                      MaterialPageRoute(
+                        builder: (_) => const EnglishScreen(),
                       ),
                     );
                   },
                 ),
-
               ],
             ),
           ),
@@ -114,7 +108,6 @@ class HomeScreen extends StatelessWidget {
 ////////////////////////////////////////////////////////////
 
 class SubjectCard extends StatefulWidget {
-
   final String title;
   final IconData icon;
   final List<Color> gradient;
@@ -133,33 +126,26 @@ class SubjectCard extends StatefulWidget {
 }
 
 class _SubjectCardState extends State<SubjectCard> {
-
   double scale = 1.0;
 
   @override
   Widget build(BuildContext context) {
-
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
-
       child: AnimatedScale(
         scale: scale,
         duration: const Duration(milliseconds: 120),
-
         child: Material(
           borderRadius: BorderRadius.circular(24),
           elevation: 6,
           child: InkWell(
             borderRadius: BorderRadius.circular(24),
-
             onTap: widget.onTap,
-
             onHighlightChanged: (value) {
               setState(() {
                 scale = value ? 0.96 : 1.0;
               });
             },
-
             child: Ink(
               height: 85,
               decoration: BoxDecoration(
@@ -168,20 +154,15 @@ class _SubjectCardState extends State<SubjectCard> {
                   colors: widget.gradient,
                 ),
               ),
-
               child: Row(
                 children: [
-
                   const SizedBox(width: 20),
-
                   Icon(
                     widget.icon,
                     color: Colors.white,
                     size: 32,
                   ),
-
                   const SizedBox(width: 20),
-
                   Text(
                     widget.title,
                     style: const TextStyle(
@@ -190,7 +171,6 @@ class _SubjectCardState extends State<SubjectCard> {
                       fontWeight: FontWeight.bold,
                     ),
                   ),
-
                 ],
               ),
             ),

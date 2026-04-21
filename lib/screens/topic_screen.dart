@@ -24,7 +24,7 @@ class TopicScreen extends StatelessWidget {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => QuestionListScreen(
+                  builder: (context) => QuestionScreen(
                     category: category,
                     topic: mathTopics[index],
                   ),
