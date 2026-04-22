@@ -1,181 +1,107 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_test1/screens/math_screen.dart';
-import 'package:flutter_test1/screens/science_screen.dart';
-import 'package:flutter_test1/screens/english_screen.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_test1/screens/topic_screen.dart';
+import 'package:flutter_test1/screens/profile_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
+    final user = FirebaseAuth.instance.currentUser;
+    final String displayName = user?.displayName ?? "Student";
+
     return Scaffold(
-      backgroundColor: const Color(0xFFF5F7FB),
+      backgroundColor: const Color(0xFFF8FAFF),
       appBar: AppBar(
+        backgroundColor: Colors.white,
         elevation: 0,
-        backgroundColor: Colors.transparent,
-        centerTitle: true,
-        title: const Text(
-          "PadhoPlay",
-          style: TextStyle(
-            color: Colors.black,
-            fontWeight: FontWeight.bold,
+        centerTitle: false,
+        title: const Text("PadhoPlay", style: TextStyle(color: Colors.black, fontWeight: FontWeight.w900)),
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.account_circle_outlined, color: Colors.blueAccent, size: 30),
+            onPressed: () {
+              Navigator.push(context, MaterialPageRoute(builder: (context) => const ProfileScreen()));
+            },
           ),
-        ),
-      ),
-      body: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          const SizedBox(height: 10),
-          const Padding(
-            padding: EdgeInsets.symmetric(horizontal: 20),
-            child: Text(
-              "Choose a Subject",
-              style: TextStyle(
-                fontSize: 26,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-          ),
-          const SizedBox(height: 20),
-          Expanded(
-            child: ListView(
-              children: [
-                // --- MATH CARD ---
-                SubjectCard(
-                  title: "Math",
-                  icon: Icons.calculate,
-                  gradient: const [
-                    Color(0xFF4FACFE),
-                    Color(0xFF00F2FE),
-                  ],
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (_) => const TopicScreen(category: 'Maths'),
-                      ),
-                    );
-                  },
-                ),
-
-                // --- SCIENCE CARD ---
-                SubjectCard(
-                  title: "Science",
-                  icon: Icons.science,
-                  gradient: const [
-                    Color(0xFF43E97B),
-                    Color(0xFF38F9D7),
-                  ],
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (_) => const ScienceScreen(),
-                      ),
-                    );
-                  },
-                ),
-
-                // --- ENGLISH CARD ---
-                SubjectCard(
-                  title: "English",
-                  icon: Icons.menu_book,
-                  gradient: const [
-                    Color(0xFFFF758C),
-                    Color(0xFFFF7EB3),
-                  ],
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (_) => const EnglishScreen(),
-                      ),
-                    );
-                  },
-                ),
-              ],
-            ),
-          ),
+          const SizedBox(width: 10),
         ],
+      ),
+      body: SingleChildScrollView(
+        padding: const EdgeInsets.all(20.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text("Hello, $displayName!", style: const TextStyle(fontSize: 28, fontWeight: FontWeight.w900)),
+            const SizedBox(height: 8),
+            Text("What would you like to learn today?", style: TextStyle(fontSize: 16, color: Colors.grey[600])),
+            const SizedBox(height: 30),
+
+            const Text("Subjects", style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+            const SizedBox(height: 15),
+            
+            _buildSubjectCard(
+              context,
+              title: "Mathematics",
+              subtitle: "Algebra, Geometry & Arithmetic",
+              icon: Icons.calculate_rounded,
+              color: Colors.orange,
+            ),
+            const SizedBox(height: 15),
+            
+            _buildSubjectCard(
+              context,
+              title: "Science",
+              subtitle: "Biology, Physics & Chemistry",
+              icon: Icons.science_rounded,
+              color: Colors.green,
+            ),
+            const SizedBox(height: 15),
+
+            // ENGLISH IS BACK
+            _buildSubjectCard(
+              context,
+              title: "English",
+              subtitle: "Grammar, Vocab & Literature",
+              icon: Icons.menu_book_rounded,
+              color: Colors.blueAccent,
+            ),
+          ],
+        ),
       ),
     );
   }
-}
 
-////////////////////////////////////////////////////////////
-/// ULTRA MODERN SUBJECT CARD
-////////////////////////////////////////////////////////////
-
-class SubjectCard extends StatefulWidget {
-  final String title;
-  final IconData icon;
-  final List<Color> gradient;
-  final VoidCallback onTap;
-
-  const SubjectCard({
-    super.key,
-    required this.title,
-    required this.icon,
-    required this.gradient,
-    required this.onTap,
-  });
-
-  @override
-  State<SubjectCard> createState() => _SubjectCardState();
-}
-
-class _SubjectCardState extends State<SubjectCard> {
-  double scale = 1.0;
-
-  @override
-  Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
-      child: AnimatedScale(
-        scale: scale,
-        duration: const Duration(milliseconds: 120),
-        child: Material(
-          borderRadius: BorderRadius.circular(24),
-          elevation: 6,
-          child: InkWell(
-            borderRadius: BorderRadius.circular(24),
-            onTap: widget.onTap,
-            onHighlightChanged: (value) {
-              setState(() {
-                scale = value ? 0.96 : 1.0;
-              });
-            },
-            child: Ink(
-              height: 85,
-              decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(24),
-                gradient: LinearGradient(
-                  colors: widget.gradient,
-                ),
-              ),
-              child: Row(
-                children: [
-                  const SizedBox(width: 20),
-                  Icon(
-                    widget.icon,
-                    color: Colors.white,
-                    size: 32,
-                  ),
-                  const SizedBox(width: 20),
-                  Text(
-                    widget.title,
-                    style: const TextStyle(
-                      color: Colors.white,
-                      fontSize: 22,
-                      fontWeight: FontWeight.bold,
-                    ),
-                  ),
-                ],
-              ),
-            ),
-          ),
+  Widget _buildSubjectCard(BuildContext context, {
+    required String title, 
+    required String subtitle, 
+    required IconData icon, 
+    required Color color
+  }) {
+    return Container(
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(20),
+        boxShadow: [BoxShadow(color: Colors.grey.withOpacity(0.1), blurRadius: 10, offset: const Offset(0, 5))],
+      ),
+      child: ListTile(
+        contentPadding: const EdgeInsets.all(15),
+        leading: Container(
+          padding: const EdgeInsets.all(10),
+          decoration: BoxDecoration(color: color.withOpacity(0.1), borderRadius: BorderRadius.circular(12)),
+          child: Icon(icon, color: color, size: 30),
         ),
+        title: Text(title, style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18)),
+        subtitle: Text(subtitle),
+        trailing: const Icon(Icons.arrow_forward_ios_rounded, size: 18),
+        onTap: () {
+          // This passes the "title" (e.g. "English") to the TopicScreen
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => TopicScreen(category: title)),
+          );
+        },
       ),
     );
   }
